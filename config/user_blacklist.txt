@@ -2,3 +2,11 @@
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
 bxtv.3a.ink
+catvod
+APTV
+https://www.freetv.top/
+smart.pendy.dpdns.org
+120.76.248.139/live/bfgd/
+player.cntv.cn/standard/
+cd-live-stream.news.cctvplus.com
+global.cgtn.cicc.media.caton.cloud
