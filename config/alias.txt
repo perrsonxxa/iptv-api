@@ -133,3 +133,12 @@ NewTV中国功夫,NEWTV中国功夫,中国功夫
 
 四川卫视,四川卫视4K,四川卫视4K25,四川卫视4K50
 湖南卫视,湖南卫视4K,湖南卫视4K25,湖南卫视4K50
+
+中天新闻,中天新闻台,中天新闻 HD,中天新闻台 HD,中天新聞,中天新聞臺,中天新聞 HD,中天新聞臺 HD
+BBC News,BBC,BBC News Europe,BBC World News,BBC WORLD NEWS,BBC News Asia Pacific (1080p),BBC News Asia Pacific,BBC Two HD
+ABC News,ABC,ABC NEWS
+CNN International,CNN,CNN News
+Fox News,Fox,FOX NEWS,FOX,FOXNEWS
+Al Jazeera English,半岛电视,半岛电视台,Al Jazeera English (1080p),半岛新闻「英语」,半岛新闻「英文」
+Arirang,Arirang 阿里郎,Arirang TV
+Sky News,SkyNews,SKY NEWS,SKYNEWS
