@@ -43,9 +43,11 @@ WCBA评,#genre#
 国🔊09抖述评,http://rihou.cc:555/tv/09WCBA抖述评
 CBA赛评,#genre#
 04-02⬇️CBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
-19:35南京天蓝🆚宁波町渥,http://rihou.cc:555/tv/v
-国🔊02抖评述,http://rihou.cc:555/tv/02CBA抖评述
 19:35深圳马可🆚浙江浙商,http://rihou.cc:555/tv/v
+粤🔊'丁伟杰述,http://rihou.cc:555/tv/02CBA丁伟杰
+粤🔊'广东体育,http://rihou.cc:555/tv/[At|]广东体育
+国🔊02抖评述,http://rihou.cc:555/tv/02CBA抖评述
+19:35南京天蓝🆚宁波町渥,http://rihou.cc:555/tv/v
 国🔊02抖述评,http://rihou.cc:555/tv/02CBA抖述评
 04-03⬇️CBA常规赛⬇️🏀📡,http://rihou.cc:555/tv/t
 19:35广州朗肽🆚北京北汽,http://rihou.cc:555/tv/v
