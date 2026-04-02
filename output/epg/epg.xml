@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260402030353 +0800">
+<tv date="20260402052933 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -1946,6 +1946,129 @@
 	</programme>
 	<programme channel="CGTN" start="20260402233000 +0800" stop="20260402235959 +0800">
 		<title lang="zh">文化速递</title>
+	</programme>
+	<channel id="CCTV-4K">
+		<display-name lang="zh">CCTV-4K</display-name>
+	</channel>
+	<programme channel="CCTV-4K" start="20260402000000 +0800" stop="20260402060125 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402060125 +0800" stop="20260402063125 +0800">
+		<title lang="zh">农耕探文明(4K)</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402063125 +0800" stop="20260402064125 +0800">
+		<title lang="zh">中华古树黄山迎客松(4K)</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402064125 +0800" stop="20260402070605 +0800">
+		<title lang="zh">青苹之末5(4K)</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402070605 +0800" stop="20260402071055 +0800">
+		<title lang="zh">大国小鲜——石榴说1(4K)</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402071055 +0800" stop="20260402072055 +0800">
+		<title lang="zh">2024秘境之眼风舞雅江(4K)</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402072055 +0800" stop="20260402080255 +0800">
+		<title lang="zh">远方的家(4K)</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402080255 +0800" stop="20260402085225 +0800">
+		<title lang="zh">大地之上6(4K)</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402085225 +0800" stop="20260402085715 +0800">
+		<title lang="zh">中国微名片世界遗产(第二季)3(4K)</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402085825 +0800" stop="20260402094425 +0800">
+		<title lang="zh">我们的河山(4K)第15集</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402094455 +0800" stop="20260402103055 +0800">
+		<title lang="zh">我们的河山(4K)第16集</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402103055 +0800" stop="20260402111055 +0800">
+		<title lang="zh">探索发现(4K)</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402111055 +0800" stop="20260402120025 +0800">
+		<title lang="zh">舌尖上的中国第四季4(4K)</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402120035 +0800" stop="20260402123035 +0800">
+		<title lang="zh">农耕探文明(4K)</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402123035 +0800" stop="20260402124035 +0800">
+		<title lang="zh">中华古树红岩松(4K)</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402124035 +0800" stop="20260402130515 +0800">
+		<title lang="zh">青苹之末5(4K)</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402130515 +0800" stop="20260402130645 +0800">
+		<title lang="zh">4K宣传片2026品牌强国工程2</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402130645 +0800" stop="20260402131005 +0800">
+		<title lang="zh">4K垫播节目美丽中国2025四季1</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402131005 +0800" stop="20260402132005 +0800">
+		<title lang="zh">2024秘境之眼风舞雅江(4K)</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402132005 +0800" stop="20260402140205 +0800">
+		<title lang="zh">远方的家(4K)</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402140205 +0800" stop="20260402144805 +0800">
+		<title lang="zh">藏海传(4K)第22集</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402144835 +0800" stop="20260402153435 +0800">
+		<title lang="zh">藏海传(4K)第23集</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402153605 +0800" stop="20260402162535 +0800">
+		<title lang="zh">大地之上6(4K)</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402162535 +0800" stop="20260402170535 +0800">
+		<title lang="zh">探索发现(4K)</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402170535 +0800" stop="20260402170635 +0800">
+		<title lang="zh">4K宣传片2026品牌强国工程1</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402170635 +0800" stop="20260402171025 +0800">
+		<title lang="zh">4K垫播节目美丽中国2025四季1</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402171025 +0800" stop="20260402175955 +0800">
+		<title lang="zh">舌尖上的中国第四季4(4K)</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402180035 +0800" stop="20260402183035 +0800">
+		<title lang="zh">农耕探文明(4K)</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402183035 +0800" stop="20260402184035 +0800">
+		<title lang="zh">中华古树阳朔古榕树(4K)</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402184035 +0800" stop="20260402190525 +0800">
+		<title lang="zh">丹青绘千年1(4K)</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402190525 +0800" stop="20260402191015 +0800">
+		<title lang="zh">大国小鲜——石榴说2(4K)</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402191015 +0800" stop="20260402192015 +0800">
+		<title lang="zh">2024秘境之眼雉舞贡嘎(4K)</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402192015 +0800" stop="20260402200215 +0800">
+		<title lang="zh">远方的家(4K)</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402200245 +0800" stop="20260402200445 +0800">
+		<title lang="zh">4K宣传片中华考工记</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402200455 +0800" stop="20260402205055 +0800">
+		<title lang="zh">我们的河山(4K)第17集</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402205130 +0800" stop="20260402213730 +0800">
+		<title lang="zh">我们的河山(4K)第18集</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402213750 +0800" stop="20260402222720 +0800">
+		<title lang="zh">跟着唐诗去旅行(第二季)1(4K)</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402222720 +0800" stop="20260402230720 +0800">
+		<title lang="zh">探索发现(4K)</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402230720 +0800" stop="20260402235650 +0800">
+		<title lang="zh">舌尖上的中国第四季5(4K)</title>
+	</programme>
+	<programme channel="CCTV-4K" start="20260402235650 +0800" stop="20260402235925 +0800">
+		<title lang="zh">4K垫播节目丝绸之旅2025</title>
 	</programme>
 	<channel id="重庆卫视">
 		<display-name lang="zh">重庆卫视</display-name>
@@ -9294,6 +9417,51 @@
 	<channel id="香港卫视">
 		<display-name lang="zh">香港卫视</display-name>
 	</channel>
+	<channel id="爱上4K">
+		<display-name lang="zh">爱上4K</display-name>
+	</channel>
+	<programme channel="爱上4K" start="20260402000000 +0800" stop="20260402003400 +0800">
+		<title lang="zh">速度与激情5普通话版</title>
+	</programme>
+	<programme channel="爱上4K" start="20260402003400 +0800" stop="20260402020600 +0800">
+		<title lang="zh">月球</title>
+	</programme>
+	<programme channel="爱上4K" start="20260402020600 +0800" stop="20260402040000 +0800">
+		<title lang="zh">速度与激情5普通话版</title>
+	</programme>
+	<programme channel="爱上4K" start="20260402040000 +0800" stop="20260402060900 +0800">
+		<title lang="zh">速度与激情6普通话版</title>
+	</programme>
+	<programme channel="爱上4K" start="20260402060900 +0800" stop="20260402074400 +0800">
+		<title lang="zh">功夫熊猫3</title>
+	</programme>
+	<programme channel="爱上4K" start="20260402074400 +0800" stop="20260402095400 +0800">
+		<title lang="zh">速度与激情6普通话版</title>
+	</programme>
+	<programme channel="爱上4K" start="20260402095400 +0800" stop="20260402112900 +0800">
+		<title lang="zh">功夫熊猫3</title>
+	</programme>
+	<programme channel="爱上4K" start="20260402112900 +0800" stop="20260402133800 +0800">
+		<title lang="zh">速度与激情6普通话版</title>
+	</programme>
+	<programme channel="爱上4K" start="20260402133800 +0800" stop="20260402151400 +0800">
+		<title lang="zh">功夫熊猫3</title>
+	</programme>
+	<programme channel="爱上4K" start="20260402151400 +0800" stop="20260402172300 +0800">
+		<title lang="zh">速度与激情6普通话版</title>
+	</programme>
+	<programme channel="爱上4K" start="20260402172300 +0800" stop="20260402185800 +0800">
+		<title lang="zh">功夫熊猫3</title>
+	</programme>
+	<programme channel="爱上4K" start="20260402185800 +0800" stop="20260402210800 +0800">
+		<title lang="zh">速度与激情6普通话版</title>
+	</programme>
+	<programme channel="爱上4K" start="20260402210800 +0800" stop="20260402224300 +0800">
+		<title lang="zh">功夫熊猫3</title>
+	</programme>
+	<programme channel="爱上4K" start="20260402224300 +0800" stop="20260402235900 +0800">
+		<title lang="zh">速度与激情6普通话版</title>
+	</programme>
 	<channel id="安徽综艺体育">
 		<display-name lang="zh">安徽综艺体育</display-name>
 	</channel>
@@ -10587,6 +10755,312 @@
 	<programme channel="天津体育" start="20260402225500 +0800" stop="20260402235959 +0800">
 		<title lang="zh">体育赛事</title>
 	</programme>
+	<channel id="4K纪实">
+		<display-name lang="zh">4K纪实</display-name>
+	</channel>
+	<programme channel="4K纪实" start="20260402000000 +0800" stop="20260402001042 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402001042 +0800" stop="20260402002333 +0800">
+		<title lang="zh">非洲调查报告贝宁16当地的食物</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402002333 +0800" stop="20260402003748 +0800">
+		<title lang="zh">非洲调查报告贝宁1735岁生日</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402003748 +0800" stop="20260402004444 +0800">
+		<title lang="zh">非洲调查报告贝宁18云南建投</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402004444 +0800" stop="20260402005433 +0800">
+		<title lang="zh">非洲调查报告贝宁19农业学校</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402005433 +0800" stop="20260402010322 +0800">
+		<title lang="zh">非洲调查报告贝宁20波多诺伏</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402010322 +0800" stop="20260402011321 +0800">
+		<title lang="zh">非洲调查报告贝宁21摩托车手</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402011321 +0800" stop="20260402012050 +0800">
+		<title lang="zh">非洲调查报告贝宁22农业学校的餐厅</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402012050 +0800" stop="20260402012852 +0800">
+		<title lang="zh">非洲调查报告贝宁23城市景色</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402012852 +0800" stop="20260402013849 +0800">
+		<title lang="zh">非洲调查报告贝宁24汇率学校小吃</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402013849 +0800" stop="20260402014733 +0800">
+		<title lang="zh">非洲调查报告贝宁25非洲威尼斯冈维埃</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402014733 +0800" stop="20260402015620 +0800">
+		<title lang="zh">非洲调查报告贝宁26沧海一声笑</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402015620 +0800" stop="20260402020513 +0800">
+		<title lang="zh">非洲调查报告贝宁27只记今朝笑</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402020513 +0800" stop="20260402021453 +0800">
+		<title lang="zh">非洲调查报告贝宁28阿波美</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402021453 +0800" stop="20260402022339 +0800">
+		<title lang="zh">非洲调查报告贝宁29达萨祖梅到帕拉库</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402022339 +0800" stop="20260402024306 +0800">
+		<title lang="zh">非洲调查报告贝宁30来非洲调查市场</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402024306 +0800" stop="20260402025007 +0800">
+		<title lang="zh">非洲调查报告贝宁31再见帕拉库</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402025007 +0800" stop="20260402025829 +0800">
+		<title lang="zh">非洲调查报告贝宁32农地</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402025829 +0800" stop="20260402030741 +0800">
+		<title lang="zh">非洲调查报告贝宁33农作物</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402030741 +0800" stop="20260402031839 +0800">
+		<title lang="zh">非洲调查报告贝宁34高粱酒</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402031839 +0800" stop="20260402032643 +0800">
+		<title lang="zh">非洲调查报告贝宁35回城</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402032643 +0800" stop="20260402033832 +0800">
+		<title lang="zh">非洲调查报告贝宁36吃饭之争</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402033832 +0800" stop="20260402034626 +0800">
+		<title lang="zh">非洲调查报告贝宁3760多个国家</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402034626 +0800" stop="20260402035248 +0800">
+		<title lang="zh">非洲调查报告贝宁38地狱之门</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402035248 +0800" stop="20260402040604 +0800">
+		<title lang="zh">百年机遇01</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402040604 +0800" stop="20260402041716 +0800">
+		<title lang="zh">百年机遇02</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402041716 +0800" stop="20260402042906 +0800">
+		<title lang="zh">百年机遇03</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402042906 +0800" stop="20260402043941 +0800">
+		<title lang="zh">百年机遇04</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402043941 +0800" stop="20260402045236 +0800">
+		<title lang="zh">百年机遇05</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402045236 +0800" stop="20260402050616 +0800">
+		<title lang="zh">百年机遇06</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402050616 +0800" stop="20260402052018 +0800">
+		<title lang="zh">百年机遇07</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402052018 +0800" stop="20260402053629 +0800">
+		<title lang="zh">后期吧魁叔第2季纳米比亚01</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402053629 +0800" stop="20260402055219 +0800">
+		<title lang="zh">后期吧魁叔第2季纳米比亚02</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402055219 +0800" stop="20260402060836 +0800">
+		<title lang="zh">后期吧魁叔第2季纳米比亚03</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402060836 +0800" stop="20260402062156 +0800">
+		<title lang="zh">后期吧魁叔第2季纳米比亚04</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402062156 +0800" stop="20260402063539 +0800">
+		<title lang="zh">后期吧魁叔第2季纳米比亚05</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402063539 +0800" stop="20260402065415 +0800">
+		<title lang="zh">后期吧魁叔第2季纳米比亚06</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402065415 +0800" stop="20260402071043 +0800">
+		<title lang="zh">后期吧魁叔第2季纳米比亚07</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402071043 +0800" stop="20260402073006 +0800">
+		<title lang="zh">俯瞰青海第1季海北</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402073006 +0800" stop="20260402074755 +0800">
+		<title lang="zh">俯瞰青海第1季西宁</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402074755 +0800" stop="20260402080548 +0800">
+		<title lang="zh">俯瞰青海第1季综述</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402080548 +0800" stop="20260402081210 +0800">
+		<title lang="zh">玩儿出格01江户切子体验</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402081210 +0800" stop="20260402082154 +0800">
+		<title lang="zh">玩儿出格02达摩</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402082154 +0800" stop="20260402082725 +0800">
+		<title lang="zh">玩儿出格03头文字D博物馆</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402082725 +0800" stop="20260402083752 +0800">
+		<title lang="zh">玩儿出格04头文字D秋名山</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402083752 +0800" stop="20260402084728 +0800">
+		<title lang="zh">玩儿出格05音乐节</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402084728 +0800" stop="20260402085638 +0800">
+		<title lang="zh">玩儿出格06米饼</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402085638 +0800" stop="20260402090326 +0800">
+		<title lang="zh">玩儿出格07曲木便当盒</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402090326 +0800" stop="20260402091141 +0800">
+		<title lang="zh">玩儿出格08秋田</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402091141 +0800" stop="20260402091810 +0800">
+		<title lang="zh">玩儿出格09津轻涂</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402091810 +0800" stop="20260402092432 +0800">
+		<title lang="zh">玩儿出格10海鲜大餐</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402092432 +0800" stop="20260402093258 +0800">
+		<title lang="zh">玩儿出格11睡魔前</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402093258 +0800" stop="20260402094427 +0800">
+		<title lang="zh">玩儿出格12睡魔祭</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402094427 +0800" stop="20260402095414 +0800">
+		<title lang="zh">玩儿出格13荞麦面挑战</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402095414 +0800" stop="20260402100455 +0800">
+		<title lang="zh">玩儿出格14三飒舞祭</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402100455 +0800" stop="20260402101305 +0800">
+		<title lang="zh">玩儿出格15南部铁器</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402101305 +0800" stop="20260402102502 +0800">
+		<title lang="zh">玩儿出格16猫岛</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402102502 +0800" stop="20260402103209 +0800">
+		<title lang="zh">玩儿出格17七夕祭白天</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402103209 +0800" stop="20260402103845 +0800">
+		<title lang="zh">玩儿出格18七夕夜</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402103845 +0800" stop="20260402104833 +0800">
+		<title lang="zh">玩儿出格19宫城峡威士忌</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402104833 +0800" stop="20260402105555 +0800">
+		<title lang="zh">玩儿出格20狐狸村</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402105555 +0800" stop="20260402110301 +0800">
+		<title lang="zh">玩儿出格21可乐</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402110301 +0800" stop="20260402111454 +0800">
+		<title lang="zh">玩儿出格22福岛</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402111454 +0800" stop="20260402112251 +0800">
+		<title lang="zh">玩儿出格23航天馆</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402112251 +0800" stop="20260402113407 +0800">
+		<title lang="zh">野心胡来决定去旅行01</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402113407 +0800" stop="20260402114342 +0800">
+		<title lang="zh">野心胡来决定去旅行02</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402114342 +0800" stop="20260402115519 +0800">
+		<title lang="zh">野心胡来决定去旅行03</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402115519 +0800" stop="20260402120551 +0800">
+		<title lang="zh">野心胡来决定去旅行04</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402120551 +0800" stop="20260402121657 +0800">
+		<title lang="zh">野心胡来决定去旅行05</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402121657 +0800" stop="20260402132434 +0800">
+		<title lang="zh">设想加1未来汽车设计师的养成</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402132434 +0800" stop="20260402140223 +0800">
+		<title lang="zh">设想加2未来汽车设计师的养成</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402140223 +0800" stop="20260402141805 +0800">
+		<title lang="zh">设想加3刷脸时代全世界人民都认识你</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402141805 +0800" stop="20260402143630 +0800">
+		<title lang="zh">设想加4刷脸时代你无处可逃</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402143630 +0800" stop="20260402152648 +0800">
+		<title lang="zh">设想加5凯迪拉克与美国汽车文化</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402152648 +0800" stop="20260402161456 +0800">
+		<title lang="zh">设想加6高技时代偷窥癖的乌托邦</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402161456 +0800" stop="20260402173147 +0800">
+		<title lang="zh">设想加7对话尹哲</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402173147 +0800" stop="20260402175011 +0800">
+		<title lang="zh">设想加8杀死共享单车</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402175011 +0800" stop="20260402180023 +0800">
+		<title lang="zh">设想加9过去的未来</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402180023 +0800" stop="20260402183743 +0800">
+		<title lang="zh">年轻的匠人</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402183743 +0800" stop="20260402191023 +0800">
+		<title lang="zh">年轻的匠人</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402191023 +0800" stop="20260402191446 +0800">
+		<title lang="zh">斑马先生于晓红</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402191446 +0800" stop="20260402191923 +0800">
+		<title lang="zh">斑马先生邹宁馨简素为贵</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402191923 +0800" stop="20260402192418 +0800">
+		<title lang="zh">斑马先生蔡安和</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402192418 +0800" stop="20260402192859 +0800">
+		<title lang="zh">斑马先生郭新</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402192859 +0800" stop="20260402193353 +0800">
+		<title lang="zh">斑马先生画家王可春</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402193353 +0800" stop="20260402193920 +0800">
+		<title lang="zh">斑马先生赖世红</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402193920 +0800" stop="20260402194400 +0800">
+		<title lang="zh">斑马先生老朴</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402194400 +0800" stop="20260402194951 +0800">
+		<title lang="zh">斑马先生李仁平</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402194951 +0800" stop="20260402195554 +0800">
+		<title lang="zh">斑马先生林弘裕设计没有不二法门</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402195554 +0800" stop="20260402200218 +0800">
+		<title lang="zh">斑马先生林弘裕设计师进阶之路</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402200218 +0800" stop="20260402200733 +0800">
+		<title lang="zh">斑马先生刘东</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402200733 +0800" stop="20260402201524 +0800">
+		<title lang="zh">斑马先生刘东佛陀圣迹</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402201524 +0800" stop="20260402202005 +0800">
+		<title lang="zh">斑马先生刘蔓跨界探索者</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402202005 +0800" stop="20260402202430 +0800">
+		<title lang="zh">斑马先生刘明明</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402202430 +0800" stop="20260402203034 +0800">
+		<title lang="zh">斑马先生卢葵</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402203034 +0800" stop="20260402203700 +0800">
+		<title lang="zh">斑马先生邱启敬创造必须回到生活</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402203700 +0800" stop="20260402204311 +0800">
+		<title lang="zh">斑马先生邱启敬的当代艺术</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402204311 +0800" stop="20260402204757 +0800">
+		<title lang="zh">斑马先生邱启敬的石头</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402204757 +0800" stop="20260402205410 +0800">
+		<title lang="zh">斑马先生苏洁锋</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402205410 +0800" stop="20260402205931 +0800">
+		<title lang="zh">斑马先生孙倩</title>
+	</programme>
+	<programme channel="4K纪实" start="20260402205931 +0800" stop="20260402210455 +0800">
+		<title lang="zh">斑马先生王朝阳</title>
+	</programme>
 	<channel id="电视指南">
 		<display-name lang="zh">电视指南</display-name>
 	</channel>
@@ -11198,6 +11672,99 @@
 	</programme>
 	<programme channel="NewTV超级体育" start="20260402230000 +0800" stop="20260402235959 +0800">
 		<title lang="zh">2026年世界男子冰壶锦标赛循环赛(德国队中国队)</title>
+	</programme>
+	<channel id="南国都市4K">
+		<display-name lang="zh">南国都市4K</display-name>
+	</channel>
+	<programme channel="南国都市4K" start="20260402000000 +0800" stop="20260402014000 +0800">
+		<title lang="zh">湾区政能量第七届知交会分论坛</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402014000 +0800" stop="20260402040000 +0800">
+		<title lang="zh">全运盛景</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402040000 +0800" stop="20260402050000 +0800">
+		<title lang="zh">国家公园</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402050000 +0800" stop="20260402053000 +0800">
+		<title lang="zh">江南好风味</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402053000 +0800" stop="20260402060000 +0800">
+		<title lang="zh">觅江南</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402060000 +0800" stop="20260402070000 +0800">
+		<title lang="zh">疯狂小画</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402070000 +0800" stop="20260402080000 +0800">
+		<title lang="zh">国家公园</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402080000 +0800" stop="20260402090000 +0800">
+		<title lang="zh">超高清诗音画</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402090000 +0800" stop="20260402100000 +0800">
+		<title lang="zh">国家公园</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402100000 +0800" stop="20260402103000 +0800">
+		<title lang="zh">追光岁月湾区文化名人访谈录</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402103000 +0800" stop="20260402110000 +0800">
+		<title lang="zh">逛遍全中国</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402110000 +0800" stop="20260402113000 +0800">
+		<title lang="zh">江南好风味</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402113000 +0800" stop="20260402120000 +0800">
+		<title lang="zh">觅江南</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402120000 +0800" stop="20260402130000 +0800">
+		<title lang="zh">国家公园</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402130000 +0800" stop="20260402133000 +0800">
+		<title lang="zh">美食令</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402133000 +0800" stop="20260402140000 +0800">
+		<title lang="zh">乡脉</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402140000 +0800" stop="20260402150000 +0800">
+		<title lang="zh">国家公园</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402150000 +0800" stop="20260402170000 +0800">
+		<title lang="zh">全运盛景</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402170000 +0800" stop="20260402173000 +0800">
+		<title lang="zh">螃蟹老师做手工</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402173000 +0800" stop="20260402180000 +0800">
+		<title lang="zh">燃烧吧卡路里</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402180000 +0800" stop="20260402190000 +0800">
+		<title lang="zh">疯狂小画</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402190000 +0800" stop="20260402194500 +0800">
+		<title lang="zh">国家公园</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402194500 +0800" stop="20260402200000 +0800">
+		<title lang="zh">运动好友营</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402200000 +0800" stop="20260402203000 +0800">
+		<title lang="zh">美食令</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402203000 +0800" stop="20260402210000 +0800">
+		<title lang="zh">乡脉</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402210000 +0800" stop="20260402213000 +0800">
+		<title lang="zh">江南好风味</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402213000 +0800" stop="20260402220000 +0800">
+		<title lang="zh">觅江南</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402220000 +0800" stop="20260402230000 +0800">
+		<title lang="zh">国家公园</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402230000 +0800" stop="20260402233000 +0800">
+		<title lang="zh">有事好商量</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260402233000 +0800" stop="20260402235900 +0800">
+		<title lang="zh">乡脉</title>
 	</programme>
 	<channel id="经典电影">
 		<display-name lang="zh">经典电影</display-name>
