@@ -1,7 +1,7 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 # https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us.m3u
-https://raw.githubusercontent.com/perrsonxxa/guan/main/rtp.txt
+#https://raw.githubusercontent.com/perrsonxxa/guan/main/rtp.txt
 http://rihou.cc:555/gggg.nzk
 https://live.izbds.com/tv/iptv4.txt
 https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u
@@ -143,7 +143,7 @@ https://github.com/perrsonxxa/iptv-api/raw/master/output/user_result-gat-ov.m3u
 #https://raw.githubusercontent.com/perrsonxxa/guan/main/%E6%B2%B3%E5%8C%97%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD.txt  # 河北联通组播
 # https://live.hacks.tools/iptv/categories/news.m3u
 # https://live.hacks.tools/iptv/languages/fas.m3u
-https://github.com/YueChan/Live/raw/main/Global.m3u
+https://raw.githubusercontent.com/YueChan/Live/main/Global.m3u
 https://raw.githubusercontent.com/perrsonxxa/beijing/main/%E6%B5%B7%E5%A4%96%E8%87%AA%E7%94%A8.m3u # 海外自用
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ir.m3u
 https://github.com/perrsonxxa/iptv-api/raw/master/config/iran.m3u
