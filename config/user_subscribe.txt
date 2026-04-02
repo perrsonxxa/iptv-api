@@ -1,7 +1,7 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 # https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us.m3u
-# http://129.211.14.102:50085/sub?www.9kds.com=txt
+http://129.211.14.102:50085/sub?www.9kds.com=txt
 http://rihou.cc:555/gggg.nzk
 https://live.izbds.com/tv/iptv4.txt
 https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u
