@@ -131,8 +131,21 @@ NewTV武搏世界,NEWTV武搏世界,武搏世界,武博世界,武术世界
 NewTV怡伴健康,NEWTV怡伴健康,怡伴健康
 NewTV中国功夫,NEWTV中国功夫,中国功夫
 
-#四川卫视,四川卫视4K,四川卫视4K25,四川卫视4K50
-#湖南卫视,湖南卫视4K,湖南卫视4K25,湖南卫视4K50
+四川卫视4K,四川4K,四川卫视4K25,四川卫视4K50
+湖南卫视4K,湖南4K,湖南卫视4K25,湖南卫视4K50
+北京卫视4K,北京4K
+东方卫视4K,东方4K
+浙江卫视4K,浙江4K
+江苏卫视4K,江苏4K
+广东卫视4K,广东4K
+南国都市4K,广州南国都市4K
+深圳卫视4K,深圳4K
+山东卫视4K,山东4K
+苏州卫视4K,苏州4K
+河北卫视4K,河北4K
+浙江卫视4K,浙江4K
+黑龙江卫视4K,黑龙江4K
+河南卫视4K,河南4K
 
 中天新闻,中天新闻台,中天新闻 HD,中天新闻台 HD,中天新聞,中天新聞臺,中天新聞 HD,中天新聞臺 HD
 BBC News,BBC,BBC News Europe,BBC World News,BBC WORLD NEWS,BBC News Asia Pacific (1080p),BBC News Asia Pacific,BBC Two HD
