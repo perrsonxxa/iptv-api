@@ -146,8 +146,7 @@ NewTV中国功夫,NEWTV中国功夫,中国功夫
 浙江卫视4K,浙江4K
 黑龙江卫视4K,黑龙江4K
 河南卫视4K,河南4K
-
-中天新闻,中天新闻台,中天新闻 HD,中天新闻台 HD,中天新聞,中天新聞臺,中天新聞 HD,中天新聞臺 HD
+中天新闻,中天新闻台,中天新闻 HD,中天新闻台 HD,中天新聞,中天新聞臺,中天新聞 HD,中天新聞臺 HD,中天新聞HD,中天新聞臺HD
 BBC News,BBC,BBC News Europe,BBC World News,BBC WORLD NEWS,BBC News Asia Pacific (1080p),BBC News Asia Pacific,BBC Two HD
 ABC News,ABC,ABC NEWS
 CNN International,CNN,CNN News
