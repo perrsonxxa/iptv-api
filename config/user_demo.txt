@@ -192,8 +192,6 @@ BBC News
 CNN International
 DW English
 NDTV
-BBC One
-BBC Two
 CBS News
 ABC News
 Fox News
