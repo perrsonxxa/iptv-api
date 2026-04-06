@@ -45,8 +45,8 @@ CCTV-12,http://60.3.123.68:7000/rtp/239.253.92.197:6062
 CCTV-13,http://221.229.212.86:14979
 CCTV-13,http://60.0.84.130:9999/rtp/239.253.92.13:8008
 CCTV-13,http://60.3.123.68:7000/rtp/239.253.92.13:8008
-CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
 CCTV-13,http://cdn3.163189.xyz/163189/cctv13$订阅源
+CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
 CCTV-13,https://cdn13.178.indevs.in/163189/790bc5f7f0f06879$IPV4•线路10
 CCTV-14,http://221.229.212.86:14989
 CCTV-14,http://60.0.84.130:9999/rtp/239.253.92.198:6063
@@ -133,8 +133,8 @@ CCTV-17,http://60.3.123.68:7000/rtp/239.253.93.150:6318
 4K频道,#genre#
 CCTV4K,http://60.0.84.130:9999/rtp/239.253.93.134:6631
 CCTV4K,http://60.3.123.68:7000/rtp/239.253.93.134:6631
-CCTV-164K,http://221.229.212.86:14926
-CCTV-164K,http://221.229.212.86:14910
+CCTV-164K,http://60.0.84.130:9999/rtp/239.253.92.114:6187
+CCTV-164K,http://60.3.123.68:7000/rtp/239.253.92.114:6187
 北京卫视4K,http://221.229.212.86:14901
 北京卫视4K,http://60.0.84.130:9999/rtp/239.253.92.87:8014
 北京卫视4K,http://60.3.123.68:7000/rtp/239.253.92.87:8014
@@ -167,8 +167,6 @@ CCTV-164K,http://221.229.212.86:14910
 河南卫视4K,http://221.229.212.86:14992
 河南卫视4K,http://60.0.84.130:9999/rtp/239.253.92.137:6144
 河南卫视4K,http://60.3.123.68:7000/rtp/239.253.92.137:6144
-河南卫视4K,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=9877eb136b9300cab6f4287a7225ac64&wsTime=1775455222$订阅源
-河南卫视4K,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=17638e964b0366f112921f2e5b7abf10&wsTime=1775460102$订阅源
 欢笑剧场4K,http://60.0.84.130:9999/rtp/239.253.93.223:6401
 欢笑剧场4K,http://60.3.123.68:7000/rtp/239.253.93.223:6401
 
@@ -239,6 +237,7 @@ CCTV-164K,http://221.229.212.86:14910
 天津卫视,http://60.3.123.68:7000/rtp/239.253.92.91:8021
 
 🌊港·澳·台,#genre#
+中天新闻,http://119.91.7.169:2026/TW.php?id=中天新闻台
 中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
 中天新闻,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv009
 中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
@@ -248,32 +247,30 @@ CCTV-164K,http://221.229.212.86:14910
 中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://220.135.64.124:5050/li-4gtv-4gtv009/index.m3u8?proxy=true
-中天新闻,http://119.91.7.169:2026/TW.php?id=中天新闻台
 中天新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20173$订阅源
 中天新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20222$订阅源
 中天新闻,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009$订阅源
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct406$LR•IPV4『线路30』
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct720$LR•IPV4『线路31』
 翡翠台,http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsqxqfsqqcvbctvbfc.flv
+翡翠台,http://r.jdshipin.com/GeWKr$IPV4•线路20
 翡翠台,https://cdn6.163189.xyz/163189/fct4k$IPV4•线路2
+翡翠台,http://r.jdshipin.com/n90gt$IPV4•线路19
+翡翠台,http://r.jdshipin.com/qrfbg$IPV4•线路16
+翡翠台,http://r.jdshipin.com/qClQf$IPV4•线路18
+翡翠台,http://o11.163189.xyz/stream/tvb/fct/$IPV4•线路4
 翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/$IPV4•线路1
 翡翠台,http://cdn6.163189.xyz/163189/fct4k$订阅源
-翡翠台,http://r.jdshipin.com/GeWKr$IPV4•线路20
-翡翠台,http://o11.163189.xyz/stream/tvb/fct/$IPV4•线路4
-翡翠台,http://r.jdshipin.com/n90gt$IPV4•线路19
-翡翠台,http://api.kkhk.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8$订阅源
-翡翠台,http://r.jdshipin.com/qClQf$IPV4•线路18
-翡翠台,http://r.jdshipin.com/thuYX$订阅源
-翡翠台,http://r.jdshipin.com/qrfbg$IPV4•线路16
 翡翠台,https://o11.163189.xyz/stream/tvb/fct/$订阅源
+翡翠台,http://r.jdshipin.com/thuYX$订阅源
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn$订阅源
+翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct$IPV4•线路3
 明珠台,http://r.jdshipin.com/GeWKr?id=mzt720$订阅源
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/$IPV4•线路2
 明珠台,http://r.jdshipin.com/ZQ4kN$IPV4•线路8
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/$订阅源
-明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt$IPV4•线路1
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt$IPV4•线路3
-明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
+明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt$IPV4•线路1
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv$订阅源
 凤凰中文,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 凤凰中文,http://221.229.212.86:14896
@@ -282,8 +279,8 @@ CCTV-164K,http://221.229.212.86:14910
 凤凰中文,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv$订阅源
 凤凰中文,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1$订阅源
 凤凰中文,http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhzwhd&apiKey=73c963d13814ce7d0e4743c5e7d033cc$IPV4•线路22
-凤凰中文,http://r.jdshipin.com/cCCzW$IPV4•线路10
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw$订阅源
+凤凰中文,http://r.jdshipin.com/cCCzW$IPV4•线路10
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰资讯,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20061$订阅源
 凤凰资讯,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUknI2Qgu2H4THar3t2qm5CfJDW3oVsOfc-rbdZFzD2Lybr1EdctHM-qT90R9UPodL2nKzV7EyOABx0QR2dts6OWSHtsa0zWi7JZHPykhh2gL-1HTjlyHCq6MZDtf1gui0jRYCedTismGdA915iCIozcMoT5gl1u-RHNMhb_AyfsUllhm3olGmi0Hmey4uCeMycw.m3u8?u=1756878715$IPV4•线路3
@@ -300,24 +297,24 @@ CCTV-164K,http://221.229.212.86:14910
 凤凰香港,http://221.229.212.86:14897
 凤凰香港,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUkn8SJteYZ9uqzUO6nYtuUh6F-PN7bfjcRGaPw6WlGqRJXDBhEndnIu4j9XCk2jMbsgXqcdc5EoIBXfD7zolJBsvKapI6zL3TY0miLmlXbN6s1HL9nbhZ_-YYylQavg8fyJuokqsa-c_dYoVldu95ImgqU0t9mxSaKem7IJRiBJmz9a_295GFeFQ89c_Ubo4Q9g.m3u8?u=1756878715$IPV4•线路4
 凤凰香港,http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhxghd&apiKey=73c963d13814ce7d0e4743c5e7d033cc$IPV4•线路18
-凤凰香港,http://r.jdshipin.com/yDoTN$IPV4•线路7
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk$订阅源
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk$订阅源
-凤凰香港,http://api.kkhk.itv888.vip:8080/streams/mty4v56ud39/index.m3u8$订阅源
+凤凰香港,http://r.jdshipin.com/yDoTN$IPV4•线路7
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$IPV4•线路1
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$LR•IPV4『线路2』
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$LR•IPV4『线路3』
 TVBS亚洲,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20190$订阅源
-无线新闻,https://cdn6.163189.xyz/163189/wxxw$订阅源
 无线新闻,http://r.jdshipin.com/CkuBd$IPV4•线路1
-无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+无线新闻,https://cdn6.163189.xyz/163189/wxxw$订阅源
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$订阅源
+无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
 三立新闻,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立INEW$订阅源
 东森综合,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyqP7JL5zoJwS4YNNznemr_YdtSKhh6NNAwR9PzzP461sjhlssLp3lK6UJ8-tnuwG8CbBxKI1dg3OfG2PGsVIQaseJXA6DBTaS0MuVPFR_aOdPVW3LH5YhV9dtBSNyWyJZiz6NyMdgyeWK4kjvnkBH2wPAT52wt91Db438hm8mDpNXQRutSpHIsBlvrQktzdyMg.m3u8?u=1756878715$IPV4•线路2
 靖天资讯,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv065$订阅源
 
 🎬电影频道,#genre#
 CHC家庭影院,http://61.184.46.85:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CHC家庭影院,http://z.b.bkpcp.top/m.php?id=chcjtyy$订阅源
 CHC动作电影,https://stream.freetv.fun/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944d0cb17f36e.ctv$LR•IPV4『线路54』
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 淘电影,http://api.kkhk.itv888.vip:8080/streams/6403327f992/index.m3u8$订阅源
@@ -330,9 +327,8 @@ CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&pl
 经典电影,http://113.25.252.226:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 经典电影,https://yylunbo.ottiptv.cc/yy/1414812324$订阅源
 天映经典,https://o11.163189.xyz/stream/live/ccm/$订阅源
+天映经典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2$订阅源
 无线星河,https://cdn6.163189.xyz/163189/tvbxh$订阅源
-无线星河,https://cdn9.163189.xyz/smt1.1.php?id=Xinhe$订阅源
-无线星河,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe$订阅源
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 星空卫视,http://36.36.200.198:44330/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 星空卫视,http://49.234.31.101:7033/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -384,8 +380,6 @@ DW English,https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
 DW English,webview://https://livenewschat.eu/dw-news-live-stream-english/
 DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 NDTV,https://web-ndtv24x7-uk.akamaized.net/hls/live/2109290/ndtv24x7uk/master.m3u8
-BBC One,http://41.205.93.154/BBCONE/index.m3u8
-BBC Two,http://41.205.93.154/BBCTWO/tracks-v1a1/mono.m3u8
 CBS News,https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
 ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 ABC News,https://c.mjh.nz/abc-news.m3u8
@@ -401,8 +395,8 @@ Press TV,https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 Press TV,https://lenz.splus.ir/PLTV/88888888/224/3221226156/index.m3u8
 Al Jazeera English,https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
 Tehran TV,https://lenz.splus.ir/PLTV/88888888/224/3221226141/index.m3u8
 Mohabat TV,http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
 Payvand TV,https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
@@ -435,6 +429,7 @@ Tennis Channel,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelt
 河北少儿科教,http://60.3.123.68:7000/rtp/239.253.92.174:6004
 经典动漫,https://www.goodiptv.club/yy/24180320$订阅源
 漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568$订阅源
+漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
 
 🎵音乐频道,#genre#
 CCTV-15,http://221.229.212.86:14905
@@ -447,4 +442,4 @@ CCTV-15,http://60.3.123.68:7000/rtp/239.253.93.154:6322
 风云音乐,http://60.3.123.68:7000/rtp/239.253.93.253:6431
 
 🕘️更新时间,#genre#
-2026-04-06 13:39:06,http://221.229.212.86:14923
+2026-04-06 20:40:49,http://221.229.212.86:14923

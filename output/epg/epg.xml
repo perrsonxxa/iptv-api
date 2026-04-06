@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260406040547 +0800">
+<tv date="20260406110815 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -2072,6 +2072,573 @@
 	</programme>
 	<programme channel="CCTV-4K" start="20260406235615 +0800" stop="20260406235925 +0800">
 		<title lang="zh">4K垫播节目丝绸之旅2025</title>
+	</programme>
+	<channel id="CCTV-8K">
+		<display-name lang="zh">CCTV-8K</display-name>
+	</channel>
+	<programme channel="CCTV-8K" start="20260406000000 +0800" stop="20260406070205 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406070205 +0800" stop="20260406071154 +0800">
+		<title lang="zh">2026年春节联欢晚会我最难忘的今宵（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406071154 +0800" stop="20260406071600 +0800">
+		<title lang="zh">2026年春节联欢晚会吉量（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406071600 +0800" stop="20260406071930 +0800">
+		<title lang="zh">2026年春节联欢晚会恭喜恭喜（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406071930 +0800" stop="20260406072420 +0800">
+		<title lang="zh">大国小鲜——石榴说5（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406072455 +0800" stop="20260406072735 +0800">
+		<title lang="zh">国博文物展示错金银云纹铜犀尊（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406072735 +0800" stop="20260406073051 +0800">
+		<title lang="zh">2026年春节联欢晚会驭风歌（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406073051 +0800" stop="20260406073405 +0800">
+		<title lang="zh">2026年春节联欢晚会来晒秋（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406073405 +0800" stop="20260406073810 +0800">
+		<title lang="zh">2026年春节联欢晚会战位有我在（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406073810 +0800" stop="20260406074112 +0800">
+		<title lang="zh">2026年春节联欢晚会许我再少年（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406074112 +0800" stop="20260406074905 +0800">
+		<title lang="zh">2026年春节联欢晚会哈尔滨分会场（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406074905 +0800" stop="20260406075905 +0800">
+		<title lang="zh">千秋诗颂早发白帝城（8K）新</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406075905 +0800" stop="20260406080005 +0800">
+		<title lang="zh">品牌强国工程2026形象宣传片3（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406080205 +0800" stop="20260406080505 +0800">
+		<title lang="zh">2025年中秋晚会不如一个你（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406080505 +0800" stop="20260406080835 +0800">
+		<title lang="zh">2025年中秋晚会将进酒（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406080835 +0800" stop="20260406081210 +0800">
+		<title lang="zh">2025年中秋晚会无名的人（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406081210 +0800" stop="20260406081625 +0800">
+		<title lang="zh">2025年中秋晚会回家（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406081625 +0800" stop="20260406082006 +0800">
+		<title lang="zh">奋楫家国沈水欢歌颂端阳回家的路（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406082006 +0800" stop="20260406082228 +0800">
+		<title lang="zh">奋楫家国沈水欢歌颂端阳篇章（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406082228 +0800" stop="20260406082534 +0800">
+		<title lang="zh">奋楫家国沈水欢歌颂端阳就是哪吒（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406082534 +0800" stop="20260406082939 +0800">
+		<title lang="zh">二十四节气总宣宣传片（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406082939 +0800" stop="20260406083229 +0800">
+		<title lang="zh">大国之翼同风起宣传片（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406083229 +0800" stop="20260406084229 +0800">
+		<title lang="zh">中华古树阳山唐桂（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406084229 +0800" stop="20260406084558 +0800">
+		<title lang="zh">2026年春节联欢晚会每道光（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406084558 +0800" stop="20260406085710 +0800">
+		<title lang="zh">2026年春节联欢晚会又来了（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406085710 +0800" stop="20260406090045 +0800">
+		<title lang="zh">2026年春节联欢晚会追影（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406090215 +0800" stop="20260406095545 +0800">
+		<title lang="zh">中国科技创新盛典2025（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406095545 +0800" stop="20260406095950 +0800">
+		<title lang="zh">二十四节气总宣宣传片（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406100225 +0800" stop="20260406100725 +0800">
+		<title lang="zh">上海总站超高清节目集锦如果国宝会说话第一季（8K）(1)</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406100725 +0800" stop="20260406101119 +0800">
+		<title lang="zh">2026年春节联欢晚会闪耀动起来（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406101119 +0800" stop="20260406101436 +0800">
+		<title lang="zh">2026年春节联欢晚会绘新春（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406101436 +0800" stop="20260406102224 +0800">
+		<title lang="zh">2026年春节联欢晚会合肥分会场（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406102224 +0800" stop="20260406102621 +0800">
+		<title lang="zh">2026年春节联欢晚会丝路古韵（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406102621 +0800" stop="20260406102905 +0800">
+		<title lang="zh">2026年春节联欢晚会快乐小马（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406102905 +0800" stop="20260406103205 +0800">
+		<title lang="zh">美丽中国海南岛（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406103205 +0800" stop="20260406103445 +0800">
+		<title lang="zh">国博文物展示错金银云纹铜犀尊（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406103445 +0800" stop="20260406103640 +0800">
+		<title lang="zh">国博文物展示大盂鼎</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406103640 +0800" stop="20260406103930 +0800">
+		<title lang="zh">大国之翼同风起宣传片（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406103930 +0800" stop="20260406104154 +0800">
+		<title lang="zh">奋楫家国沈水欢歌颂端阳赠你（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406104154 +0800" stop="20260406104609 +0800">
+		<title lang="zh">奋楫家国沈水欢歌颂端阳心月同辉（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406104609 +0800" stop="20260406104835 +0800">
+		<title lang="zh">奋楫家国沈水欢歌颂端阳华夏（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406104835 +0800" stop="20260406104935 +0800">
+		<title lang="zh">品牌强国工程2026形象宣传片3（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406104935 +0800" stop="20260406105305 +0800">
+		<title lang="zh">鹿鸣课堂宣传片(8K)</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406105305 +0800" stop="20260406105430 +0800">
+		<title lang="zh">8K超高清万象等春来（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406105430 +0800" stop="20260406110000 +0800">
+		<title lang="zh">美丽中国新疆1（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406110130 +0800" stop="20260406111119 +0800">
+		<title lang="zh">2026年春节联欢晚会我最难忘的今宵（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406111119 +0800" stop="20260406111525 +0800">
+		<title lang="zh">2026年春节联欢晚会吉量（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406111525 +0800" stop="20260406111855 +0800">
+		<title lang="zh">2026年春节联欢晚会恭喜恭喜（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406111855 +0800" stop="20260406112345 +0800">
+		<title lang="zh">大国小鲜——石榴说5（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406112420 +0800" stop="20260406112700 +0800">
+		<title lang="zh">国博文物展示错金银云纹铜犀尊（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406112700 +0800" stop="20260406113016 +0800">
+		<title lang="zh">2026年春节联欢晚会驭风歌（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406113016 +0800" stop="20260406113330 +0800">
+		<title lang="zh">2026年春节联欢晚会来晒秋（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406113330 +0800" stop="20260406113735 +0800">
+		<title lang="zh">2026年春节联欢晚会战位有我在（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406113735 +0800" stop="20260406114037 +0800">
+		<title lang="zh">2026年春节联欢晚会许我再少年（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406114037 +0800" stop="20260406114830 +0800">
+		<title lang="zh">2026年春节联欢晚会哈尔滨分会场（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406114830 +0800" stop="20260406115830 +0800">
+		<title lang="zh">千秋诗颂早发白帝城（8K）新</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406115830 +0800" stop="20260406115930 +0800">
+		<title lang="zh">品牌强国工程2026形象宣传片3（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406120130 +0800" stop="20260406120430 +0800">
+		<title lang="zh">2025年中秋晚会不如一个你（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406120430 +0800" stop="20260406120800 +0800">
+		<title lang="zh">2025年中秋晚会将进酒（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406120800 +0800" stop="20260406121135 +0800">
+		<title lang="zh">2025年中秋晚会无名的人（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406121135 +0800" stop="20260406121550 +0800">
+		<title lang="zh">2025年中秋晚会回家（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406121550 +0800" stop="20260406121931 +0800">
+		<title lang="zh">奋楫家国沈水欢歌颂端阳回家的路（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406121931 +0800" stop="20260406122153 +0800">
+		<title lang="zh">奋楫家国沈水欢歌颂端阳篇章（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406122153 +0800" stop="20260406122459 +0800">
+		<title lang="zh">奋楫家国沈水欢歌颂端阳就是哪吒（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406122459 +0800" stop="20260406122904 +0800">
+		<title lang="zh">二十四节气总宣宣传片（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406122904 +0800" stop="20260406123154 +0800">
+		<title lang="zh">大国之翼同风起宣传片（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406123154 +0800" stop="20260406124154 +0800">
+		<title lang="zh">中华古树稷山板枣古树群（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406124154 +0800" stop="20260406124523 +0800">
+		<title lang="zh">2026年春节联欢晚会每道光（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406124523 +0800" stop="20260406125635 +0800">
+		<title lang="zh">2026年春节联欢晚会又来了（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406125635 +0800" stop="20260406130010 +0800">
+		<title lang="zh">2026年春节联欢晚会追影（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406130140 +0800" stop="20260406135510 +0800">
+		<title lang="zh">中国科技创新盛典2025（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406135510 +0800" stop="20260406135915 +0800">
+		<title lang="zh">二十四节气总宣宣传片（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406140150 +0800" stop="20260406140650 +0800">
+		<title lang="zh">上海总站超高清节目集锦如果国宝会说话第一季（8K）(2)</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406140650 +0800" stop="20260406141044 +0800">
+		<title lang="zh">2026年春节联欢晚会闪耀动起来（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406141044 +0800" stop="20260406141401 +0800">
+		<title lang="zh">2026年春节联欢晚会绘新春（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406141401 +0800" stop="20260406142149 +0800">
+		<title lang="zh">2026年春节联欢晚会合肥分会场（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406142149 +0800" stop="20260406142546 +0800">
+		<title lang="zh">2026年春节联欢晚会丝路古韵（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406142546 +0800" stop="20260406142830 +0800">
+		<title lang="zh">2026年春节联欢晚会快乐小马（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406142830 +0800" stop="20260406143130 +0800">
+		<title lang="zh">美丽中国海南岛（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406143130 +0800" stop="20260406143410 +0800">
+		<title lang="zh">国博文物展示错金银云纹铜犀尊（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406143410 +0800" stop="20260406143605 +0800">
+		<title lang="zh">国博文物展示大盂鼎</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406143605 +0800" stop="20260406143855 +0800">
+		<title lang="zh">大国之翼同风起宣传片（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406143855 +0800" stop="20260406144119 +0800">
+		<title lang="zh">奋楫家国沈水欢歌颂端阳赠你（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406144119 +0800" stop="20260406144534 +0800">
+		<title lang="zh">奋楫家国沈水欢歌颂端阳心月同辉（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406144534 +0800" stop="20260406144800 +0800">
+		<title lang="zh">奋楫家国沈水欢歌颂端阳华夏（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406144800 +0800" stop="20260406144900 +0800">
+		<title lang="zh">品牌强国工程2026形象宣传片3（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406144900 +0800" stop="20260406145230 +0800">
+		<title lang="zh">鹿鸣课堂宣传片(8K)</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406145230 +0800" stop="20260406145355 +0800">
+		<title lang="zh">8K超高清万象等春来（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406145355 +0800" stop="20260406145925 +0800">
+		<title lang="zh">美丽中国新疆1（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406150120 +0800" stop="20260406151109 +0800">
+		<title lang="zh">2026年春节联欢晚会我最难忘的今宵（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406151109 +0800" stop="20260406151515 +0800">
+		<title lang="zh">2026年春节联欢晚会吉量（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406151515 +0800" stop="20260406151845 +0800">
+		<title lang="zh">2026年春节联欢晚会恭喜恭喜（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406151845 +0800" stop="20260406152335 +0800">
+		<title lang="zh">大国小鲜——石榴说5（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406152410 +0800" stop="20260406152650 +0800">
+		<title lang="zh">国博文物展示错金银云纹铜犀尊（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406152650 +0800" stop="20260406153006 +0800">
+		<title lang="zh">2026年春节联欢晚会驭风歌（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406153006 +0800" stop="20260406153320 +0800">
+		<title lang="zh">2026年春节联欢晚会来晒秋（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406153320 +0800" stop="20260406153725 +0800">
+		<title lang="zh">2026年春节联欢晚会战位有我在（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406153725 +0800" stop="20260406154027 +0800">
+		<title lang="zh">2026年春节联欢晚会许我再少年（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406154027 +0800" stop="20260406154820 +0800">
+		<title lang="zh">2026年春节联欢晚会哈尔滨分会场（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406154820 +0800" stop="20260406155820 +0800">
+		<title lang="zh">千秋诗颂早发白帝城（8K）新</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406155820 +0800" stop="20260406155920 +0800">
+		<title lang="zh">品牌强国工程2026形象宣传片3（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406160120 +0800" stop="20260406160420 +0800">
+		<title lang="zh">2025年中秋晚会不如一个你（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406160420 +0800" stop="20260406160750 +0800">
+		<title lang="zh">2025年中秋晚会将进酒（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406160750 +0800" stop="20260406161125 +0800">
+		<title lang="zh">2025年中秋晚会无名的人（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406161125 +0800" stop="20260406161540 +0800">
+		<title lang="zh">2025年中秋晚会回家（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406161540 +0800" stop="20260406161921 +0800">
+		<title lang="zh">奋楫家国沈水欢歌颂端阳回家的路（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406161921 +0800" stop="20260406162143 +0800">
+		<title lang="zh">奋楫家国沈水欢歌颂端阳篇章（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406162143 +0800" stop="20260406162449 +0800">
+		<title lang="zh">奋楫家国沈水欢歌颂端阳就是哪吒（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406162449 +0800" stop="20260406162854 +0800">
+		<title lang="zh">二十四节气总宣宣传片（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406162854 +0800" stop="20260406163144 +0800">
+		<title lang="zh">大国之翼同风起宣传片（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406163144 +0800" stop="20260406164144 +0800">
+		<title lang="zh">中华古树桑植闽楠王（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406164144 +0800" stop="20260406164513 +0800">
+		<title lang="zh">2026年春节联欢晚会每道光（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406164513 +0800" stop="20260406165625 +0800">
+		<title lang="zh">2026年春节联欢晚会又来了（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406165625 +0800" stop="20260406170000 +0800">
+		<title lang="zh">2026年春节联欢晚会追影（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406170130 +0800" stop="20260406175500 +0800">
+		<title lang="zh">中国科技创新盛典2025（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406175500 +0800" stop="20260406175905 +0800">
+		<title lang="zh">二十四节气总宣宣传片（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406180140 +0800" stop="20260406180640 +0800">
+		<title lang="zh">上海总站超高清节目集锦如果国宝会说话第一季（8K）(3)</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406180640 +0800" stop="20260406181034 +0800">
+		<title lang="zh">2026年春节联欢晚会闪耀动起来（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406181034 +0800" stop="20260406181351 +0800">
+		<title lang="zh">2026年春节联欢晚会绘新春（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406181351 +0800" stop="20260406182139 +0800">
+		<title lang="zh">2026年春节联欢晚会合肥分会场（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406182139 +0800" stop="20260406182536 +0800">
+		<title lang="zh">2026年春节联欢晚会丝路古韵（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406182536 +0800" stop="20260406182820 +0800">
+		<title lang="zh">2026年春节联欢晚会快乐小马（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406182820 +0800" stop="20260406183120 +0800">
+		<title lang="zh">美丽中国海南岛（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406183120 +0800" stop="20260406183400 +0800">
+		<title lang="zh">国博文物展示错金银云纹铜犀尊（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406183400 +0800" stop="20260406183555 +0800">
+		<title lang="zh">国博文物展示大盂鼎</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406183555 +0800" stop="20260406183845 +0800">
+		<title lang="zh">大国之翼同风起宣传片（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406183845 +0800" stop="20260406184109 +0800">
+		<title lang="zh">奋楫家国沈水欢歌颂端阳赠你（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406184109 +0800" stop="20260406184524 +0800">
+		<title lang="zh">奋楫家国沈水欢歌颂端阳心月同辉（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406184524 +0800" stop="20260406184750 +0800">
+		<title lang="zh">奋楫家国沈水欢歌颂端阳华夏（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406184750 +0800" stop="20260406184850 +0800">
+		<title lang="zh">品牌强国工程2026形象宣传片3（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406184850 +0800" stop="20260406185220 +0800">
+		<title lang="zh">鹿鸣课堂宣传片(8K)</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406185220 +0800" stop="20260406185345 +0800">
+		<title lang="zh">8K超高清万象等春来（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406185345 +0800" stop="20260406185915 +0800">
+		<title lang="zh">美丽中国新疆1（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406190105 +0800" stop="20260406190605 +0800">
+		<title lang="zh">上海总站超高清节目集锦如果国宝会说话第一季（8K）(4)</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406190605 +0800" stop="20260406190935 +0800">
+		<title lang="zh">鹿鸣课堂宣传片(8K)</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406190935 +0800" stop="20260406191035 +0800">
+		<title lang="zh">品牌强国工程2026形象宣传片3（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406191035 +0800" stop="20260406191335 +0800">
+		<title lang="zh">美丽中国海南岛（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406191335 +0800" stop="20260406191554 +0800">
+		<title lang="zh">2026年春节联欢晚会小家年年（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406191554 +0800" stop="20260406192528 +0800">
+		<title lang="zh">2026年春节联欢晚会你准喜欢（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406192528 +0800" stop="20260406192932 +0800">
+		<title lang="zh">2026年春节联欢晚会人间共鸣（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406192932 +0800" stop="20260406193520 +0800">
+		<title lang="zh">2026年春节联欢晚会贺花神（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406193520 +0800" stop="20260406194020 +0800">
+		<title lang="zh">上海总站超高清节目集锦如果国宝会说话第一季（8K）(5)</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406194020 +0800" stop="20260406194510 +0800">
+		<title lang="zh">大国小鲜——石榴说6（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406194510 +0800" stop="20260406194915 +0800">
+		<title lang="zh">二十四节气总宣宣传片（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406194915 +0800" stop="20260406195057 +0800">
+		<title lang="zh">奋楫家国沈水欢歌颂端阳沈水欢歌（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406195057 +0800" stop="20260406195348 +0800">
+		<title lang="zh">奋楫家国沈水欢歌颂端阳画中来（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406195348 +0800" stop="20260406195819 +0800">
+		<title lang="zh">奋楫家国沈水欢歌颂端阳逐梦（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406195819 +0800" stop="20260406195950 +0800">
+		<title lang="zh">哈尔滨2025年亚冬会夺冠时刻速度滑冰男子100米（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406200120 +0800" stop="20260406201109 +0800">
+		<title lang="zh">2026年春节联欢晚会我最难忘的今宵（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406201109 +0800" stop="20260406201515 +0800">
+		<title lang="zh">2026年春节联欢晚会吉量（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406201515 +0800" stop="20260406201845 +0800">
+		<title lang="zh">2026年春节联欢晚会恭喜恭喜（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406201845 +0800" stop="20260406202214 +0800">
+		<title lang="zh">2025年中秋晚会峨眉山月歌（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406202214 +0800" stop="20260406202455 +0800">
+		<title lang="zh">2025年中秋晚会川江号子（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406202455 +0800" stop="20260406202800 +0800">
+		<title lang="zh">2025年中秋晚会青铜（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406202800 +0800" stop="20260406203101 +0800">
+		<title lang="zh">2025年中秋晚会月光（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406203101 +0800" stop="20260406203340 +0800">
+		<title lang="zh">2025年中秋晚会不要慌太阳转身有月光（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406203340 +0800" stop="20260406203738 +0800">
+		<title lang="zh">奋楫家国沈水欢歌颂端阳相亲相爱（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406203738 +0800" stop="20260406204010 +0800">
+		<title lang="zh">奋楫家国沈水欢歌颂端阳任我（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406204010 +0800" stop="20260406204252 +0800">
+		<title lang="zh">奋楫家国沈水欢歌颂端阳龙族（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406204252 +0800" stop="20260406205252 +0800">
+		<title lang="zh">千秋诗颂游子吟（8K）新</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406205252 +0800" stop="20260406205410 +0800">
+		<title lang="zh">8K超高清万象莲荷</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406205410 +0800" stop="20260406205650 +0800">
+		<title lang="zh">国博文物展示错金银云纹铜犀尊（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406205650 +0800" stop="20260406205845 +0800">
+		<title lang="zh">国博文物展示大盂鼎</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406205845 +0800" stop="20260406205945 +0800">
+		<title lang="zh">品牌强国工程2026形象宣传片3（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406210115 +0800" stop="20260406211033 +0800">
+		<title lang="zh">2026年春节联欢晚会血压计（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406211033 +0800" stop="20260406211352 +0800">
+		<title lang="zh">2026年春节联欢晚会山海寻梦（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406211352 +0800" stop="20260406212225 +0800">
+		<title lang="zh">2026年春节联欢晚会包你满意（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406212225 +0800" stop="20260406213325 +0800">
+		<title lang="zh">千秋诗颂出塞（8K）新</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406213325 +0800" stop="20260406213825 +0800">
+		<title lang="zh">上海总站超高清节目集锦如果国宝会说话第一季（8K）(7)</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406213825 +0800" stop="20260406214154 +0800">
+		<title lang="zh">2026年春节联欢晚会每道光（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406214154 +0800" stop="20260406214529 +0800">
+		<title lang="zh">2026年春节联欢晚会追影（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406214529 +0800" stop="20260406214700 +0800">
+		<title lang="zh">哈尔滨2025年亚冬会夺冠时刻速度滑冰男子100米（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406214700 +0800" stop="20260406215030 +0800">
+		<title lang="zh">鹿鸣课堂宣传片(8K)</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406215030 +0800" stop="20260406215600 +0800">
+		<title lang="zh">美丽中国新疆1（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406215600 +0800" stop="20260406215850 +0800">
+		<title lang="zh">大国之翼同风起宣传片（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406215925 +0800" stop="20260406220055 +0800">
+		<title lang="zh">品牌强国工程2026形象宣传片4（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406220225 +0800" stop="20260406220618 +0800">
+		<title lang="zh">2025年中秋晚会月亮代表我的心＋与我同行（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406220618 +0800" stop="20260406220845 +0800">
+		<title lang="zh">2025年中秋晚会半个月亮爬上来（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406220845 +0800" stop="20260406221336 +0800">
+		<title lang="zh">2025年中秋晚会抗日组歌（五月的鲜花任时光流逝玫瑰人生）（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406221336 +0800" stop="20260406221655 +0800">
+		<title lang="zh">2025年中秋晚会热烈的少年（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406221655 +0800" stop="20260406222755 +0800">
+		<title lang="zh">千秋诗颂池上（8K）新</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406222755 +0800" stop="20260406222925 +0800">
+		<title lang="zh">品牌强国工程2026形象宣传片4（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406222925 +0800" stop="20260406223205 +0800">
+		<title lang="zh">国博文物展示错金银云纹铜犀尊（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406223205 +0800" stop="20260406223911 +0800">
+		<title lang="zh">2026年春节联欢晚会致爱组曲（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406223911 +0800" stop="20260406224703 +0800">
+		<title lang="zh">2026年春节联欢晚会义乌分会场（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406224703 +0800" stop="20260406225355 +0800">
+		<title lang="zh">2026年春节联欢晚会宝岛恋歌（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406225355 +0800" stop="20260406225925 +0800">
+		<title lang="zh">美丽中国新疆1（8K）</title>
+	</programme>
+	<programme channel="CCTV-8K" start="20260406230000 +0800" stop="20260406235900 +0800">
+		<title lang="zh">8K再见</title>
 	</programme>
 	<channel id="重庆卫视">
 		<display-name lang="zh">重庆卫视</display-name>
@@ -17198,525 +17765,6 @@
 	</programme>
 	<programme channel="i24 news" start="20260408070000 +0800" stop="20260409000000 +0800">
 		<title lang="zh">Ça se débat</title>
-	</programme>
-	<channel id="BBC One">
-		<display-name lang="zh">BBC One</display-name>
-	</channel>
-	<programme channel="BBC One" start="20260406000000 +0800" stop="20260406010000 +0800">
-		<title lang="zh">Countryfile</title>
-	</programme>
-	<programme channel="BBC One" start="20260406010000 +0800" stop="20260406020000 +0800">
-		<title lang="zh">Secret Garden</title>
-	</programme>
-	<programme channel="BBC One" start="20260406020000 +0800" stop="20260406030000 +0800">
-		<title lang="zh">Antiques Roadshow</title>
-	</programme>
-	<programme channel="BBC One" start="20260406030000 +0800" stop="20260406033000 +0800">
-		<title lang="zh">The Other Bennet Sister</title>
-	</programme>
-	<programme channel="BBC One" start="20260406033000 +0800" stop="20260406040000 +0800">
-		<title lang="zh">The Other Bennet Sister</title>
-	</programme>
-	<programme channel="BBC One" start="20260406040000 +0800" stop="20260406050000 +0800">
-		<title lang="zh">The Capture</title>
-	</programme>
-	<programme channel="BBC One" start="20260406050000 +0800" stop="20260406052500 +0800">
-		<title lang="zh">BBC Weekend News</title>
-	</programme>
-	<programme channel="BBC One" start="20260406052500 +0800" stop="20260406053000 +0800">
-		<title lang="zh">BBC London</title>
-	</programme>
-	<programme channel="BBC One" start="20260406053000 +0800" stop="20260406075500 +0800">
-		<title lang="zh">Film: The Hunger Games: The Ballad of Songbirds &amp; Snakes</title>
-	</programme>
-	<programme channel="BBC One" start="20260406075500 +0800" stop="20260406084000 +0800">
-		<title lang="zh">The Claudia Winkleman Show</title>
-	</programme>
-	<programme channel="BBC One" start="20260406084000 +0800" stop="20260406084500 +0800">
-		<title lang="zh">Weather For the Week Ahead</title>
-	</programme>
-	<programme channel="BBC One" start="20260406084500 +0800" stop="20260406130000 +0800">
-		<title lang="zh">Joins BBC News</title>
-	</programme>
-	<programme channel="BBC One" start="20260406130000 +0800" stop="20260406163000 +0800">
-		<title lang="zh">Breakfast</title>
-	</programme>
-	<programme channel="BBC One" start="20260406163000 +0800" stop="20260406171500 +0800">
-		<title lang="zh">Animal Park</title>
-	</programme>
-	<programme channel="BBC One" start="20260406171500 +0800" stop="20260406174500 +0800">
-		<title lang="zh">Farm 999</title>
-	</programme>
-	<programme channel="BBC One" start="20260406174500 +0800" stop="20260406181500 +0800">
-		<title lang="zh">SAS: Catching the Criminals</title>
-	</programme>
-	<programme channel="BBC One" start="20260406181500 +0800" stop="20260406191500 +0800">
-		<title lang="zh">Homes Under the Hammer</title>
-	</programme>
-	<programme channel="BBC One" start="20260406191500 +0800" stop="20260406200000 +0800">
-		<title lang="zh">Bargain Hunt</title>
-	</programme>
-	<programme channel="BBC One" start="20260406200000 +0800" stop="20260406201000 +0800">
-		<title lang="zh">BBC News at One</title>
-	</programme>
-	<programme channel="BBC One" start="20260406201000 +0800" stop="20260406202000 +0800">
-		<title lang="zh">BBC London</title>
-	</programme>
-	<programme channel="BBC One" start="20260406202000 +0800" stop="20260406205000 +0800">
-		<title lang="zh">Just One Thing</title>
-	</programme>
-	<programme channel="BBC One" start="20260406205000 +0800" stop="20260406215000 +0800">
-		<title lang="zh">Garden Rescue</title>
-	</programme>
-	<programme channel="BBC One" start="20260406215000 +0800" stop="20260406225000 +0800">
-		<title lang="zh">Escape to the Country</title>
-	</programme>
-	<programme channel="BBC One" start="20260406225000 +0800" stop="20260407001500 +0800">
-		<title lang="zh">Film: Peter Rabbit</title>
-	</programme>
-	<programme channel="BBC One" start="20260407001500 +0800" stop="20260407010000 +0800">
-		<title lang="zh">New: Pointless</title>
-	</programme>
-	<programme channel="BBC One" start="20260407010000 +0800" stop="20260407012000 +0800">
-		<title lang="zh">BBC News at Six</title>
-	</programme>
-	<programme channel="BBC One" start="20260407012000 +0800" stop="20260407013000 +0800">
-		<title lang="zh">BBC London</title>
-	</programme>
-	<programme channel="BBC One" start="20260407013000 +0800" stop="20260407024500 +0800">
-		<title lang="zh">Film: Wallace &amp; Gromit: Vengeance Most Fowl</title>
-	</programme>
-	<programme channel="BBC One" start="20260407024500 +0800" stop="20260407033000 +0800">
-		<title lang="zh">Celebrity Escape to the Country</title>
-	</programme>
-	<programme channel="BBC One" start="20260407033000 +0800" stop="20260407040000 +0800">
-		<title lang="zh">EastEnders</title>
-	</programme>
-	<programme channel="BBC One" start="20260407040000 +0800" stop="20260407050000 +0800">
-		<title lang="zh">Babies</title>
-	</programme>
-	<programme channel="BBC One" start="20260407050000 +0800" stop="20260407052500 +0800">
-		<title lang="zh">BBC News at Ten</title>
-	</programme>
-	<programme channel="BBC One" start="20260407052500 +0800" stop="20260407053000 +0800">
-		<title lang="zh">BBC London</title>
-	</programme>
-	<programme channel="BBC One" start="20260407053000 +0800" stop="20260407060000 +0800">
-		<title lang="zh">Have I Got News For You</title>
-	</programme>
-	<programme channel="BBC One" start="20260407060000 +0800" stop="20260407070000 +0800">
-		<title lang="zh">Ambulance</title>
-	</programme>
-	<programme channel="BBC One" start="20260407070000 +0800" stop="20260407080000 +0800">
-		<title lang="zh">The Repair Shop</title>
-	</programme>
-	<programme channel="BBC One" start="20260407080000 +0800" stop="20260407080500 +0800">
-		<title lang="zh">Weather for the Week Ahead</title>
-	</programme>
-	<programme channel="BBC One" start="20260407080500 +0800" stop="20260407130000 +0800">
-		<title lang="zh">Joins BBC News</title>
-	</programme>
-	<programme channel="BBC One" start="20260407130000 +0800" stop="20260407163000 +0800">
-		<title lang="zh">Breakfast</title>
-	</programme>
-	<programme channel="BBC One" start="20260407163000 +0800" stop="20260407171500 +0800">
-		<title lang="zh">Animal Park</title>
-	</programme>
-	<programme channel="BBC One" start="20260407171500 +0800" stop="20260407174500 +0800">
-		<title lang="zh">Farm 999</title>
-	</programme>
-	<programme channel="BBC One" start="20260407174500 +0800" stop="20260407181500 +0800">
-		<title lang="zh">SAS: Catching the Criminals</title>
-	</programme>
-	<programme channel="BBC One" start="20260407181500 +0800" stop="20260407191500 +0800">
-		<title lang="zh">Homes Under the Hammer</title>
-	</programme>
-	<programme channel="BBC One" start="20260407191500 +0800" stop="20260407200000 +0800">
-		<title lang="zh">Bargain Hunt</title>
-	</programme>
-	<programme channel="BBC One" start="20260407200000 +0800" stop="20260407203500 +0800">
-		<title lang="zh">BBC News at One</title>
-	</programme>
-	<programme channel="BBC One" start="20260407203500 +0800" stop="20260407204500 +0800">
-		<title lang="zh">BBC London</title>
-	</programme>
-	<programme channel="BBC One" start="20260407204500 +0800" stop="20260407210000 +0800">
-		<title lang="zh">BBC News at One</title>
-	</programme>
-	<programme channel="BBC One" start="20260407210000 +0800" stop="20260407213000 +0800">
-		<title lang="zh">Just One Thing</title>
-	</programme>
-	<programme channel="BBC One" start="20260407213000 +0800" stop="20260407220000 +0800">
-		<title lang="zh">The Travelling Auctioneers</title>
-	</programme>
-	<programme channel="BBC One" start="20260407220000 +0800" stop="20260407224500 +0800">
-		<title lang="zh">Escape to the Country</title>
-	</programme>
-	<programme channel="BBC One" start="20260407224500 +0800" stop="20260407233000 +0800">
-		<title lang="zh">I Made It at Market</title>
-	</programme>
-	<programme channel="BBC One" start="20260407233000 +0800" stop="20260408001500 +0800">
-		<title lang="zh">The Finish Line</title>
-	</programme>
-	<programme channel="BBC One" start="20260408001500 +0800" stop="20260408010000 +0800">
-		<title lang="zh">Pointless</title>
-	</programme>
-	<programme channel="BBC One" start="20260408010000 +0800" stop="20260408013000 +0800">
-		<title lang="zh">BBC News at Six</title>
-	</programme>
-	<programme channel="BBC One" start="20260408013000 +0800" stop="20260408015500 +0800">
-		<title lang="zh">BBC London</title>
-	</programme>
-	<programme channel="BBC One" start="20260408015500 +0800" stop="20260408020000 +0800">
-		<title lang="zh">Party Election Broadcasts: Labour</title>
-	</programme>
-	<programme channel="BBC One" start="20260408020000 +0800" stop="20260408023000 +0800">
-		<title lang="zh">The One Show</title>
-	</programme>
-	<programme channel="BBC One" start="20260408023000 +0800" stop="20260408030000 +0800">
-		<title lang="zh">EastEnders</title>
-	</programme>
-	<programme channel="BBC One" start="20260408030000 +0800" stop="20260408040000 +0800">
-		<title lang="zh">Sort Your Life Out</title>
-	</programme>
-	<programme channel="BBC One" start="20260408040000 +0800" stop="20260408050000 +0800">
-		<title lang="zh">Babies</title>
-	</programme>
-	<programme channel="BBC One" start="20260408050000 +0800" stop="20260408053000 +0800">
-		<title lang="zh">BBC News at Ten</title>
-	</programme>
-	<programme channel="BBC One" start="20260408053000 +0800" stop="20260408054000 +0800">
-		<title lang="zh">BBC London</title>
-	</programme>
-	<programme channel="BBC One" start="20260408054000 +0800" stop="20260408072000 +0800">
-		<title lang="zh">Film: Brooklyn</title>
-	</programme>
-	<programme channel="BBC One" start="20260408072000 +0800" stop="20260408072500 +0800">
-		<title lang="zh">Weather for the Week Ahead</title>
-	</programme>
-	<programme channel="BBC One" start="20260408072500 +0800" stop="20260408130000 +0800">
-		<title lang="zh">Joins BBC News</title>
-	</programme>
-	<programme channel="BBC One" start="20260408130000 +0800" stop="20260408163000 +0800">
-		<title lang="zh">Breakfast</title>
-	</programme>
-	<programme channel="BBC One" start="20260408163000 +0800" stop="20260408171500 +0800">
-		<title lang="zh">Animal Park</title>
-	</programme>
-	<programme channel="BBC One" start="20260408171500 +0800" stop="20260408174500 +0800">
-		<title lang="zh">Farm 999</title>
-	</programme>
-	<programme channel="BBC One" start="20260408174500 +0800" stop="20260408181500 +0800">
-		<title lang="zh">SAS: Catching the Criminals</title>
-	</programme>
-	<programme channel="BBC One" start="20260408181500 +0800" stop="20260408191500 +0800">
-		<title lang="zh">Homes Under the Hammer</title>
-	</programme>
-	<programme channel="BBC One" start="20260408191500 +0800" stop="20260408200000 +0800">
-		<title lang="zh">Bargain Hunt</title>
-	</programme>
-	<programme channel="BBC One" start="20260408200000 +0800" stop="20260408203500 +0800">
-		<title lang="zh">BBC News at One</title>
-	</programme>
-	<programme channel="BBC One" start="20260408203500 +0800" stop="20260408204500 +0800">
-		<title lang="zh">BBC London</title>
-	</programme>
-	<programme channel="BBC One" start="20260408204500 +0800" stop="20260408210000 +0800">
-		<title lang="zh">BBC News at One</title>
-	</programme>
-	<programme channel="BBC One" start="20260408210000 +0800" stop="20260408213000 +0800">
-		<title lang="zh">Just One Thing</title>
-	</programme>
-	<programme channel="BBC One" start="20260408213000 +0800" stop="20260408220000 +0800">
-		<title lang="zh">The Travelling Auctioneers</title>
-	</programme>
-	<programme channel="BBC One" start="20260408220000 +0800" stop="20260408224500 +0800">
-		<title lang="zh">Escape to the Country</title>
-	</programme>
-	<programme channel="BBC One" start="20260408224500 +0800" stop="20260408233000 +0800">
-		<title lang="zh">I Made It at Market</title>
-	</programme>
-	<programme channel="BBC One" start="20260408233000 +0800" stop="20260409001500 +0800">
-		<title lang="zh">The Finish Line</title>
-	</programme>
-	<programme channel="BBC One" start="20260409001500 +0800" stop="20260409010000 +0800">
-		<title lang="zh">Pointless</title>
-	</programme>
-	<programme channel="BBC One" start="20260409010000 +0800" stop="20260409013000 +0800">
-		<title lang="zh">BBC News at Six</title>
-	</programme>
-	<programme channel="BBC One" start="20260409013000 +0800" stop="20260409015500 +0800">
-		<title lang="zh">BBC London</title>
-	</programme>
-	<programme channel="BBC One" start="20260409015500 +0800" stop="20260409020000 +0800">
-		<title lang="zh">Party Election Broadcasts: Conservative Party</title>
-	</programme>
-	<programme channel="BBC One" start="20260409020000 +0800" stop="20260409023000 +0800">
-		<title lang="zh">The One Show</title>
-	</programme>
-	<programme channel="BBC One" start="20260409023000 +0800" stop="20260409030000 +0800">
-		<title lang="zh">EastEnders</title>
-	</programme>
-	<programme channel="BBC One" start="20260409030000 +0800" stop="20260409040000 +0800">
-		<title lang="zh">The Repair Shop</title>
-	</programme>
-	<programme channel="BBC One" start="20260409040000 +0800" stop="20260409050000 +0800">
-		<title lang="zh">Ambulance</title>
-	</programme>
-	<programme channel="BBC One" start="20260409050000 +0800" stop="20260409053000 +0800">
-		<title lang="zh">BBC News at Ten</title>
-	</programme>
-	<programme channel="BBC One" start="20260409053000 +0800" stop="20260409054000 +0800">
-		<title lang="zh">BBC London</title>
-	</programme>
-	<programme channel="BBC One" start="20260409054000 +0800" stop="20260409064000 +0800">
-		<title lang="zh">UEFA Champions League</title>
-	</programme>
-	<programme channel="BBC One" start="20260409064000 +0800" stop="20260409064500 +0800">
-		<title lang="zh">Weather for the Week Ahead</title>
-	</programme>
-	<programme channel="BBC One" start="20260409064500 +0800" stop="20260410000000 +0800">
-		<title lang="zh">Joins BBC News</title>
-	</programme>
-	<channel id="BBC Two">
-		<display-name lang="zh">BBC Two</display-name>
-	</channel>
-	<programme channel="BBC Two" start="20260406000000 +0800" stop="20260406010000 +0800">
-		<title lang="zh">Flog It!</title>
-	</programme>
-	<programme channel="BBC Two" start="20260406010000 +0800" stop="20260406020000 +0800">
-		<title lang="zh">This Farming Life</title>
-	</programme>
-	<programme channel="BBC Two" start="20260406020000 +0800" stop="20260406030000 +0800">
-		<title lang="zh">Big Cats 24/7</title>
-	</programme>
-	<programme channel="BBC Two" start="20260406030000 +0800" stop="20260406040000 +0800">
-		<title lang="zh">Burma with Simon Reeve</title>
-	</programme>
-	<programme channel="BBC Two" start="20260406040000 +0800" stop="20260406050000 +0800">
-		<title lang="zh">Pilgrimage: The Road to Holy Island*</title>
-	</programme>
-	<programme channel="BBC Two" start="20260406050000 +0800" stop="20260406065000 +0800">
-		<title lang="zh">Film: The Imitation Game</title>
-	</programme>
-	<programme channel="BBC Two" start="20260406065000 +0800" stop="20260406085500 +0800">
-		<title lang="zh">Film: Being There</title>
-	</programme>
-	<programme channel="BBC Two" start="20260406085500 +0800" stop="20260406095500 +0800">
-		<title lang="zh">Forensics: The Real CSI</title>
-	</programme>
-	<programme channel="BBC Two" start="20260406095500 +0800" stop="20260406105000 +0800">
-		<title lang="zh">Babies</title>
-	</programme>
-	<programme channel="BBC Two" start="20260406105000 +0800" stop="20260406130000 +0800">
-		<title lang="zh">This is BBC Two</title>
-	</programme>
-	<programme channel="BBC Two" start="20260406130000 +0800" stop="20260406134500 +0800">
-		<title lang="zh">Make It at Market</title>
-	</programme>
-	<programme channel="BBC Two" start="20260406134500 +0800" stop="20260406141500 +0800">
-		<title lang="zh">Just One Thing</title>
-	</programme>
-	<programme channel="BBC Two" start="20260406141500 +0800" stop="20260406150000 +0800">
-		<title lang="zh">Bargain Hunt</title>
-	</programme>
-	<programme channel="BBC Two" start="20260406150000 +0800" stop="20260406160000 +0800">
-		<title lang="zh">Sort Your Life Out</title>
-	</programme>
-	<programme channel="BBC Two" start="20260406160000 +0800" stop="20260406200000 +0800">
-		<title lang="zh">BBC News</title>
-	</programme>
-	<programme channel="BBC Two" start="20260406200000 +0800" stop="20260406230500 +0800">
-		<title lang="zh">Doctor Zhivago</title>
-	</programme>
-	<programme channel="BBC Two" start="20260406230500 +0800" stop="20260406233000 +0800">
-		<title lang="zh">Best Bakes Ever</title>
-	</programme>
-	<programme channel="BBC Two" start="20260406233000 +0800" stop="20260407001000 +0800">
-		<title lang="zh">Antiques Roadshow</title>
-	</programme>
-	<programme channel="BBC Two" start="20260407001000 +0800" stop="20260407010000 +0800">
-		<title lang="zh">Flog It!</title>
-	</programme>
-	<programme channel="BBC Two" start="20260407010000 +0800" stop="20260407013000 +0800">
-		<title lang="zh">Richard Osman's House of Games</title>
-	</programme>
-	<programme channel="BBC Two" start="20260407013000 +0800" stop="20260407020000 +0800">
-		<title lang="zh">Ronan Keating's Wild Atlantic</title>
-	</programme>
-	<programme channel="BBC Two" start="20260407020000 +0800" stop="20260407023000 +0800">
-		<title lang="zh">Global Eye</title>
-	</programme>
-	<programme channel="BBC Two" start="20260407023000 +0800" stop="20260407030000 +0800">
-		<title lang="zh">Extraordinary Portraits</title>
-	</programme>
-	<programme channel="BBC Two" start="20260407030000 +0800" stop="20260407033000 +0800">
-		<title lang="zh">Mastermind</title>
-	</programme>
-	<programme channel="BBC Two" start="20260407033000 +0800" stop="20260407040000 +0800">
-		<title lang="zh">University Challenge</title>
-	</programme>
-	<programme channel="BBC Two" start="20260407040000 +0800" stop="20260407050000 +0800">
-		<title lang="zh">Pilgrimage: The Road to Holy Island*</title>
-	</programme>
-	<programme channel="BBC Two" start="20260407050000 +0800" stop="20260407071000 +0800">
-		<title lang="zh">Film: Gosford Park</title>
-	</programme>
-	<programme channel="BBC Two" start="20260407071000 +0800" stop="20260407081000 +0800">
-		<title lang="zh">Killing Sherlock: Lucy Worsley on the Case of Conan Doyle</title>
-	</programme>
-	<programme channel="BBC Two" start="20260407081000 +0800" stop="20260407090500 +0800">
-		<title lang="zh">Countryfile</title>
-	</programme>
-	<programme channel="BBC Two" start="20260407090500 +0800" stop="20260407100500 +0800">
-		<title lang="zh">Race Across the World</title>
-	</programme>
-	<programme channel="BBC Two" start="20260407100500 +0800" stop="20260407110500 +0800">
-		<title lang="zh">Babies</title>
-	</programme>
-	<programme channel="BBC Two" start="20260407110500 +0800" stop="20260407133000 +0800">
-		<title lang="zh">This is BBC Two</title>
-	</programme>
-	<programme channel="BBC Two" start="20260407133000 +0800" stop="20260407140000 +0800">
-		<title lang="zh">Just One Thing</title>
-	</programme>
-	<programme channel="BBC Two" start="20260407140000 +0800" stop="20260407150000 +0800">
-		<title lang="zh">Homes Under the Hammer</title>
-	</programme>
-	<programme channel="BBC Two" start="20260407150000 +0800" stop="20260407153000 +0800">
-		<title lang="zh">Farm 999</title>
-	</programme>
-	<programme channel="BBC Two" start="20260407153000 +0800" stop="20260407160000 +0800">
-		<title lang="zh">Lost and Found in the Lakes</title>
-	</programme>
-	<programme channel="BBC Two" start="20260407160000 +0800" stop="20260407200000 +0800">
-		<title lang="zh">BBC News</title>
-	</programme>
-	<programme channel="BBC Two" start="20260407200000 +0800" stop="20260407204500 +0800">
-		<title lang="zh">Impossible</title>
-	</programme>
-	<programme channel="BBC Two" start="20260407204500 +0800" stop="20260407213000 +0800">
-		<title lang="zh">Impossible</title>
-	</programme>
-	<programme channel="BBC Two" start="20260407213000 +0800" stop="20260407220000 +0800">
-		<title lang="zh">Lightning</title>
-	</programme>
-	<programme channel="BBC Two" start="20260407220000 +0800" stop="20260407223000 +0800">
-		<title lang="zh">Clive Myrie's Italian Road Trip</title>
-	</programme>
-	<programme channel="BBC Two" start="20260407223000 +0800" stop="20260407233000 +0800">
-		<title lang="zh">Hidden Kingdoms</title>
-	</programme>
-	<programme channel="BBC Two" start="20260407233000 +0800" stop="20260408001500 +0800">
-		<title lang="zh">Antiques Roadshow</title>
-	</programme>
-	<programme channel="BBC Two" start="20260408001500 +0800" stop="20260408010000 +0800">
-		<title lang="zh">Flog It!</title>
-	</programme>
-	<programme channel="BBC Two" start="20260408010000 +0800" stop="20260408013000 +0800">
-		<title lang="zh">Richard Osman's House of Games</title>
-	</programme>
-	<programme channel="BBC Two" start="20260408013000 +0800" stop="20260408020000 +0800">
-		<title lang="zh">Ronan Keating's Wild Atlantic</title>
-	</programme>
-	<programme channel="BBC Two" start="20260408020000 +0800" stop="20260408030000 +0800">
-		<title lang="zh">Great British Menu</title>
-	</programme>
-	<programme channel="BBC Two" start="20260408030000 +0800" stop="20260408040000 +0800">
-		<title lang="zh">Britain's Biggest Warship</title>
-	</programme>
-	<programme channel="BBC Two" start="20260408040000 +0800" stop="20260408050000 +0800">
-		<title lang="zh">Pilgrimage: The Road to Holy Island</title>
-	</programme>
-	<programme channel="BBC Two" start="20260408050000 +0800" stop="20260408053000 +0800">
-		<title lang="zh">QI</title>
-	</programme>
-	<programme channel="BBC Two" start="20260408053000 +0800" stop="20260408060000 +0800">
-		<title lang="zh">Newsnight</title>
-	</programme>
-	<programme channel="BBC Two" start="20260408060000 +0800" stop="20260408065500 +0800">
-		<title lang="zh">Inside Britain's National Parks</title>
-	</programme>
-	<programme channel="BBC Two" start="20260408065500 +0800" stop="20260408075500 +0800">
-		<title lang="zh">Killing Sherlock: Lucy Worsley on the Case of Conan Doyle</title>
-	</programme>
-	<programme channel="BBC Two" start="20260408075500 +0800" stop="20260408085500 +0800">
-		<title lang="zh">The Apprentice</title>
-	</programme>
-	<programme channel="BBC Two" start="20260408085500 +0800" stop="20260408092500 +0800">
-		<title lang="zh">The Apprentice: Unfinished Business</title>
-	</programme>
-	<programme channel="BBC Two" start="20260408092500 +0800" stop="20260408095000 +0800">
-		<title lang="zh">The Young Offenders</title>
-	</programme>
-	<programme channel="BBC Two" start="20260408095000 +0800" stop="20260408105000 +0800">
-		<title lang="zh">Harry Clark Goes to Rome</title>
-	</programme>
-	<programme channel="BBC Two" start="20260408105000 +0800" stop="20260408133000 +0800">
-		<title lang="zh">This is BBC Two</title>
-	</programme>
-	<programme channel="BBC Two" start="20260408133000 +0800" stop="20260408140000 +0800">
-		<title lang="zh">Just One Thing</title>
-	</programme>
-	<programme channel="BBC Two" start="20260408140000 +0800" stop="20260408150000 +0800">
-		<title lang="zh">Homes Under the Hammer</title>
-	</programme>
-	<programme channel="BBC Two" start="20260408150000 +0800" stop="20260408160000 +0800">
-		<title lang="zh">Great British Menu</title>
-	</programme>
-	<programme channel="BBC Two" start="20260408160000 +0800" stop="20260408200000 +0800">
-		<title lang="zh">BBC News</title>
-	</programme>
-	<programme channel="BBC Two" start="20260408200000 +0800" stop="20260408204500 +0800">
-		<title lang="zh">Impossible</title>
-	</programme>
-	<programme channel="BBC Two" start="20260408204500 +0800" stop="20260408213000 +0800">
-		<title lang="zh">The Tournament</title>
-	</programme>
-	<programme channel="BBC Two" start="20260408213000 +0800" stop="20260408220000 +0800">
-		<title lang="zh">Lightning</title>
-	</programme>
-	<programme channel="BBC Two" start="20260408220000 +0800" stop="20260408223000 +0800">
-		<title lang="zh">Clive Myrie's Italian Road Trip</title>
-	</programme>
-	<programme channel="BBC Two" start="20260408223000 +0800" stop="20260408233000 +0800">
-		<title lang="zh">Hidden Kingdoms</title>
-	</programme>
-	<programme channel="BBC Two" start="20260408233000 +0800" stop="20260409001500 +0800">
-		<title lang="zh">Antiques Roadshow</title>
-	</programme>
-	<programme channel="BBC Two" start="20260409001500 +0800" stop="20260409010000 +0800">
-		<title lang="zh">Flog It!</title>
-	</programme>
-	<programme channel="BBC Two" start="20260409010000 +0800" stop="20260409013000 +0800">
-		<title lang="zh">Richard Osman's House of Games</title>
-	</programme>
-	<programme channel="BBC Two" start="20260409013000 +0800" stop="20260409020000 +0800">
-		<title lang="zh">Ronan Keating's Wild Atlantic</title>
-	</programme>
-	<programme channel="BBC Two" start="20260409020000 +0800" stop="20260409030000 +0800">
-		<title lang="zh">Great British Menu</title>
-	</programme>
-	<programme channel="BBC Two" start="20260409030000 +0800" stop="20260409040000 +0800">
-		<title lang="zh">Digging for Britain</title>
-	</programme>
-	<programme channel="BBC Two" start="20260409040000 +0800" stop="20260409050000 +0800">
-		<title lang="zh">Michael Jackson: An American Tragedy</title>
-	</programme>
-	<programme channel="BBC Two" start="20260409050000 +0800" stop="20260409053000 +0800">
-		<title lang="zh">Twenty Twenty Six</title>
-	</programme>
-	<programme channel="BBC Two" start="20260409053000 +0800" stop="20260409060000 +0800">
-		<title lang="zh">Newsnight</title>
-	</programme>
-	<programme channel="BBC Two" start="20260409060000 +0800" stop="20260409064500 +0800">
-		<title lang="zh">Captive Audience: A Real American Horror Story</title>
-	</programme>
-	<programme channel="BBC Two" start="20260409064500 +0800" stop="20260409074500 +0800">
-		<title lang="zh">Killing Sherlock: Lucy Worsley on the Case of Conan Doyle</title>
-	</programme>
-	<programme channel="BBC Two" start="20260409074500 +0800" stop="20260410000000 +0800">
-		<title lang="zh">Murder Case</title>
 	</programme>
 	<channel id="ITV">
 		<display-name lang="zh">ITV</display-name>
