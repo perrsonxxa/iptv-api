@@ -320,8 +320,6 @@ https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-45
 https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
 #EXTINF:-1 tvg-id="ElbesharaGTV.us@SD",Elbeshara GTV (1080p) [Not 24/7]
 http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPNDeportes.us@SD",ESPN Deportes (360p)
-https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 #EXTINF:-1 tvg-id="",Everyday Refresh (720p)
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8
 #EXTINF:-1 tvg-id="ExtremaTV.us@SD",Extrema TV (720p)
@@ -800,8 +798,6 @@ https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="SpiritTV.us@SD",Spirit TV (720p) [Not 24/7]
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@South",Star Channel Latin America South (1080p)
-http://181.188.216.5:18000/play/a0pm/index.m3u8
 #EXTINF:-1 tvg-id="Starz.us@East",Starz (1080p)
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:-1 tvg-id="StingrayGreatestHolidayHits.us@SD",Stingray Greatest Holiday Hits
@@ -834,8 +830,6 @@ http://62.32.67.187:1935/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8
 https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
 #EXTINF:-1 tvg-id="TelemundoAlDia.us@HD",Telemundo Al Dia
 https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
-#EXTINF:-1 tvg-id="TelemundoInternacional.us@South",Telemundo Internacional (480p)
-http://190.2.212.209:8050/play/a0oa
 #EXTINF:-1 tvg-id="TelemundoInternacional.us@South",Telemundo Internacional
 http://181.114.57.246:4000/play/XmUjm3NXcGJkvvQ8/index.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us@SD",Tennis Channel (1080p)
@@ -1169,3 +1163,25 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26.playl
 https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8
 #EXTINF:-1 tvg-id="DirecTVSports.us@Panregional",DirecTV Sports (1080p)
 https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
+#EXTINF:-1 tvg-id="ESPNDeportes.us@SD",ESPN Deportes (360p)
+http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional",Lifetime Latin America (720p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/Lifetime_720.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.us@South",Telemundo Internacional (720p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26_720.m3u8
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@North",Nickelodeon Latin America North (480p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-33_480.m3u8
+#EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional",History 2 Latin America (480p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-41_480.m3u8
+#EXTINF:-1 tvg-id="HistoryenEspanol.us@SD",History en Espanol (480p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-40_480.m3u8
+#EXTINF:-1 tvg-id="AELatinAmerica.us@South",A&E Latin America South (480p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-71_480.m3u8
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@South",Star Channel Latin America South (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-68.playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us@Panregional",Comedy Central Latin America (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSports3LatinAmerica.us@Panregional",Fox Sports 3 Latin America (1080p)
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@East",Nickelodeon (576i)
+http://79.127.207.193/Nickelodeon/playlist.m3u8
