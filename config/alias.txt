@@ -60,7 +60,7 @@ CCTV-16 4K,CCTV 16 4K,CCTV-16 4K,CCTV-16奥林匹克4K（5.1环绕声）,CCTV16(
 浙江卫视4K,浙江4K
 黑龙江卫视4K,黑龙江4K
 河南卫视4K,河南4K
-无线翡4K,无线翡4k
+无线翡翠4K,無線翡翠4k
 
 CETV-1,CETV1,CETV1中国教育,CETV1 中国教育,中国教育1,中国教育1HD
 CETV-2,CETV2,CETV2中国教育,CETV2 中国教育,中国教育2,中国教育2HD
