@@ -139,6 +139,7 @@ https://raw.githubusercontent.com/perrsonxxa/guan/main/%E6%B2%B3%E5%8C%97%E8%81%
 # https://raw.githubusercontent.com/yaoxieyoulei/YYKM_assets/main/webview.m3u
 https://github.com/perrsonxxa/iptv-api/raw/master/output/user_result-gat-ov.m3u
 https://raw.githubusercontent.com/perrsonxxa/guan/main/%E6%B2%B3%E5%8C%97%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD.txt  # 河北联通组播
+https://raw.githubusercontent.com/perrsonxxa/perrson/main/20260407102921.txt #测试源
 https://live.hacks.tools/iptv/categories/news.m3u
 https://live.hacks.tools/iptv/languages/fas.m3u
 https://raw.githubusercontent.com/YueChan/Live/main/Global.m3u
