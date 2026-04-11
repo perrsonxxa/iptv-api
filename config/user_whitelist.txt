@@ -80,6 +80,15 @@ CCTV4美洲,http://iptv.19840608.xyz:16666/rtp/239.69.1.232:11034
 世界地理,http://112.234.23.157:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 世界地理,http://60.2.190.206:4000/udp/239.253.92.113:8066$订阅源
 兵器科技,http://60.2.190.206:4000/udp/239.253.93.47:6435$订阅源
+第一剧场,http://120.238.84.45:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
+风云足球,http://120.238.84.45:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
+世界地理,http://120.238.84.45:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
+风云音乐,http://120.238.84.45:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
+风云剧场,http://120.238.84.45:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
+怀旧剧场,http://120.238.84.45:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
+文化精品,http://120.238.84.45:9901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭影院,http://120.238.84.45:9901/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://120.238.84.45:9901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
 中天新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20173$订阅源
 中天新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20222$订阅源
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct406$LR•IPV4『线路30』
@@ -91,6 +100,7 @@ CCTV4美洲,http://iptv.19840608.xyz:16666/rtp/239.69.1.232:11034
 凤凰香港,http://115.44.140.170:18180/TV00000000000000000024@HHZT
 凤凰中文,http://iptv.19840608.xyz:16666/rtp/239.69.2.20:11274
 凤凰资讯,http://iptv.19840608.xyz:16666/rtp/239.69.2.19:11268
+http://120.238.84.45:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv$订阅源
 凤凰中文,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 凤凰资讯,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20061$订阅源
