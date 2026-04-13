@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260413052544 +0800">
+<tv date="20260413140915 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -17630,6 +17630,273 @@
 	</programme>
 	<programme channel="CNN International" start="20260413220000 +0800" stop="20260414000000 +0800">
 		<title lang="zh">Connect the World</title>
+	</programme>
+	<channel id="Euronews">
+		<display-name lang="zh">Euronews</display-name>
+	</channel>
+	<programme channel="Euronews" start="20260413000000 +0800" stop="20260413000500 +0800">
+		<title lang="zh">5 минут</title>
+	</programme>
+	<programme channel="Euronews" start="20260413000500 +0800" stop="20260413003000 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413003000 +0800" stop="20260413003800 +0800">
+		<title lang="zh">5 минут</title>
+	</programme>
+	<programme channel="Euronews" start="20260413003800 +0800" stop="20260413004800 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413004800 +0800" stop="20260413010000 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413010000 +0800" stop="20260413010500 +0800">
+		<title lang="zh">5 минут</title>
+	</programme>
+	<programme channel="Euronews" start="20260413010500 +0800" stop="20260413012900 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413012900 +0800" stop="20260413013400 +0800">
+		<title lang="zh">5 минут</title>
+	</programme>
+	<programme channel="Euronews" start="20260413013400 +0800" stop="20260413020000 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413020000 +0800" stop="20260413020500 +0800">
+		<title lang="zh">5 минут</title>
+	</programme>
+	<programme channel="Euronews" start="20260413020500 +0800" stop="20260413023000 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413023000 +0800" stop="20260413023800 +0800">
+		<title lang="zh">5 минут</title>
+	</programme>
+	<programme channel="Euronews" start="20260413023800 +0800" stop="20260413024800 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413024800 +0800" stop="20260413030000 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413030000 +0800" stop="20260413030500 +0800">
+		<title lang="zh">5 минут</title>
+	</programme>
+	<programme channel="Euronews" start="20260413030500 +0800" stop="20260413032900 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413032900 +0800" stop="20260413033400 +0800">
+		<title lang="zh">5 минут</title>
+	</programme>
+	<programme channel="Euronews" start="20260413033400 +0800" stop="20260413040000 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413040000 +0800" stop="20260413040500 +0800">
+		<title lang="zh">5 минут</title>
+	</programme>
+	<programme channel="Euronews" start="20260413040500 +0800" stop="20260413043000 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413043000 +0800" stop="20260413043800 +0800">
+		<title lang="zh">5 минут</title>
+	</programme>
+	<programme channel="Euronews" start="20260413043800 +0800" stop="20260413044800 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413044800 +0800" stop="20260413050000 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413050000 +0800" stop="20260413050500 +0800">
+		<title lang="zh">5 минут</title>
+	</programme>
+	<programme channel="Euronews" start="20260413050500 +0800" stop="20260413052900 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413052900 +0800" stop="20260413053400 +0800">
+		<title lang="zh">5 минут</title>
+	</programme>
+	<programme channel="Euronews" start="20260413053400 +0800" stop="20260413060000 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413060000 +0800" stop="20260413060500 +0800">
+		<title lang="zh">Европейский отчет</title>
+	</programme>
+	<programme channel="Euronews" start="20260413060500 +0800" stop="20260413062900 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413062900 +0800" stop="20260413063400 +0800">
+		<title lang="zh">Европейский отчет</title>
+	</programme>
+	<programme channel="Euronews" start="20260413063400 +0800" stop="20260413070000 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413070000 +0800" stop="20260413070500 +0800">
+		<title lang="zh">Европейский отчет</title>
+	</programme>
+	<programme channel="Euronews" start="20260413070500 +0800" stop="20260413073000 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413073000 +0800" stop="20260413073800 +0800">
+		<title lang="zh">Европейский отчет</title>
+	</programme>
+	<programme channel="Euronews" start="20260413073800 +0800" stop="20260413074800 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413074800 +0800" stop="20260413080000 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413080000 +0800" stop="20260413080500 +0800">
+		<title lang="zh">Европейский отчет</title>
+	</programme>
+	<programme channel="Euronews" start="20260413080500 +0800" stop="20260413082900 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413082900 +0800" stop="20260413083400 +0800">
+		<title lang="zh">Европейский отчет</title>
+	</programme>
+	<programme channel="Euronews" start="20260413083400 +0800" stop="20260413090000 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413090000 +0800" stop="20260413090500 +0800">
+		<title lang="zh">Европейский отчет</title>
+	</programme>
+	<programme channel="Euronews" start="20260413090500 +0800" stop="20260413093000 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413093000 +0800" stop="20260413093800 +0800">
+		<title lang="zh">Европейский отчет</title>
+	</programme>
+	<programme channel="Euronews" start="20260413093800 +0800" stop="20260413094800 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413094800 +0800" stop="20260413100000 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413100000 +0800" stop="20260413100500 +0800">
+		<title lang="zh">Европейский отчет</title>
+	</programme>
+	<programme channel="Euronews" start="20260413100500 +0800" stop="20260413102900 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413102900 +0800" stop="20260413103400 +0800">
+		<title lang="zh">Европейский отчет</title>
+	</programme>
+	<programme channel="Euronews" start="20260413103400 +0800" stop="20260413110000 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413110000 +0800" stop="20260413110500 +0800">
+		<title lang="zh">Европейский отчет</title>
+	</programme>
+	<programme channel="Euronews" start="20260413110500 +0800" stop="20260413113000 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413113000 +0800" stop="20260413113800 +0800">
+		<title lang="zh">Европейский отчет</title>
+	</programme>
+	<programme channel="Euronews" start="20260413113800 +0800" stop="20260413114800 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413114800 +0800" stop="20260413120000 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413120000 +0800" stop="20260413120700 +0800">
+		<title lang="zh">Подъем, Европа</title>
+	</programme>
+	<programme channel="Euronews" start="20260413120700 +0800" stop="20260413121400 +0800">
+		<title lang="zh">Современный кочевой Казахстан</title>
+	</programme>
+	<programme channel="Euronews" start="20260413121400 +0800" stop="20260413123000 +0800">
+		<title lang="zh">Подъем, Европа</title>
+	</programme>
+	<programme channel="Euronews" start="20260413123000 +0800" stop="20260413124600 +0800">
+		<title lang="zh">Подъем, Европа</title>
+	</programme>
+	<programme channel="Euronews" start="20260413124600 +0800" stop="20260413130000 +0800">
+		<title lang="zh">Подъем, Европа</title>
+	</programme>
+	<programme channel="Euronews" start="20260413130000 +0800" stop="20260413131500 +0800">
+		<title lang="zh">Подъем, Европа</title>
+	</programme>
+	<programme channel="Euronews" start="20260413131500 +0800" stop="20260413133000 +0800">
+		<title lang="zh">Подъем, Европа</title>
+	</programme>
+	<programme channel="Euronews" start="20260413133000 +0800" stop="20260413134500 +0800">
+		<title lang="zh">Подъем, Европа</title>
+	</programme>
+	<programme channel="Euronews" start="20260413134500 +0800" stop="20260413140000 +0800">
+		<title lang="zh">Подъем, Европа</title>
+	</programme>
+	<programme channel="Euronews" start="20260413140000 +0800" stop="20260413143000 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413143000 +0800" stop="20260413144800 +0800">
+		<title lang="zh">Подъем, Европа</title>
+	</programme>
+	<programme channel="Euronews" start="20260413144800 +0800" stop="20260413150000 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413150000 +0800" stop="20260413153000 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413153000 +0800" stop="20260413160000 +0800">
+		<title lang="zh">Подъем, Европа</title>
+	</programme>
+	<programme channel="Euronews" start="20260413160000 +0800" stop="20260413163000 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413163000 +0800" stop="20260413170000 +0800">
+		<title lang="zh">Евроньюс. Сегодня</title>
+	</programme>
+	<programme channel="Euronews" start="20260413170000 +0800" stop="20260413171700 +0800">
+		<title lang="zh">Евроньюс. Сегодня</title>
+	</programme>
+	<programme channel="Euronews" start="20260413171700 +0800" stop="20260413173000 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413173000 +0800" stop="20260413180000 +0800">
+		<title lang="zh">Европейский разговор</title>
+	</programme>
+	<programme channel="Euronews" start="20260413180000 +0800" stop="20260413181500 +0800">
+		<title lang="zh">Евроньюс. Сегодня</title>
+	</programme>
+	<programme channel="Euronews" start="20260413181500 +0800" stop="20260413183000 +0800">
+		<title lang="zh">Евроньюс. Сегодня</title>
+	</programme>
+	<programme channel="Euronews" start="20260413183000 +0800" stop="20260413190000 +0800">
+		<title lang="zh">Евроньюс. Сегодня</title>
+	</programme>
+	<programme channel="Euronews" start="20260413190000 +0800" stop="20260413191500 +0800">
+		<title lang="zh">Евроньюс. Сегодня</title>
+	</programme>
+	<programme channel="Euronews" start="20260413191500 +0800" stop="20260413193000 +0800">
+		<title lang="zh">Евроньюс. Сегодня</title>
+	</programme>
+	<programme channel="Euronews" start="20260413193000 +0800" stop="20260413200000 +0800">
+		<title lang="zh">Евроньюс. Сегодня</title>
+	</programme>
+	<programme channel="Euronews" start="20260413200000 +0800" stop="20260413201500 +0800">
+		<title lang="zh">Евроньюс. Сегодня</title>
+	</programme>
+	<programme channel="Euronews" start="20260413201500 +0800" stop="20260413203000 +0800">
+		<title lang="zh">Евроньюс. Сегодня</title>
+	</programme>
+	<programme channel="Euronews" start="20260413203000 +0800" stop="20260413210000 +0800">
+		<title lang="zh">Евроньюс. Сегодня</title>
+	</programme>
+	<programme channel="Euronews" start="20260413210000 +0800" stop="20260413211500 +0800">
+		<title lang="zh">Евроньюс. Сегодня</title>
+	</programme>
+	<programme channel="Euronews" start="20260413211500 +0800" stop="20260413213000 +0800">
+		<title lang="zh">Евроньюс. Сегодня</title>
+	</programme>
+	<programme channel="Euronews" start="20260413213000 +0800" stop="20260413220000 +0800">
+		<title lang="zh">Евроньюс. Сегодня</title>
+	</programme>
+	<programme channel="Euronews" start="20260413220000 +0800" stop="20260413221800 +0800">
+		<title lang="zh">Евроньюс. Сегодня</title>
+	</programme>
+	<programme channel="Euronews" start="20260413221800 +0800" stop="20260413223000 +0800">
+		<title lang="zh">Новости</title>
+	</programme>
+	<programme channel="Euronews" start="20260413223000 +0800" stop="20260414000000 +0800">
+		<title lang="zh">Евроньюс. Сегодня</title>
 	</programme>
 	<channel id="RT News">
 		<display-name lang="zh">RT News</display-name>

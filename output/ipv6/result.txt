@@ -1,33 +1,27 @@
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
 CCTV-1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV-1,https://cdn13.178.indevs.in/163189/bea1d91d91364062$IPV4•线路13
 CCTV-2,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?
 CCTV-2,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-2,https://v.iill.top/api/CCTV2/index.m3u8$订阅源
-CCTV-2,https://cdn13.178.indevs.in/163189/728a0426e886a6b6$订阅源
 CCTV-3,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8?
 CCTV-3,https://v.iill.top/api/CCTV3/index.m3u8$订阅源
-CCTV-3,https://cdn16.163189.xyz/163189/96a39bfe7103e9c5$订阅源
 CCTV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?
 CCTV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-4,https://v.iill.top/api/CCTV4/index.m3u8$订阅源
-CCTV-4,https://cdn13.178.indevs.in/163189/ea38b764c2a9e93f$订阅源
 CCTV-5,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
 CCTV-5,https://v.iill.top/api/CCTV5/index.m3u8$订阅源
 CCTV-5,https://cdn16.163189.xyz/163189/04fd1e256f077cb4$订阅源
 CCTV-5+,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?
 CCTV-5+,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-CCTV-5+,https://cdn16.163189.xyz/163189/a546ae65742101d4$订阅源
 CCTV-6,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?
 CCTV-6,https://v.iill.top/api/CCTV6/index.m3u8$订阅源
-CCTV-6,https://cdn16.163189.xyz/163189/4ceb289726bacf29$订阅源
 CCTV-7,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?
 CCTV-7,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2bEV_zkW1hRnWmsZq6rlbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-7,https://v.iill.top/api/CCTV7/index.m3u8$订阅源
-CCTV-7,https://cdn16.163189.xyz/163189/2a66b331c01cf2cf$订阅源
 CCTV-8,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8?
 CCTV-8,https://v.iill.top/api/CCTV8/index.m3u8$订阅源
-CCTV-8,https://cdn16.163189.xyz/163189/88364a089ee099b9$订阅源
 CCTV-9,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?
 CCTV-9,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EgdZMBjOTdDWVEgovFkZoew%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-9,https://v.iill.top/api/CCTV9/index.m3u8$订阅源
@@ -38,20 +32,17 @@ CCTV-10,https://cdn16.163189.xyz/163189/02b8dd6e6d732d7d$订阅源
 CCTV-11,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?
 CCTV-11,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0RcQQbNseiHvFO8XWf466A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-11,https://v.iill.top/api/CCTV11/index.m3u8$订阅源
-CCTV-11,https://cdn16.163189.xyz/163189/b29354983d6346c5$订阅源
 CCTV-12,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?
 CCTV-12,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E9nVa4WyKpuJgFy6Zh4TplQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-12,https://v.iill.top/api/CCTV12/index.m3u8$订阅源
-CCTV-12,https://cdn16.163189.xyz/163189/ed91886aa823a364$订阅源
 CCTV-13,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?
 CCTV-13,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-13,http://cdn3.163189.xyz/163189/cctv13$订阅源
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
-CCTV-13,https://v.iill.top/api/CCTV13/index.m3u8$订阅源
 CCTV-13,https://cdn13.178.indevs.in/163189/790bc5f7f0f06879$IPV4•线路10
+CCTV-13,https://v.iill.top/api/CCTV13/index.m3u8$订阅源
 CCTV-14,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?
 CCTV-14,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EgtTqPYLE5COifF-qvYi2Ig%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-CCTV-14,https://cdn16.163189.xyz/163189/7b67a22535e8be8e$订阅源
 CCTV-15,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?
 CCTV-15,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWyklhmFh7oMx-lG1tNUcSQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-15,https://v.iill.top/api/CCTV15/index.m3u8$订阅源
@@ -125,6 +116,10 @@ CCTV-17,https://cdn16.163189.xyz/163189/22590fc69319c801$订阅源
 兵器科技,http://60.2.190.206:4000/udp/239.253.93.47:6435$订阅源
 
 4K频道,#genre#
+CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
+CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
+CCTV4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8
+CCTV-164K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8
 北京卫视4K,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 北京卫视4K,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 东方卫视4K,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0uh4lyjjBCCN7TCq21vSIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -138,6 +133,7 @@ CCTV-17,https://cdn16.163189.xyz/163189/22590fc69319c801$订阅源
 江苏卫视4K,https://v.iill.top/api/jsws/index.m3u8$订阅源
 广东卫视4K,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 广东卫视4K,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+广东卫视4K,http://9.zubo.cc.cd/bjlt.php?id=45$订阅源
 深圳卫视4K,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 深圳卫视4K,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 山东卫视4K,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjW26v5VaHGy1jQuIA-4EbA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -148,7 +144,7 @@ CCTV-17,https://cdn16.163189.xyz/163189/22590fc69319c801$订阅源
 河北卫视4K,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227014/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErSGjhI3DMaaAASPrbQJYTg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 黑龙江卫视4K,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 黑龙江卫视4K,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-河南卫视4K,https://live.lalifeier.eu.org/hntv/hnws.m3u8?t=1776053202&key=fa0311a9ddfdd4ff55be6c3a463eecc9$订阅源
+河南卫视4K,https://live.lalifeier.eu.org/hntv/hnws.m3u8?t=1776088607&key=adde3845e207953aff3de30d632dce20$订阅源
 
 📡卫视频道,#genre#
 广东卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -175,7 +171,6 @@ CCTV-17,https://cdn16.163189.xyz/163189/22590fc69319c801$订阅源
 广西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227010/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkAhb-89sxdm9fz6-heXCuw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 广西卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227010/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkAhb-89sxdm9fz6-heXCuw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8$订阅源
-广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8$订阅源
 贵州卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnqBF03rFwPucF8ODtWxLQQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 贵州卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnqBF03rFwPucF8ODtWxLQQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 海南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -231,30 +226,26 @@ CCTV-17,https://cdn16.163189.xyz/163189/22590fc69319c801$订阅源
 中天新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20173$订阅源
 中天新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20222$订阅源
 中天新闻,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009$订阅源
-中天新闻,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv009&token=xiatianshigou$IPV4•线路1
-中天新闻,https://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv009&token=xiatianshigou$订阅源
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct406$LR•IPV4『线路30』
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct720$LR•IPV4『线路31』
 翡翠台,http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsqxqfsqqcvbctvbfc.flv
-翡翠台,http://cdn6.163189.xyz/163189/fct4k$订阅源
-翡翠台,https://cdn6.163189.xyz/163189/fct4k$IPV4•线路2
 翡翠台,http://r.jdshipin.com/n90gt$IPV4•线路16
 翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/$IPV4•线路1
-翡翠台,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-翡翠台,http://r.jdshipin.com/qClQf$IPV4•线路18
-翡翠台,http://r.jdshipin.com/GeWKr$IPV4•线路20
-翡翠台,http://r.jdshipin.com/thuYX$订阅源
 翡翠台,http://r.jdshipin.com/qrfbg$IPV4•线路12
+翡翠台,http://r.jdshipin.com/thuYX$订阅源
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/$IPV4•线路4
+翡翠台,https://o11.163189.xyz/stream/tvb/fct/$订阅源
+翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn$订阅源
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct$IPV4•线路3
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct$IPV4•线路5
-明珠台,http://r.jdshipin.com/GeWKr?id=mzt720$订阅源
-明珠台,https://o11.163189.xyz/stream/tvb/mzt/$订阅源
+翡翠台,https://cdn6.163189.xyz/163189/fct4k$IPV4•线路2
+翡翠台,http://r.jdshipin.com/GeWKr$IPV4•线路20
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/$IPV4•线路2
 明珠台,http://r.jdshipin.com/ZQ4kN$IPV4•线路8
-明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
-明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt$IPV4•线路1
+明珠台,https://o11.163189.xyz/stream/tvb/mzt/$订阅源
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt$IPV4•线路3
+明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt$IPV4•线路1
+明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
 凤凰中文,http://115.44.140.170:18180/TV00000000000000000008@HHZT
 凤凰中文,http://iptv.19840608.xyz:16666/rtp/239.69.2.20:11274
 凤凰中文,http://120.238.84.45:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -266,10 +257,9 @@ CCTV-17,https://cdn16.163189.xyz/163189/22590fc69319c801$订阅源
 凤凰中文,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv$订阅源
 凤凰中文,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1$订阅源
 凤凰中文,http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhzwhd&apiKey=73c963d13814ce7d0e4743c5e7d033cc$IPV4•线路22
-凤凰中文,https://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw$订阅源
+凤凰中文,https://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰中文,http://r.jdshipin.com/cCCzW$IPV4•线路10
-凤凰中文,http://api.kkhk.itv888.vip:8080/streams/vny1wblsnch/index.m3u8$订阅源
 凤凰资讯,http://115.44.140.170:18180/TV00000000000000000009@HHZT
 凤凰资讯,http://iptv.19840608.xyz:16666/rtp/239.69.2.19:11268
 凤凰资讯,http://129.211.14.102:25000/newtv.php?id=fhzx&token=www.9kds.com
@@ -278,9 +268,9 @@ CCTV-17,https://cdn16.163189.xyz/163189/22590fc69319c801$订阅源
 凤凰资讯,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1$订阅源
 凤凰资讯,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv$订阅源
 凤凰资讯,http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhzxhd&apiKey=73c963d13814ce7d0e4743c5e7d033cc$IPV4•线路22
+凤凰资讯,http://r.jdshipin.com/0Rp07$IPV4•线路9
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx$IPV4•线路15
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx$订阅源
-凤凰资讯,http://r.jdshipin.com/0Rp07$IPV4•线路9
 凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd$IPV4•线路1
 凤凰香港,http://115.44.140.170:18180/TV00000000000000000024@HHZT
 凤凰香港,http://129.211.14.102:25000/newtv.php?id=fhxg&token=www.9kds.com
@@ -289,17 +279,15 @@ CCTV-17,https://cdn16.163189.xyz/163189/22590fc69319c801$订阅源
 凤凰香港,http://221.229.212.86:14897
 凤凰香港,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUkn8SJteYZ9uqzUO6nYtuUh6F-PN7bfjcRGaPw6WlGqRJXDBhEndnIu4j9XCk2jMbsgXqcdc5EoIBXfD7zolJBsvKapI6zL3TY0miLmlXbN6s1HL9nbhZ_-YYylQavg8fyJuokqsa-c_dYoVldu95ImgqU0t9mxSaKem7IJRiBJmz9a_295GFeFQ89c_Ubo4Q9g.m3u8?u=1756878715$IPV4•线路4
 凤凰香港,http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhxghd&apiKey=73c963d13814ce7d0e4743c5e7d033cc$IPV4•线路18
-凤凰香港,http://cdn6.163189.xyz/163189/fhhk$订阅源
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk$订阅源
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk$订阅源
 凤凰香港,http://r.jdshipin.com/yDoTN$IPV4•线路7
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$IPV4•线路1
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$LR•IPV4『线路2』
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$LR•IPV4『线路3』
 TVBS亚洲,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20190$订阅源
-无线新闻,https://cdn6.163189.xyz/163189/wxxw$订阅源
-无线新闻,http://r.jdshipin.com/CkuBd$IPV4•线路1
-无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$订阅源
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn$订阅源
+无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$订阅源
 三立新闻,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立INEW$订阅源
 东森综合,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyqP7JL5zoJwS4YNNznemr_YdtSKhh6NNAwR9PzzP461sjhlssLp3lK6UJ8-tnuwG8CbBxKI1dg3OfG2PGsVIQaseJXA6DBTaS0MuVPFR_aOdPVW3LH5YhV9dtBSNyWyJZiz6NyMdgyeWK4kjvnkBH2wPAT52wt91Db438hm8mDpNXQRutSpHIsBlvrQktzdyMg.m3u8?u=1756878715$IPV4•线路2
 靖天资讯,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv065$订阅源
@@ -308,7 +296,6 @@ TVBS亚洲,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=2
 CHC家庭影院,http://iptv.19840608.xyz:16666/rtp/239.69.1.243:11100
 CHC家庭影院,http://120.238.84.45:9901/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://61.184.46.85:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CHC家庭影院,https://cdn13.178.indevs.in/163189/adafdc2e9ef83fe0$订阅源
 CHC动作电影,http://iptv.19840608.xyz:16666/rtp/239.69.1.242:11094
 CHC动作电影,http://120.238.84.45:9901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
@@ -322,10 +309,9 @@ CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&pl
 经典电影,http://113.25.252.226:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 经典电影,https://yylunbo.ottiptv.cc/yy/1414812324$订阅源
 天映经典,https://o11.163189.xyz/stream/live/ccm/$订阅源
-天映经典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2$订阅源
-无线星河,https://cdn6.163189.xyz/163189/tvbxh$订阅源
 无线星河,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe$订阅源
 无线星河,https://cdn9.163189.xyz/smt1.1.php?id=Xinhe$订阅源
+无线星河,https://cdn6.163189.xyz/163189/tvbxh$订阅源
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 星空卫视,http://36.36.200.198:44330/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 星空卫视,http://49.234.31.101:7033/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -338,8 +324,7 @@ CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&pl
 广东体育,http://hello.ejoydom.com:9999/udp/239.77.0.112:5146
 广东体育,http://hongzhijiaoyu.net:8188/udp/239.77.0.112:5146
 广东体育,http://idc.zymok.cn:10000/udp/239.77.0.112:5146
-精品体育,http://129.211.14.102:25000/newtv.php?id=jpty&token=www.9kds.com
-精品体育,http://129.211.14.102:25000/newtv.php?id=jpty2&token=www.9kds.com
+广东体育,http://r.jdshipin.com/LiYdg$IPV4•线路24
 风云足球,http://iptv.19840608.xyz:16666/rtp/239.69.1.81:10126
 风云足球,http://60.0.84.130:9999/rtp/239.253.92.110:8061
 风云足球,http://60.0.84.130:9999/rtp/239.253.93.254:6432
@@ -401,6 +386,7 @@ Payvand TV,https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
 Baran TV,https://lenz.splus.ir/PLTV/88888888/224/3221226902/index.m3u8
 Channel 4,https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 TRT World,https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+TRT World,https://tv-trtworld.medya.trt.com.tr/master.m3u8$订阅源
 RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 RT News,https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8$订阅源
 Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
@@ -431,4 +417,4 @@ CCTV-15,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?Guar
 风云音乐,http://120.238.84.45:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🕘️更新时间,#genre#
-2026-04-13 15:06:49,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
+2026-04-13 23:53:48,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
