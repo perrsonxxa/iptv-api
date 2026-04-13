@@ -197,6 +197,7 @@ ABC News
 Fox News
 Sky News
 i24 news
+France 24
 Press TV
 Iran International
 Al Jazeera English
