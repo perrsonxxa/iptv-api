@@ -151,11 +151,16 @@ NewTV中国功夫,NEWTV中国功夫,中国功夫
 
 
 中天新闻,中天新闻台,中天新闻 HD,中天新闻台 HD,中天新聞,中天新聞臺,中天新聞 HD,中天新聞臺 HD,中天新聞HD,中天新聞臺HD
-BBC News,BBC,BBC News Europe,BBC World News,BBC WORLD NEWS,BBC News Asia Pacific (1080p),BBC News Asia Pacific,BBC Two HD
-ABC News,ABC,ABC NEWS,ABC News Live
-CNN International,CNN,CNN News
-Fox News,Fox,FOX NEWS,FOX,FOXNEWS,Fox LiveNow
+BBC News,BBC,BBC News Europe,BBC World News,BBC WORLD NEWS,BBC News Asia Pacific (1080p),BBC News Asia Pacific,BBC Two HD,BBC News (1080p),BBC News (720p)
+ABC News,ABC,ABC NEWS,ABC News Live,ABC News Australia (720p),ABC News Australia
+CNN International,CNN,CNN News,CNN International (1080p),CNN International (720p)
+CBC News,CBC News (1080p),CBC News (720p)
+Fox News,Fox,FOX NEWS,FOX,FOXNEWS,Fox LiveNow,LiveNow from Fox (1080p),LiveNow from Fox (720p)
 Al Jazeera English,Al Jazeera,半岛电视,半岛电视台,Al Jazeera English (1080p),半岛新闻「英语」,半岛新闻「英文」
 Arirang,Arirang 阿里郎,Arirang TV,韩国阿里郎
-Sky News,SkyNews,SKY NEWS,SKYNEWS
-RT News,RT News（英语国际）
+Sky News,SkyNews,SKY NEWS,SKYNEWS,Sky News (1080p),Sky News (720p)
+RT News,RT News（英语国际）,Reuters TV (1080p),,Reuters TV (720p),Reuters TV
+CBS News,CBS News 24/7 (720p),CBS News 24/7 (1080p)
+Euronews,Euronews (720p),Euronews (1080p)
+NHK,NHK World,NHK World Japan (1080p)
+Bloomberg,Bloomberg TV (1080p),Bloomberg TV (720p),Bloomberg TV
