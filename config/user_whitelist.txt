@@ -101,6 +101,10 @@ CHC动作电影,http://120.238.84.45:9901/tsfile/live/1094_1.m3u8?key=txiptv&pla
 凤凰中文,http://120.238.84.45:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv$订阅源
 凤凰中文,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+凤凰中文,http://sc-zb-dx.sohu.blog:9008/rtp/239.94.2.51:5140
+凤凰中文,http://sc-zb-dx.sohu.blog:9008/rtp/239.94.2.52:5140
+凤凰资讯,http://sc-zb-dx.sohu.blog:9008/rtp/239.94.2.49:5140
+凤凰资讯,http://sc-zb-dx.sohu.blog:9008/rtp/239.94.2.50:5140
 黑莓电影,http://129.211.14.102:25000/newtv.php?id=hmdy&token=www.9kds.com
 黑莓动画,http://129.211.14.102:25000/newtv.php?id=hmdh&token=www.9kds.com
 凤凰中文,http://129.211.14.102:25000/newtv.php?id=fhzw&token=www.9kds.com
