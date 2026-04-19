@@ -4,73 +4,24 @@
 # This is the whitelist for interfaces. Interfaces in the whitelist will not be speed tested and will always be kept at the top of the results;
 # Filling in the channel name will directly retain the record to the final result of the channel, such as: CCTV-1, interface address;
 # If the channel name is not filled in, the address will be added to the results of all channels, with multiple records entered on new lines.
-广东体育,webview://https://www.gdtv.cn/tvChannelDetail/47
-广东体育,http://58.255.200.96:808/hls/20/index.m3u8
 广东体育,http://yahao.myqnapcloud.com:4022/udp/239.77.0.112:5146
 广东体育,http://pr.19760929.xyz:9688/rtp/239.77.0.112:5146
-广东体育,http://hello.ejoydom.com:9999/udp/239.77.0.112:5146
 广东体育,http://hongzhijiaoyu.net:8188/udp/239.77.0.112:5146
-广东体育,http://idc.zymok.cn:10000/udp/239.77.0.112:5146
-中天新闻,http://119.91.7.169:2026/TW.php?id=中天新闻台
 中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
-中天新闻,https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv009
 中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
 中天新闻,http://rihou.cc:555/tv/[Hk]中天新聞
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
 中天新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-中天新闻,http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true
-中天新闻,http://220.135.64.124:5050/li-4gtv-4gtv009/index.m3u8?proxy=true
-CHC影迷电影,http://iptv.19840608.xyz:16666/rtp/239.69.1.241:11088
-CHC家庭影院,http://iptv.19840608.xyz:16666/rtp/239.69.1.243:11100
-CHC动作电影,http://iptv.19840608.xyz:16666/rtp/239.69.1.242:11094
-第一剧场,http://iptv.19840608.xyz:16666/rtp/239.69.1.74:10084
-风云足球,http://iptv.19840608.xyz:16666/rtp/239.69.1.81:10126
-风云音乐,http://iptv.19840608.xyz:16666/rtp/239.69.1.90:10180
-世界地理,http://iptv.19840608.xyz:16666/rtp/239.69.1.91:10186
-电视指南,http://iptv.19840608.xyz:16666/rtp/239.69.1.87:10162
-怀旧剧场,http://iptv.19840608.xyz:16666/rtp/239.69.1.86:10156
-怀旧剧场,http://iptv.19840608.xyz:16666/rtp/239.69.1.89:10174
-兵器科技,http://iptv.19840608.xyz:16666/rtp/239.69.1.79:10114
-高尔夫网球,http://iptv.19840608.xyz:16666/rtp/239.69.1.83:10138
-央视台球,http://iptv.19840608.xyz:16666/rtp/239.69.1.98:10224
-CCTV4欧洲,http://iptv.19840608.xyz:16666/rtp/239.69.1.231:11028
-CCTV4美洲,http://iptv.19840608.xyz:16666/rtp/239.69.1.232:11034
-动漫秀场,http://iptv.19840608.xyz:16666/rtp/239.69.2.6:11190
-四海钓鱼,http://iptv.19840608.xyz:16666/rtp/239.69.1.244:11106
-文化精品,http://60.0.84.130:9999/rtp/239.253.92.25:6104
-文化精品,http://60.0.84.130:9999/rtp/239.253.93.175:6439
-央视台球,http://60.0.84.130:9999/rtp/239.253.93.231:6409
-央视台球,http://59.175.9.167:8899/rtp/239.69.1.98:10224
-央视台球,http://111.162.164.240:8086/rtp/225.1.2.170:5002
-央视台球,http://171.113.177.141:8686/rtp/239.69.1.98:10224
-央视台球,http://14.109.226.24:8000/rtp/235.254.199.193:7980
-风云音乐,http://60.0.84.130:9999/rtp/239.253.92.111:8060
-风云音乐,http://60.0.84.130:9999/rtp/239.253.93.253:6431
+中天新闻,http://119.91.7.169:2026/TW.php?id=中天新闻台
 风云音乐,http://112.234.23.157:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-第一剧场,http://60.0.84.130:9999/rtp/239.253.92.18:6079
-第一剧场,http://60.0.84.130:9999/rtp/239.253.93.138:6428
 第一剧场,http://61.184.46.85:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 第一剧场,http://112.234.23.157:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-风云剧场,http://60.0.84.130:9999/rtp/239.253.92.22:6073
-风云剧场,http://60.0.84.130:9999/rtp/239.253.93.251:6429
 风云剧场,http://112.234.23.157:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-女性时尚,http://60.0.84.130:9999/rtp/239.253.92.249:6103
-女性时尚,http://60.0.84.130:9999/rtp/239.253.92.144:6114
 女性时尚,http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1$订阅源
-高尔夫网球,http://60.0.84.130:9999/rtp/239.253.92.117:8062
-高尔夫网球,http://60.0.84.130:9999/rtp/239.253.93.122:6465
-风云足球,http://60.0.84.130:9999/rtp/239.253.92.110:8061
-风云足球,http://60.0.84.130:9999/rtp/239.253.93.254:6432
 风云足球,http://173.208.187.18:82/live/fyzq.m3u8?jsbt=1760355398&jsbk=d838949ce8ba43fabfa8e16a02449bcf$订阅源
 风云足球,http://173.208.187.18:82/live/fyzq.m3u8?jsbt=1760496962&jsbk=5b91869c876cff30aa885075cffa7b45$订阅源
 风云足球,http://61.184.46.85:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-电视指南,http://60.0.84.130:9999/rtp/239.253.92.17:6078
-电视指南,http://60.0.84.130:9999/rtp/239.253.93.249:6427
-世界地理,http://60.0.84.130:9999/rtp/239.253.92.113:8066
-世界地理,http://60.0.84.130:9999/rtp/239.253.92.131:6113
-兵器科技,http://60.0.84.130:9999/rtp/239.253.92.119:8065
-兵器科技,http://60.0.84.130:9999/rtp/239.253.93.47:6435
 兵器科技,http://112.234.23.157:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 怀旧剧场,http://60.2.190.206:4000/udp/239.253.93.252:6430$订阅源
 风云足球,http://202.102.201.244:40022/rtp/238.1.79.57:4592$订阅源
@@ -89,22 +40,13 @@ CCTV4美洲,http://iptv.19840608.xyz:16666/rtp/239.69.1.232:11034
 文化精品,http://120.238.84.45:9901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://120.238.84.45:9901/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://120.238.84.45:9901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
-中天新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20173$订阅源
-中天新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20222$订阅源
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct406$LR•IPV4『线路30』
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct720$LR•IPV4『线路31』
 凤凰中文,http://115.44.140.170:18180/TV00000000000000000008@HHZT
 凤凰资讯,http://115.44.140.170:18180/TV00000000000000000009@HHZT
 凤凰香港,http://115.44.140.170:18180/TV00000000000000000024@HHZT
-凤凰中文,http://iptv.19840608.xyz:16666/rtp/239.69.2.20:11274
-凤凰资讯,http://iptv.19840608.xyz:16666/rtp/239.69.2.19:11268
 凤凰中文,http://120.238.84.45:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv$订阅源
-凤凰中文,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-凤凰中文,http://sc-zb-dx.sohu.blog:9008/rtp/239.94.2.51:5140
-凤凰中文,http://sc-zb-dx.sohu.blog:9008/rtp/239.94.2.52:5140
-凤凰资讯,http://sc-zb-dx.sohu.blog:9008/rtp/239.94.2.49:5140
-凤凰资讯,http://sc-zb-dx.sohu.blog:9008/rtp/239.94.2.50:5140
 黑莓电影,http://129.211.14.102:25000/newtv.php?id=hmdy&token=www.9kds.com
 黑莓动画,http://129.211.14.102:25000/newtv.php?id=hmdh&token=www.9kds.com
 凤凰中文,http://129.211.14.102:25000/newtv.php?id=fhzw&token=www.9kds.com
@@ -115,14 +57,10 @@ CHC动作电影,http://120.238.84.45:9901/tsfile/live/1094_1.m3u8?key=txiptv&pla
 军旅剧场,http://129.211.14.102:25000/newtv.php?id=jljc&token=www.9kds.com
 家庭剧场,http://129.211.14.102:25000/newtv.php?id=jtjc&token=www.9kds.com
 中国功夫,http://129.211.14.102:25000/newtv.php?id=zggf&token=www.9kds.com
-凤凰资讯,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20061$订阅源
-凤凰香港,https://sys.lysvc.cc/iptv_test/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&t=1772756218&token=f9fb354d708b6f81b24c003f385ee5fe$订阅源
-凤凰香港,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20065$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$IPV4•线路1
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$LR•IPV4『线路2』
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$LR•IPV4『线路3』
 三立新闻,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立INEW$订阅源
-东森综合,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyqP7JL5zoJwS4YNNznemr_YdtSKhh6NNAwR9PzzP461sjhlssLp3lK6UJ8-tnuwG8CbBxKI1dg3OfG2PGsVIQaseJXA6DBTaS0MuVPFR_aOdPVW3LH5YhV9dtBSNyWyJZiz6NyMdgyeWK4kjvnkBH2wPAT52wt91Db438hm8mDpNXQRutSpHIsBlvrQktzdyMg.m3u8?u=1756878715$IPV4•线路2
 靖天资讯,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv065$订阅源
 CHC家庭影院,http://61.184.46.85:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
@@ -131,113 +69,64 @@ CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&pl
 经典电影,http://zb.xmzb.xyz/888.php?id=be一一经典电影$订阅源
 经典电影,http://113.25.252.226:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-星空卫视,http://36.36.200.198:44330/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 星空卫视,http://49.234.31.101:7033/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 高尔夫网球,http://112.234.23.157:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 中天新闻,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009$订阅源
-凤凰中文,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20060$订阅源
 凤凰中文,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 凤凰中文,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv$订阅源
 凤凰中文,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1$订阅源
 凤凰中文,http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhzwhd&apiKey=73c963d13814ce7d0e4743c5e7d033cc$IPV4•线路22
-凤凰资讯,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUknI2Qgu2H4THar3t2qm5CfJDW3oVsOfc-rbdZFzD2Lybr1EdctHM-qT90R9UPodL2nKzV7EyOABx0QR2dts6OWSHtsa0zWi7JZHPykhh2gL-1HTjlyHCq6MZDtf1gui0jRYCedTismGdA915iCIozcMoT5gl1u-RHNMhb_AyfsUllhm3olGmi0Hmey4uCeMycw.m3u8?u=1756878715$IPV4•线路3
 凤凰资讯,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1$订阅源
 凤凰资讯,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv$订阅源
 凤凰资讯,http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhzxhd&apiKey=73c963d13814ce7d0e4743c5e7d033cc$IPV4•线路22
-凤凰香港,http://221.229.212.86:14897
-凤凰香港,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUkn8SJteYZ9uqzUO6nYtuUh6F-PN7bfjcRGaPw6WlGqRJXDBhEndnIu4j9XCk2jMbsgXqcdc5EoIBXfD7zolJBsvKapI6zL3TY0miLmlXbN6s1HL9nbhZ_-YYylQavg8fyJuokqsa-c_dYoVldu95ImgqU0t9mxSaKem7IJRiBJmz9a_295GFeFQ89c_Ubo4Q9g.m3u8?u=1756878715$IPV4•线路4
 凤凰香港,http://vapi.91kds.cc/live2/ifeng.m3u8?id=fhxghd&apiKey=73c963d13814ce7d0e4743c5e7d033cc$IPV4•线路18
-TVBS亚洲,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20190$订阅源
 靖天戏剧,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv058$订阅源
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
 中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-
-
 i24 news,https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8
 BBC World News,https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
-BBC News,https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
 BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8
-BBC News,https://helpfullive.info/bbcnews/index.m3u8?token=f54d34e543e8ee264a4e841728004fdf91c9368f-5e15a21cf94df4668df2b1cbdac2a4ab-1773840724-1773829924
 BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
 BBC One,http://41.205.93.154/BBCONE/index.m3u8
 BBC Two,http://41.205.93.154/BBCTWO/tracks-v1a1/mono.m3u8
 CNN,https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
 TRT World,https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
-DW English,https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
-DW English,webview://https://livenewschat.eu/dw-news-live-stream-english/
 NDTV,https://web-ndtv24x7-uk.akamaized.net/hls/live/2109290/ndtv24x7uk/master.m3u8
 GB News,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-Press TV,https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/master.m3u8
 Press TV,https://live.presstv.ir/hls/presstv.m3u8
-Press TV,https://live1.presstv.ir/live/iranpress/index.m3u8
 Press TV,https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 Al Jazeera English,https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 America's Voice (720p),https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
 Arirang TV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Arirang TV UN,https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-CBS News,https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
-CBC News,https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
-CBC News,https://amg00788-cbc-amg00788c3-lg-ca-3607.playouts.now.amagi.tv/playlist/amg00788-canadianbroadcastingcorporationcbc-cbcnewsexplore-lgca/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
 Newsmax,https://amg00217-newsmax-amg00217c2-lg-ca-4271.playouts.now.amagi.tv/playlist/amg00217-newsmaxmediafast-newsmaxn1-lgca/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
-Newsmax,https://jmp2.uk/rok-479fe0d11f3f5132a3f36b617547da3b.m3u8
 Newsmax,http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/5001/index.m3u8
 Thriller TV,https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
 Inside Outside,https://52405cd167dc41c68edcaa842b916ccd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_InsideOutside/playlist.m3u8
-Gusto TV,https://beba4d78.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfR3VzdG9UVl9ITFM/playlist.m3u8
 Tennis Channel,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-ABC News,https://c.mjh.nz/abc-news.m3u8
 ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_3_0.m3u8
 ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_6.m3u8
 八段锦,https://tyj.wuhan.gov.cn/mas/openapi/pages.do?method=exPlay&appKey=gov&id=141894
 八段锦,https://dh5.cntv.qcloudcdn.com/asp/h5e/hls/1200/0303000a/3/default/16f98815d71f47daaee841b0c004ccd2/1200.m3u8
-八段锦,webview://https://haokan.baidu.com/v?pd=wisenatural&vid=5976017822360487968
-八段锦,webview://https://www.toutiao.com/video/7559407217145922074/
-八段锦,webview://https://www.toutiao.com/video/7573111552564396607/?wid=1772116922437
-66节回春医疗保健操,webview://https://haokan.baidu.com/v?pd=wisenatural&vid=8532998063232241334
-66节回春医疗保健操,webview://https://www.toutiao.com/video/7526795716607181363/
-66节回春医疗保健操,webview://https://www.toutiao.com/video/7513287956489093682/
-
-# 以下4K 来自 alan alana
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
 湖南4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-浙江4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-河北4K,http://106.53.99.30/tv/api.php?id=hebtv4k
-苏州4K,http://106.53.99.30/tv/api.php?id=sztv4k
 广东4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
-广东4K,http://119.32.12.12:2901/udp/225.1.101.86:7523
 广州南国都市4K,https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
-广州南国都市4K,http://i.iill.top:12838/gztv/shenghuo
-湖南4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_HUNAN-4K/G_HUNAN-4K.m3u8
-江苏4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_JIANGSU-4K/G_JIANGSU-4K.m3u8
 东方4K,http://cdn.jdshipin.com/kkxw.php?id=1
-深圳4K,https://cdn3.163189.xyz/163189/szws4k
-四川4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_SICHUAN-4K/G_SICHUAN-4K.m3u8
-山东4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_SHANDONG-4K/G_SHANDONG-4K.m3u8
-河南4K,http://115.58.216.210:4000/rtp/225.1.4.254:1300$河南电信
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
-CCTV4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8
-CCTV-164K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8
-北京4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_BEIJING-4K/G_BEIJING-4K.m3u8
-广东4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_GUANGDONG-4K/G_GUANGDONG-4K.m3u8
-深圳4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_SHENZHEN-4K/G_SHENZHEN-4K.m3u8
-浙江4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_ZHEJIANG-4K/G_ZHEJIANG-4K.m3u8
-北京卫视频4k,http://106.53.99.30/tv/bj.php?id=bjws4k
-东方卫视频4k,http://106.53.99.30/tv/api.php?id=dfws4k
-深圳卫视频4k,http://106.53.99.30/tv/api.php?id=szws4k
 北京4k,http://ddns.xryo.cn:8888/udp/239.111.205.51:5140
-东方4k,http://ddns.xryo.cn:8888/udp/239.111.205.67:5140
 浙江4k,http://ddns.xryo.cn:8888/udp/239.111.205.65:5140
 江苏4k,http://ddns.xryo.cn:8888/udp/239.111.205.64:5140
 湖南4k,http://ddns.xryo.cn:8888/udp/239.111.205.63:5140
 广东4k,http://ddns.xryo.cn:8888/udp/239.111.205.103:5140
 深圳4k,http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
 山东4k,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
-四川4k,http://ddns.xryo.cn:8888/udp/239.111.205.62:5140
+
 
 [KEYWORDS]
 # 以下区域是关键字白名单，某频道获取到的接口地址中含有指定关键字，则该接口会被加入该频道的白名单，多条记录换行输入。
