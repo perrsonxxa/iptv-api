@@ -5,6 +5,7 @@ https://raw.githubusercontent.com/alenin-zhang/IPTV/refs/heads/main/lenin.txt
 https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/%E4%BC%98%E8%B4%A8%E6%BA%90/output/ipv4/result.txt
 https://raw.githubusercontent.com/altn2025/iptv/main/iptv.m3u
 https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u
+https://raw.githubusercontent.com/best-fan/iptv-sources/main/cn_all.m3u8
 
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us.m3u
 #https://raw.githubusercontent.com/perrsonxxa/guan/main/rtp.txt
