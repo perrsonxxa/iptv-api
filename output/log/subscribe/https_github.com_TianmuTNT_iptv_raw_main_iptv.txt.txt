@@ -9,7 +9,6 @@ CCTV12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 CCTV12,http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://125.43.244.73:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://74.91.26.218:82/live/cctv14hd.m3u8
-CCTV14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 CCTV15,http://120.76.248.139/live/bfgd/4200000133.m3u8
 CCTV15,http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
 CCTV15,http://125.43.244.73:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -19,7 +18,6 @@ CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV17,http://120.76.248.139/live/bfgd/4200000204.m3u8
 CCTV2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 CCTV3,http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
-CCTV3,http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://125.43.244.73:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
@@ -70,7 +68,6 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 北京卫视,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 合肥新闻,http://112.27.235.94:8000/hls/18/index.m3u8
-哈尔滨生活,http://111.43.126.240:9003/hls/3/index.m3u8
 四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
 四川卫视,http://125.43.244.73:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视4K,http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
@@ -78,7 +75,6 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 四海钓鱼,http://120.76.248.139/live/bfgd/4200000229.m3u8
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
 天津卫视,http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
-天津卫视,http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
 奎屯汉语,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
 宁夏卫视,http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
@@ -89,7 +85,6 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 山东文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
 山西卫视,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
-广东卫视,http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://125.43.244.73:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 广东民生,http://183.11.239.36:808/hls/18/index.m3u8
 广州竞赛,http://8.138.7.223/tv/gzjs.m3u8
@@ -118,10 +113,12 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd,
 环球旅游,http://120.76.248.139/live/bfgd/4200000147.m3u8
 璧山综合,http://222.179.42.129:8181/hls1.m3u8
+甘肃卫视,http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 生态环境,http://120.76.248.139/live/bfgd/4200000149.m3u8
 电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
 纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8
+纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 西安新闻,http://112.46.105.20:8009/hls/28/index.m3u8
 西安都市,http://112.46.105.20:8009/hls/29/index.m3u8
 西藏卫视,http://107.150.60.122/live/xzws.m3u8
