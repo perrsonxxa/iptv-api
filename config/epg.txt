@@ -3,3 +3,9 @@
 http://e.erw.cc/e.xml.gz
 https://epg.catvod.com/epg.xml
 https://epg.pw/xmltv/epg.xml
+https://epg.v1.mk/fy.xml
+http://epg.aptvapp.com/xml
+https://epg.pw/xmltv/epg_CN.xml.gz
+http://epg.112114.xyz/pp.xml
+https://epg.112114.free.hr/pp.xml
+https://epg.112114.eu.org/pp.xml
