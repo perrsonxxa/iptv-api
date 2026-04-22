@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_s
 https://raw.githubusercontent.com/best-fan/iptv-sources/main/cn_all.m3u8
 
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us.m3u
-#https://raw.githubusercontent.com/perrsonxxa/guan/main/rtp.txt
+#https://raw.githubusercontent.com/perrsonxxa/guan/main/rtp.txt # rtp源
 http://rihou.cc:555/gggg.nzk
 https://live.izbds.com/tv/iptv4.txt
 https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u
