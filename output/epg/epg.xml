@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260429083009 +0800">
+<tv date="20260429092803 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -14479,6 +14479,9 @@
 	<programme channel="NewTV动作电影" start="20260429150400 +0800" stop="20260429164200 +0800">
 		<title lang="zh">打黑</title>
 	</programme>
+	<programme channel="NewTV动作电影" start="20260429164200 +0800" stop="20260429183500 +0800">
+		<title lang="zh">千钧一发</title>
+	</programme>
 	<channel id="NewTV惊悚悬疑">
 		<display-name lang="zh">NewTV惊悚悬疑</display-name>
 	</channel>
@@ -14547,6 +14550,9 @@
 	</programme>
 	<programme channel="NewTV精品体育" start="20260429152300 +0800" stop="20260429163800 +0800">
 		<title lang="zh">2026国际乒联单打世界杯决赛：王楚钦VS松岛辉空</title>
+	</programme>
+	<programme channel="NewTV精品体育" start="20260429163800 +0800" stop="20260429180900 +0800">
+		<title lang="zh">25-26赛季NBA常规赛3月22日：雄鹿VS太阳</title>
 	</programme>
 	<channel id="星空卫视">
 		<display-name lang="zh">星空卫视</display-name>
