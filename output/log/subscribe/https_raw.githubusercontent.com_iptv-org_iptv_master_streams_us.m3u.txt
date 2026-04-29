@@ -1070,8 +1070,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-cleveland19ne
 #EXTINF:-1 tvg-id="WorldChannel.us@SD",World Channel (1080p)
 https://world.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="WPIX71.us@HD",WPIX-DT1
-https://dvrfl04.tulix.tv/teleup-wpix/mpegts
-#EXTINF:-1 tvg-id="WPIX71.us@HD",WPIX-DT1
 https://e1.thetvapp.to/hls/WPIX/index.m3u8
 #EXTINF:-1 tvg-id="WPXI111.us@HD",WPXI-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
@@ -1216,3 +1214,5 @@ https://stream.ads.ottera.tv/cl/260421d7jmp97108ighs2i413g/1280x720_2300000_0_f.
 https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RacerNetwork.us@SD",Racer Network (1080p)
 https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@East",Nickelodeon (720p) [Not 24/7]
+https://tvpass.org/live/NickelodeonEast/sd
