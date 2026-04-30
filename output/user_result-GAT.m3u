@@ -1,6 +1,58 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/perrsonxxa/iptv-api/refs/heads/master/output/epg/epg.gz"
+#EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://www.xn--rgv465a.top/tvlogo/文化精品.png" group-title="💰央视付费频道",文化精品
+http://198.204.228.26/live/ysjp.m3u8$订阅源
+#EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://www.xn--rgv465a.top/tvlogo/文化精品.png" group-title="💰央视付费频道",文化精品
+http://192.151.150.154/live/ysjp.m3u8$订阅源
+#EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://www.xn--rgv465a.top/tvlogo/文化精品.png" group-title="💰央视付费频道",文化精品
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp$订阅源
+#EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://www.xn--rgv465a.top/tvlogo/文化精品.png" group-title="💰央视付费频道",文化精品
+http://120.238.84.45:9901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/央视台球.png" group-title="💰央视付费频道",央视台球
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq$订阅源
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/央视台球.png" group-title="💰央视付费频道",央视台球
+http://107.150.60.122/live/ystq.m3u8$订阅源
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云音乐.png" group-title="💰央视付费频道",风云音乐
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy$订阅源
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云音乐.png" group-title="💰央视付费频道",风云音乐
+http://107.150.60.122/live/fyyy.m3u8$订阅源
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云音乐.png" group-title="💰央视付费频道",风云音乐
+http://60.16.0.36:5757/hls/40/index.m3u8$订阅源
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" group-title="💰央视付费频道",第一剧场
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc$订阅源
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" group-title="💰央视付费频道",第一剧场
+http://107.150.60.122/live/dyjc.m3u8$订阅源
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云剧场.png" group-title="💰央视付费频道",风云剧场
+http://107.150.60.122/live/fyjc.m3u8$订阅源
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云剧场.png" group-title="💰央视付费频道",风云剧场
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc$订阅源
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怀旧剧场.png" group-title="💰央视付费频道",怀旧剧场
+http://107.150.60.122/live/hjjc.m3u8$订阅源
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://www.xn--rgv465a.top/tvlogo/女性时尚.png" group-title="💰央视付费频道",女性时尚
+http://107.150.60.122/live/nxss.m3u8$订阅源
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://www.xn--rgv465a.top/tvlogo/女性时尚.png" group-title="💰央视付费频道",女性时尚
+http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1$订阅源
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/高尔夫网球.png" group-title="💰央视付费频道",高尔夫网球
+http://198.204.228.26/live/gefwq.m3u8$订阅源
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/高尔夫网球.png" group-title="💰央视付费频道",高尔夫网球
+http://107.150.60.122/live/gefwq.m3u8$订阅源
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="💰央视付费频道",风云足球
+http://173.208.187.18:82/live/fyzq.m3u8?jsbt=1760355398&jsbk=d838949ce8ba43fabfa8e16a02449bcf$订阅源
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="💰央视付费频道",风云足球
+http://173.208.187.18:82/live/fyzq.m3u8?jsbt=1760496962&jsbk=5b91869c876cff30aa885075cffa7b45$订阅源
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="💰央视付费频道",风云足球
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq$订阅源
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="💰央视付费频道",风云足球
+http://107.150.60.122/live/fyzq.m3u8$订阅源
+#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://www.xn--rgv465a.top/tvlogo/世界地理.png" group-title="💰央视付费频道",世界地理
+http://107.150.60.122/live/sjdl.m3u8$订阅源
+#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://www.xn--rgv465a.top/tvlogo/世界地理.png" group-title="💰央视付费频道",世界地理
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl$订阅源
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://www.xn--rgv465a.top/tvlogo/兵器科技.png" group-title="💰央视付费频道",兵器科技
+http://198.204.228.26/live/gfjs.m3u8$订阅源
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天新闻.png" group-title="🌊港·澳·台",中天新闻
 https://a3f1b2.kylintv.tv/live/cti_iphone.m3u8$订阅源
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天新闻.png" group-title="🌊港·澳·台",中天新闻
+http://rihou.cc:555/tv/[SZ]中天新闻$本地源
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/翡翠台.png" group-title="🌊港·澳·台",翡翠台
 http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsqxqfsqqcvbctvbfc.flv
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/翡翠台.png" group-title="🌊港·澳·台",翡翠台
@@ -41,6 +93,10 @@ https://mytv.cdn.loc.cc/o12.php?id=mzt$IPV4•线路1
 http://mytv.cdn.loc.cc/o12.php?id=mzt$IPV4•线路3
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/明珠台.png" group-title="🌊港·澳·台",明珠台
 http://o11.163189.xyz/stream/tvb/mzt/$IPV4•线路2
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/明珠台.png" group-title="🌊港·澳·台",明珠台
+http://rihou.cc:555/tv/[Pd]无线明珠$订阅源
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/明珠台.png" group-title="🌊港·澳·台",明珠台
+http://122.152.202.33/s/81a8a44f/index.m3u8?id=23$订阅源
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
 http://cdn6.163189.xyz/163189/fhzw$订阅源
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
@@ -51,6 +107,26 @@ https://cdn6.163189.xyz/163189/fhzw$订阅源
 https://a3f1b2.kylintv.tv/live/pxna_iphone.m3u8$订阅源
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
 http://api.kkhk.itv888.vip:8080/streams/vny1wblsnch/index.m3u8$订阅源
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
+http://47.100.29.86:28888/sxg/test1_4000/$订阅源
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
+http://129.211.14.102:25000/newtv.php?id=fhzw&token=www.9kds.com$订阅源
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
+http://rihou.cc:555/tv/[Pd]凤凰中文$本地源
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
+http://rihou.cc:555/tv/[PL]凤凰中文$本地源
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8$订阅源
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
+https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=2f797f6963d4df5f391f48edfa50ff59&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$IPV4•线路21
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
+http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
+http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
+http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1$订阅源
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
+http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv$订阅源
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
 http://cdn6.163189.xyz/163189/fhzx$订阅源
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
@@ -61,6 +137,24 @@ http://r.jdshipin.com/0Rp07$订阅源
 http://api.kkhk.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8$订阅源
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
 https://a3f1b2.kylintv.tv/live/pxinhd_iphone.m3u8$订阅源
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
+http://129.211.14.102:25000/newtv.php?id=fhzx&token=www.9kds.com$订阅源
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
+http://47.100.29.86:28888/sxg/test2_4000/$订阅源
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
+http://rihou.cc:555/tv/[Pd]凤凰资讯$本地源
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
+http://rihou.cc:555/tv/[PL]凤凰资讯$本地源
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
+https://live.264788.xyz/channel/fenghuangweishizixun?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$IPV4•线路22
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
+http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
+http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1$订阅源
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
+http://61.221.215.25:8800/hls/47/index.m3u8$订阅源
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰资讯.png" group-title="🌊港·澳·台",凤凰资讯
+http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv$订阅源
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
 http://cdn6.163189.xyz/163189/fhhk$订阅源
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
@@ -69,8 +163,28 @@ https://cdn6.163189.xyz/163189/fhhk$订阅源
 http://r.jdshipin.com/yDoTN$订阅源
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
 https://a3f1b2.kylintv.tv/live/pxhkus_iphone.m3u8$订阅源
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
+http://129.211.14.102:25000/newtv.php?id=fhxg&token=www.9kds.com$订阅源
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
+http://rihou.cc:555/tv/[PL]凤凰香港$本地源
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
+http://rihou.cc:555/tv/[Pd]凤凰香港$本地源
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
+http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk$订阅源
+#EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视.png" group-title="🌊港·澳·台",凤凰卫视
+http://122.152.202.33/s/81a8a44f/index.m3u8?id=15$订阅源
+#EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视.png" group-title="🌊港·澳·台",凤凰卫视
+http://221.7.175.154:8445/tsfile/live/1020_1.m3u8$LR•IPV4『线路1』
 #EXTINF:-1 tvg-id="TVBS亚洲" tvg-name="TVBS亚洲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS亚洲.png" group-title="🌊港·澳·台",TVBS亚洲
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$IPV4•线路1
+#EXTINF:-1 tvg-id="TVBS亚洲" tvg-name="TVBS亚洲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS亚洲.png" group-title="🌊港·澳·台",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$订阅源
+#EXTINF:-1 tvg-id="TVBS亚洲" tvg-name="TVBS亚洲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS亚洲.png" group-title="🌊港·澳·台",TVBS亚洲
+http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$LR•IPV4『线路2』
+#EXTINF:-1 tvg-id="TVBS亚洲" tvg-name="TVBS亚洲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS亚洲.png" group-title="🌊港·澳·台",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="TVBS亚洲" tvg-name="TVBS亚洲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS亚洲.png" group-title="🌊港·澳·台",TVBS亚洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="🌊港·澳·台",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8$本地源
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育.png" group-title="🌊港·澳·台",纬来体育
@@ -87,10 +201,18 @@ http://r.jdshipin.com/CkuBd$IPV4•线路1
 http://cdn6.163189.xyz/163189/wxxw$IPV4•线路1
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无线新闻.png" group-title="🌊港·澳·台",无线新闻
 https://cdn6.163189.xyz/163189/wxxw$订阅源
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无线新闻.png" group-title="🌊港·澳·台",无线新闻
+http://rihou.cc:555/tv/[Pd]无线新闻$本地源
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无线新闻.png" group-title="🌊港·澳·台",无线新闻
+http://122.152.202.33/s/81a8a44f/index.m3u8?id=21$订阅源
 #EXTINF:-1 tvg-id="东森综合" tvg-name="东森综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森综合.png" group-title="🌊港·澳·台",东森综合
 http://free.cnlive.club/channel/n31b0a4/index.m3u8$订阅源
 #EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森超视.png" group-title="🌊港·澳·台",东森超视
 http://free.cnlive.club/channel/4210df69/index.m3u8$订阅源
+#EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森超视.png" group-title="🌊港·澳·台",东森超视
+http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$LR•IPV4『线路1』
+#EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森超视.png" group-title="🌊港·澳·台",东森超视
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$订阅源
 #EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森电影.png" group-title="🌊港·澳·台",东森电影
 http://free.cnlive.club/channel/n5502f4/index.m3u8$订阅源
 #EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC News.png" group-title="🏛海外新闻",BBC News
@@ -107,6 +229,14 @@ http://nor2live.win:80/livehttpplay?channel_id=16531$订阅源
 https://jmp2.uk/stvp-GBBD8000016N
 #EXTINF:-1 tvg-id="CNN International" tvg-name="CNN International" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN International.png" group-title="🏛海外新闻",CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CNN International" tvg-name="CNN International" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN International.png" group-title="🏛海外新闻",CNN International
+https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/51afc09f-23c7-44d8-b866-8c4669d00460/2.m3u8$订阅源
+#EXTINF:-1 tvg-id="CNN International" tvg-name="CNN International" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN International.png" group-title="🏛海外新闻",CNN International
+https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/51afc09f-23c7-44d8-b866-8c4669d00460/1.m3u8$订阅源
+#EXTINF:-1 tvg-id="CNN International" tvg-name="CNN International" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN International.png" group-title="🏛海外新闻",CNN International
+https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/51afc09f-23c7-44d8-b866-8c4669d00460/0.m3u8$订阅源
+#EXTINF:-1 tvg-id="CNN International" tvg-name="CNN International" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN International.png" group-title="🏛海外新闻",CNN International
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8$订阅源
 #EXTINF:-1 tvg-id="DW English" tvg-name="DW English" tvg-logo="https://www.xn--rgv465a.top/tvlogo/DW English.png" group-title="🏛海外新闻",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 tvg-id="CBS News" tvg-name="CBS News" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CBS News.png" group-title="🏛海外新闻",CBS News
@@ -119,6 +249,8 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8$订阅源
 #EXTINF:-1 tvg-id="ABC News" tvg-name="ABC News" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ABC News.png" group-title="🏛海外新闻",ABC News
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_6.m3u8$订阅源
+#EXTINF:-1 tvg-id="ABC News" tvg-name="ABC News" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ABC News.png" group-title="🏛海外新闻",ABC News
+http://41.205.93.154/ABC/index.m3u8$订阅源
 #EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Fox News.png" group-title="🏛海外新闻",Fox News
 http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/1611.ts
 #EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sky News.png" group-title="🏛海外新闻",Sky News
@@ -137,10 +269,20 @@ https://live.presstv.ir/hls/presstv.m3u8
 https://lenz.splus.ir/PLTV/88888888/224/3221226156/index.m3u8
 #EXTINF:-1 tvg-id="Press TV" tvg-name="Press TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Press TV.png" group-title="🏛海外新闻",Press TV
 https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/master.m3u8
+#EXTINF:-1 tvg-id="Press TV" tvg-name="Press TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Press TV.png" group-title="🏛海外新闻",Press TV
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8$订阅源
 #EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="Al Jazeera English" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Al Jazeera English.png" group-title="🏛海外新闻",Al Jazeera English
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="Al Jazeera English" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Al Jazeera English.png" group-title="🏛海外新闻",Al Jazeera English
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="Al Jazeera English" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Al Jazeera English.png" group-title="🏛海外新闻",Al Jazeera English
+https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8$订阅源
+#EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="Al Jazeera English" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Al Jazeera English.png" group-title="🏛海外新闻",Al Jazeera English
+https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8$订阅源
+#EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="Al Jazeera English" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Al Jazeera English.png" group-title="🏛海外新闻",Al Jazeera English
+https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8$订阅源
+#EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="Al Jazeera English" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Al Jazeera English.png" group-title="🏛海外新闻",Al Jazeera English
+https://live-hls-web-aje-fa.getaj.net/AJE/02.m3u8$订阅源
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNA.png" group-title="🏛海外新闻",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNA.png" group-title="🏛海外新闻",CNA
@@ -149,12 +291,18 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8$订阅源
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNA.png" group-title="🏛海外新闻",CNA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8$订阅源
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNA.png" group-title="🏛海外新闻",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8$订阅源
 #EXTINF:-1 tvg-id="Tehran TV" tvg-name="Tehran TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Tehran TV.png" group-title="🏛海外新闻",Tehran TV
 https://lenz.splus.ir/PLTV/88888888/224/3221226141/index.m3u8
 #EXTINF:-1 tvg-id="Mohabat TV" tvg-name="Mohabat TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Mohabat TV.png" group-title="🏛海外新闻",Mohabat TV
 http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Mohabat TV" tvg-name="Mohabat TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Mohabat TV.png" group-title="🏛海外新闻",Mohabat TV
+https://mohabathls.wns.live/hls/stream.m3u8$订阅源
 #EXTINF:-1 tvg-id="Baran TV" tvg-name="Baran TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Baran TV.png" group-title="🏛海外新闻",Baran TV
 https://lenz.splus.ir/PLTV/88888888/224/3221226902/index.m3u8
+#EXTINF:-1 tvg-id="ITV" tvg-name="ITV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ITV.png" group-title="🏛海外新闻",ITV
+http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-id="TRT World" tvg-name="TRT World" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TRT World.png" group-title="🏛海外新闻",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="TRT World" tvg-name="TRT World" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TRT World.png" group-title="🏛海外新闻",TRT World
@@ -167,31 +315,69 @@ https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-r
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-id="RT News" tvg-name="RT News" tvg-logo="https://www.xn--rgv465a.top/tvlogo/RT News.png" group-title="🏛海外新闻",RT News
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist720p.m3u8$订阅源
+#EXTINF:-1 tvg-id="RT News" tvg-name="RT News" tvg-logo="https://www.xn--rgv465a.top/tvlogo/RT News.png" group-title="🏛海外新闻",RT News
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-id="Global News" tvg-name="Global News" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Global News.png" group-title="🏛海外新闻",Global News
 https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+#EXTINF:-1 tvg-id="Global News" tvg-name="Global News" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Global News.png" group-title="🏛海外新闻",Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8$订阅源
 #EXTINF:-1 tvg-id="Newsmax" tvg-name="Newsmax" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Newsmax.png" group-title="🏛海外新闻",Newsmax
 https://amg00217-newsmax-amg00217c2-lg-ca-4271.playouts.now.amagi.tv/playlist/amg00217-newsmaxmediafast-newsmaxn1-lgca/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+#EXTINF:-1 tvg-id="Newsmax" tvg-name="Newsmax" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Newsmax.png" group-title="🏛海外新闻",Newsmax
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8$订阅源
+#EXTINF:-1 tvg-id="Newsmax" tvg-name="Newsmax" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Newsmax.png" group-title="🏛海外新闻",Newsmax
+http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/5001/index.m3u8$订阅源
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Earth.png" group-title="🏛海外新闻",BBC Earth
 https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Earth.png" group-title="🏛海外新闻",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8$订阅源
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Earth.png" group-title="🏛海外新闻",BBC Earth
+https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8$订阅源
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC Earth.png" group-title="🏛海外新闻",BBC Earth
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-id="GB News" tvg-name="GB News" tvg-logo="https://www.xn--rgv465a.top/tvlogo/GB News.png" group-title="🏛海外新闻",GB News
 https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NHK.png" group-title="🏛海外新闻",NHK
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="https://www.xn--rgv465a.top/tvlogo/NHK.png" group-title="🏛海外新闻",NHK
+https://nhk4.mov3.co/hls/nhk.m3u8$订阅源
 #EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Arirang.png" group-title="🏛海外新闻",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Arirang.png" group-title="🏛海外新闻",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Arirang.png" group-title="🏛海外新闻",Arirang
 http://free.cnlive.club/channel/5a358dea/index.m3u8$订阅源
+#EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Arirang.png" group-title="🏛海外新闻",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8$订阅源
+#EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Arirang.png" group-title="🏛海外新闻",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8$订阅源
+#EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Arirang.png" group-title="🏛海外新闻",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8$订阅源
+#EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Arirang.png" group-title="🏛海外新闻",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8$订阅源
+#EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Arirang.png" group-title="🏛海外新闻",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8$订阅源
+#EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Arirang.png" group-title="🏛海外新闻",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8$订阅源
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN.png" group-title="🏛海外新闻",CGTN
 https://english-livetx.cgtn.com/hls/yypdyyctzb/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN.png" group-title="🏛海外新闻",CGTN
 https://0472.org/hls/cgtn.m3u8$订阅源
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN.png" group-title="🏛海外新闻",CGTN
 http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8$订阅源
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN.png" group-title="🏛海外新闻",CGTN
+https://english-liveali.cgtn.com/hls/yypdyyctzb/playlist.m3u8$订阅源
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN.png" group-title="🏛海外新闻",CGTN
+https://english-liveali.cgtn.com/hls/yypdyyctzb/yypdyyctzbcd/playlist.m3u8$订阅源
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN.png" group-title="🏛海外新闻",CGTN
+https://english-livebkali.cgtn.com/live/encgtn_0.m3u8$订阅源
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN.png" group-title="🏛海外新闻",CGTN
+https://english-livebkali.cgtn.com/live/encgtn.m3u8$订阅源
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN.png" group-title="🏛海外新闻",CGTN
+https://english-liveali.cgtn.com/hls/yypdyyctzb/yypdyyctzbhd/playlist.m3u8$订阅源
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN.png" group-title="🏛海外新闻",CGTN
+https://english-livebkali.cgtn.com/live/encgtn_1.m3u8$订阅源
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Tennis Channel.png" group-title="🏛海外新闻",Tennis Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://www.xn--rgv465a.top/tvlogo/文化精品.png" group-title="🕘️更新时间",2026-04-30 11:35:37
-https://a3f1b2.kylintv.tv/live/cti_iphone.m3u8$订阅源
+http://198.204.228.26/live/ysjp.m3u8$订阅源
