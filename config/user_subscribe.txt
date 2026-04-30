@@ -1,6 +1,6 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-https://github.com/perrsonxxa/perrson/raw/main/white.txt
+
 https://raw.githubusercontent.com/alenin-zhang/IPTV/refs/heads/main/lenin.txt
 https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/%E4%BC%98%E8%B4%A8%E6%BA%90/output/ipv4/result.txt
 https://raw.githubusercontent.com/altn2025/iptv/main/iptv.m3u
@@ -155,3 +155,4 @@ https://raw.githubusercontent.com/YueChan/Live/main/Global.m3u
 https://raw.githubusercontent.com/perrsonxxa/beijing/main/%E6%B5%B7%E5%A4%96%E8%87%AA%E7%94%A8.m3u # 海外自用
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ir.m3u
 https://github.com/perrsonxxa/iptv-api/raw/master/config/iran.m3u
+https://github.com/perrsonxxa/perrson/raw/main/white.txt
