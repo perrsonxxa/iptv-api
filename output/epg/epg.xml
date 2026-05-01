@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260501070449 +0800">
+<tv date="20260501084253 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -14473,6 +14473,12 @@
 	<programme channel="NewTV超级体育" start="20260501144500 +0800" stop="20260501150500 +0800">
 		<title lang="zh">艺术里的奥林匹克(4K)</title>
 	</programme>
+	<programme channel="NewTV超级体育" start="20260501150500 +0800" stop="20260501160000 +0800">
+		<title lang="zh">篮球公园</title>
+	</programme>
+	<programme channel="NewTV超级体育" start="20260501160000 +0800" stop="20260501190000 +0800">
+		<title lang="zh">2026年汤姆斯杯羽毛球赛-1/4决赛</title>
+	</programme>
 	<channel id="NewTV动作电影">
 		<display-name lang="zh">NewTV动作电影</display-name>
 	</channel>
@@ -14505,6 +14511,9 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20260501133500 +0800" stop="20260501150200 +0800">
 		<title lang="zh">传话的人</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260501150200 +0800" stop="20260501162800 +0800">
+		<title lang="zh">终极硬汉</title>
 	</programme>
 	<channel id="NewTV惊悚悬疑">
 		<display-name lang="zh">NewTV惊悚悬疑</display-name>
@@ -14548,6 +14557,12 @@
 	<programme channel="NewTV惊悚悬疑" start="20260501134200 +0800" stop="20260501150200 +0800">
 		<title lang="zh">女特警之暗战</title>
 	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260501150200 +0800" stop="20260501153200 +0800">
+		<title lang="zh">甘草金桔好物推荐</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260501153200 +0800" stop="20260501164900 +0800">
+		<title lang="zh">侏罗纪崛起</title>
+	</programme>
 	<channel id="NewTV精品体育">
 		<display-name lang="zh">NewTV精品体育</display-name>
 	</channel>
@@ -14577,6 +14592,9 @@
 	</programme>
 	<programme channel="NewTV精品体育" start="20260501131000 +0800" stop="20260501145100 +0800">
 		<title lang="zh">2025赛季中超联赛第22轮：上海海港VS天津津门虎</title>
+	</programme>
+	<programme channel="NewTV精品体育" start="20260501145100 +0800" stop="20260501163600 +0800">
+		<title lang="zh">2025赛季中超联赛第30轮：天津津门虎VS上海申花</title>
 	</programme>
 	<channel id="星空卫视">
 		<display-name lang="zh">星空卫视</display-name>
