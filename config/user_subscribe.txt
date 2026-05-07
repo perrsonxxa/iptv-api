@@ -1,6 +1,7 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 https://raw.githubusercontent.com/perrsonxxa/perrson/main/%E5%A4%AE%E5%8D%AB%2B%E6%B2%B3%E5%8C%97%E7%A7%BB%E5%8A%A8%2B%E5%9B%9B%E5%B7%9D.TXT.txt #央卫+河北移动+四川.TXT
+https://github.com/perrsonxxa/perrson/raw/main/%E8%BE%83%E5%A5%BD%E7%9B%B4%E6%92%AD%E6%BA%90.txt # 较好直播源
 https://raw.githubusercontent.com/alenin-zhang/IPTV/refs/heads/main/lenin.txt
 https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/%E4%BC%98%E8%B4%A8%E6%BA%90/output/ipv4/result.txt
 https://raw.githubusercontent.com/altn2025/iptv/main/iptv.m3u
