@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260507114915 +0800">
+<tv date="20260507143559 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -14395,6 +14395,231 @@
 	<channel id="睛彩篮球">
 		<display-name lang="zh">睛彩篮球</display-name>
 	</channel>
+	<channel id="NewTV超级体育">
+		<display-name lang="zh">NewTV超级体育</display-name>
+	</channel>
+	<programme channel="NewTV超级体育" start="20260507000500 +0800" stop="20260507010500 +0800">
+		<title lang="zh">实况录像-2026年世界泳联花样游泳世界杯 法国站 1</title>
+	</programme>
+	<programme channel="NewTV超级体育" start="20260507010500 +0800" stop="20260507023600 +0800">
+		<title lang="zh">实况录像-2025年世界田联钻石联赛 布鲁塞尔站</title>
+	</programme>
+	<programme channel="NewTV超级体育" start="20260507023600 +0800" stop="20260507040000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛</title>
+	</programme>
+	<programme channel="NewTV超级体育" start="20260507040000 +0800" stop="20260507053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第18轮 桑德兰-利兹联(4K)</title>
+	</programme>
+	<programme channel="NewTV超级体育" start="20260507053000 +0800" stop="20260507063000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会</title>
+	</programme>
+	<programme channel="NewTV超级体育" start="20260507063000 +0800" stop="20260507070000 +0800">
+		<title lang="zh">健身动起来</title>
+	</programme>
+	<programme channel="NewTV超级体育" start="20260507070000 +0800" stop="20260507080300 +0800">
+		<title lang="zh">体坛晨报</title>
+	</programme>
+	<programme channel="NewTV超级体育" start="20260507080300 +0800" stop="20260507090000 +0800">
+		<title lang="zh">实况录像-2026年全国举重锦标赛 女子比赛2</title>
+	</programme>
+	<programme channel="NewTV超级体育" start="20260507090000 +0800" stop="20260507103100 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季法甲联赛第32轮 巴黎圣日耳曼-洛里昂</title>
+	</programme>
+	<programme channel="NewTV超级体育" start="20260507103100 +0800" stop="20260507120000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛</title>
+	</programme>
+	<programme channel="NewTV超级体育" start="20260507120000 +0800" stop="20260507123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
+	<programme channel="NewTV超级体育" start="20260507123500 +0800" stop="20260507125800 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
+	<programme channel="NewTV超级体育" start="20260507125800 +0800" stop="20260507143000 +0800">
+		<title lang="zh">实况录像-2026年世界乒乓球团体锦标赛 1/8决赛(录播)</title>
+	</programme>
+	<programme channel="NewTV超级体育" start="20260507143000 +0800" stop="20260507163000 +0800">
+		<title lang="zh">实况录像-2026年汤姆斯杯羽毛球赛 半决赛</title>
+	</programme>
+	<programme channel="NewTV超级体育" start="20260507163000 +0800" stop="20260507170000 +0800">
+		<title lang="zh">体坛零距离(4K)</title>
+	</programme>
+	<programme channel="NewTV超级体育" start="20260507170000 +0800" stop="20260507190000 +0800">
+		<title lang="zh">2026年世界乒乓球团体锦标赛-女团1/4决赛1</title>
+	</programme>
+	<programme channel="NewTV超级体育" start="20260507190000 +0800" stop="20260507193000 +0800">
+		<title lang="zh">体育新闻</title>
+	</programme>
+	<programme channel="NewTV超级体育" start="20260507193000 +0800" stop="20260507213000 +0800">
+		<title lang="zh">2026年世界乒乓球团体锦标赛-男团1/4决赛1</title>
+	</programme>
+	<programme channel="NewTV超级体育" start="20260507213000 +0800" stop="20260507223500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
+	<channel id="NewTV动作电影">
+		<display-name lang="zh">NewTV动作电影</display-name>
+	</channel>
+	<programme channel="NewTV动作电影" start="20260507003800 +0800" stop="20260507021000 +0800">
+		<title lang="zh">鬼吹灯之湘西密藏</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260507021000 +0800" stop="20260507034200 +0800">
+		<title lang="zh">昆仑神宫</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260507034200 +0800" stop="20260507045800 +0800">
+		<title lang="zh">侦录实案之盗亦有道</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260507045800 +0800" stop="20260507062600 +0800">
+		<title lang="zh">举起手来！</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260507062600 +0800" stop="20260507075300 +0800">
+		<title lang="zh">火线追凶2之同名为仇</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260507075300 +0800" stop="20260507085700 +0800">
+		<title lang="zh">大狂蜂：起源</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260507085700 +0800" stop="20260507103900 +0800">
+		<title lang="zh">缉枪</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260507103900 +0800" stop="20260507114900 +0800">
+		<title lang="zh">缩小人特攻队</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260507114900 +0800" stop="20260507132200 +0800">
+		<title lang="zh">特工艾米拉</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260507132200 +0800" stop="20260507145000 +0800">
+		<title lang="zh">边境威龙</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260507145000 +0800" stop="20260507164300 +0800">
+		<title lang="zh">武动乾坤：涅槃神石</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260507164300 +0800" stop="20260507182300 +0800">
+		<title lang="zh">街头霸王</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260507182300 +0800" stop="20260507194700 +0800">
+		<title lang="zh">执剑人</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260507194700 +0800" stop="20260507205100 +0800">
+		<title lang="zh">特种兵归来2：黑色罂粟</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260507205100 +0800" stop="20260507215800 +0800">
+		<title lang="zh">特种兵归来3：绝密战场</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260507215800 +0800" stop="20260507000200 +0800">
+		<title lang="zh">迫降航班</title>
+	</programme>
+	<channel id="NewTV惊悚悬疑">
+		<display-name lang="zh">NewTV惊悚悬疑</display-name>
+	</channel>
+	<programme channel="NewTV惊悚悬疑" start="20260507013100 +0800" stop="20260507020100 +0800">
+		<title lang="zh">徽封贡酒好物推荐</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260507023100 +0800" stop="20260507035700 +0800">
+		<title lang="zh">神偷谍影</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260507035700 +0800" stop="20260507051100 +0800">
+		<title lang="zh">异形寄生：起源</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260507051100 +0800" stop="20260507054100 +0800">
+		<title lang="zh">空心山楂好物推荐</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260507054100 +0800" stop="20260507070700 +0800">
+		<title lang="zh">不死间谍</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260507070700 +0800" stop="20260507073700 +0800">
+		<title lang="zh">空心山楂好物推荐</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260507073700 +0800" stop="20260507094300 +0800">
+		<title lang="zh">终结者：黑暗命运</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260507094300 +0800" stop="20260507101300 +0800">
+		<title lang="zh">空心山楂好物推荐</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260507101300 +0800" stop="20260507121700 +0800">
+		<title lang="zh">暮光之城3：月食</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260507121700 +0800" stop="20260507124700 +0800">
+		<title lang="zh">黄芪枣好物推荐</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260507124700 +0800" stop="20260507141300 +0800">
+		<title lang="zh">黄金蜘蛛城</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260507141300 +0800" stop="20260507144300 +0800">
+		<title lang="zh">黄芪枣好物推荐</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260507144300 +0800" stop="20260507155800 +0800">
+		<title lang="zh">怪谈五命河</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260507155800 +0800" stop="20260507162800 +0800">
+		<title lang="zh">黄芪枣好物推荐</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260507162800 +0800" stop="20260507180900 +0800">
+		<title lang="zh">忍者神龟：变种时代</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260507180900 +0800" stop="20260507183900 +0800">
+		<title lang="zh">空心山楂好物推荐</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260507183900 +0800" stop="20260507195400 +0800">
+		<title lang="zh">山海巨兽</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260507195400 +0800" stop="20260507202400 +0800">
+		<title lang="zh">徽封贡酒好物推荐</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260507202400 +0800" stop="20260507213700 +0800">
+		<title lang="zh">钟馗归来万世妖灵</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260507213700 +0800" stop="20260507220700 +0800">
+		<title lang="zh">徽封贡酒好物推荐</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260507220700 +0800" stop="20260507233700 +0800">
+		<title lang="zh">绣春刀：无间炼狱</title>
+	</programme>
+	<channel id="NewTV精品体育">
+		<display-name lang="zh">NewTV精品体育</display-name>
+	</channel>
+	<programme channel="NewTV精品体育" start="20260507001300 +0800" stop="20260507013700 +0800">
+		<title lang="zh">2025-26赛季英超联赛第22轮：曼联VS曼城</title>
+	</programme>
+	<programme channel="NewTV精品体育" start="20260507013700 +0800" stop="20260507031900 +0800">
+		<title lang="zh">2025-26赛季德甲联赛第28轮：斯图加特VS多特蒙德</title>
+	</programme>
+	<programme channel="NewTV精品体育" start="20260507031900 +0800" stop="20260507045600 +0800">
+		<title lang="zh">2025-26赛季法甲联赛第27轮：尼斯VS巴黎圣日耳曼</title>
+	</programme>
+	<programme channel="NewTV精品体育" start="20260507045600 +0800" stop="20260507063500 +0800">
+		<title lang="zh">2025-26赛季西甲联赛第29轮：皇马VS马竞</title>
+	</programme>
+	<programme channel="NewTV精品体育" start="20260507063500 +0800" stop="20260507081700 +0800">
+		<title lang="zh">2025-26赛季西甲联赛第28轮：巴塞罗那VS塞维利亚</title>
+	</programme>
+	<programme channel="NewTV精品体育" start="20260507081700 +0800" stop="20260507100200 +0800">
+		<title lang="zh">2025赛季中超联赛第26轮：上海海港VS武汉三镇</title>
+	</programme>
+	<programme channel="NewTV精品体育" start="20260507100200 +0800" stop="20260507114100 +0800">
+		<title lang="zh">2025赛季中超联赛第30轮：大连英博VS上海海港</title>
+	</programme>
+	<programme channel="NewTV精品体育" start="20260507114100 +0800" stop="20260507125900 +0800">
+		<title lang="zh">25-26赛季CBA常规赛4月5日：上海久事VS长白山恩都里</title>
+	</programme>
+	<programme channel="NewTV精品体育" start="20260507125900 +0800" stop="20260507144700 +0800">
+		<title lang="zh">25-26赛季CBA常规赛4月5日：浙江稠州金租VS福建晋江文旅</title>
+	</programme>
+	<programme channel="NewTV精品体育" start="20260507144700 +0800" stop="20260507163000 +0800">
+		<title lang="zh">25-26赛季CBA常规赛4月6日：北京北汽VS南京天之蓝</title>
+	</programme>
+	<programme channel="NewTV精品体育" start="20260507163000 +0800" stop="20260507173400 +0800">
+		<title lang="zh">世乒联总决赛女单决赛：蒯曼VS王曼昱</title>
+	</programme>
+	<programme channel="NewTV精品体育" start="20260507173400 +0800" stop="20260507182400 +0800">
+		<title lang="zh">世乒联总决赛男单决赛：莫雷高德VS张本智和</title>
+	</programme>
+	<programme channel="NewTV精品体育" start="20260507182400 +0800" stop="20260507195100 +0800">
+		<title lang="zh">25-26赛季NBA常规赛1月3日：雷霆VS勇士</title>
+	</programme>
+	<programme channel="NewTV精品体育" start="20260507195100 +0800" stop="20260507213100 +0800">
+		<title lang="zh">25-26赛季NBA常规赛4月6日：火箭VS勇士</title>
+	</programme>
+	<programme channel="NewTV精品体育" start="20260507213100 +0800" stop="20260507225800 +0800">
+		<title lang="zh">25-26赛季NBA常规赛4月4日：凯尔特人VS雄鹿</title>
+	</programme>
 	<channel id="CGTN">
 		<display-name lang="zh">CGTN</display-name>
 	</channel>
@@ -15919,135 +16144,6 @@
 	<programme channel="新动漫" start="20260507234000 +0800" stop="20260507235959 +0800">
 		<title lang="zh">狐狸快跑</title>
 	</programme>
-	<channel id="NewTV惊悚悬疑">
-		<display-name lang="zh">NewTV惊悚悬疑</display-name>
-	</channel>
-	<programme channel="NewTV惊悚悬疑" start="20260507000000 +0800" stop="20260507013143 +0800">
-		<title lang="zh">精彩呈现</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20260507013143 +0800" stop="20260507020142 +0800">
-		<title lang="zh">徽封贡酒好物推荐</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20260507020142 +0800" stop="20260507023141 +0800">
-		<title lang="zh">徽封贡酒好物推荐</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20260507023141 +0800" stop="20260507035734 +0800">
-		<title lang="zh">神偷谍影</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20260507035734 +0800" stop="20260507051137 +0800">
-		<title lang="zh">起源</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20260507051137 +0800" stop="20260507054136 +0800">
-		<title lang="zh">空心山楂好物推荐</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20260507054136 +0800" stop="20260507070713 +0800">
-		<title lang="zh">不死间谍</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20260507070713 +0800" stop="20260507073712 +0800">
-		<title lang="zh">空心山楂好物推荐</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20260507073712 +0800" stop="20260507094341 +0800">
-		<title lang="zh">黑暗命运</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20260507094341 +0800" stop="20260507101340 +0800">
-		<title lang="zh">空心山楂好物推荐</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20260507101340 +0800" stop="20260507121704 +0800">
-		<title lang="zh">月食</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20260507121704 +0800" stop="20260507124703 +0800">
-		<title lang="zh">黄芪枣好物推荐</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20260507124703 +0800" stop="20260507141345 +0800">
-		<title lang="zh">黄金蜘蛛城</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20260507141345 +0800" stop="20260507144344 +0800">
-		<title lang="zh">黄芪枣好物推荐</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20260507144344 +0800" stop="20260507155839 +0800">
-		<title lang="zh">怪谈五命河</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20260507155839 +0800" stop="20260507162838 +0800">
-		<title lang="zh">黄芪枣好物推荐</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20260507162838 +0800" stop="20260507180953 +0800">
-		<title lang="zh">变种时代</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20260507180953 +0800" stop="20260507183952 +0800">
-		<title lang="zh">空心山楂好物推荐</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20260507183952 +0800" stop="20260507195452 +0800">
-		<title lang="zh">山海巨兽</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20260507195452 +0800" stop="20260507202451 +0800">
-		<title lang="zh">徽封贡酒好物推荐</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20260507202451 +0800" stop="20260507213717 +0800">
-		<title lang="zh">钟馗归来万世妖灵</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20260507213717 +0800" stop="20260507220716 +0800">
-		<title lang="zh">徽封贡酒好物推荐</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20260507220716 +0800" stop="20260507233744 +0800">
-		<title lang="zh">无间炼狱</title>
-	</programme>
-	<programme channel="NewTV惊悚悬疑" start="20260507233744 +0800" stop="20260507235959 +0800">
-		<title lang="zh">徽封贡酒好物推荐</title>
-	</programme>
-	<channel id="NewTV精品体育">
-		<display-name lang="zh">NewTV精品体育</display-name>
-	</channel>
-	<programme channel="NewTV精品体育" start="20260507000000 +0800" stop="20260507001335 +0800">
-		<title lang="zh">精彩呈现</title>
-	</programme>
-	<programme channel="NewTV精品体育" start="20260507001335 +0800" stop="20260507013749 +0800">
-		<title lang="zh">曼联VS曼城</title>
-	</programme>
-	<programme channel="NewTV精品体育" start="20260507013749 +0800" stop="20260507031905 +0800">
-		<title lang="zh">斯图加特VS多特蒙德</title>
-	</programme>
-	<programme channel="NewTV精品体育" start="20260507031905 +0800" stop="20260507045645 +0800">
-		<title lang="zh">尼斯VS巴黎圣日耳曼</title>
-	</programme>
-	<programme channel="NewTV精品体育" start="20260507045645 +0800" stop="20260507063517 +0800">
-		<title lang="zh">皇马VS马竞</title>
-	</programme>
-	<programme channel="NewTV精品体育" start="20260507063517 +0800" stop="20260507081754 +0800">
-		<title lang="zh">巴塞罗那VS塞维利亚</title>
-	</programme>
-	<programme channel="NewTV精品体育" start="20260507081754 +0800" stop="20260507100201 +0800">
-		<title lang="zh">上海海港VS武汉三镇</title>
-	</programme>
-	<programme channel="NewTV精品体育" start="20260507100201 +0800" stop="20260507114127 +0800">
-		<title lang="zh">大连英博VS上海海港</title>
-	</programme>
-	<programme channel="NewTV精品体育" start="20260507114127 +0800" stop="20260507125913 +0800">
-		<title lang="zh">上海久事VS长白山恩都里</title>
-	</programme>
-	<programme channel="NewTV精品体育" start="20260507125913 +0800" stop="20260507144746 +0800">
-		<title lang="zh">浙江稠州金租VS福建晋江文旅</title>
-	</programme>
-	<programme channel="NewTV精品体育" start="20260507144746 +0800" stop="20260507163027 +0800">
-		<title lang="zh">北京北汽VS南京天之蓝</title>
-	</programme>
-	<programme channel="NewTV精品体育" start="20260507163027 +0800" stop="20260507173425 +0800">
-		<title lang="zh">蒯曼VS王曼昱</title>
-	</programme>
-	<programme channel="NewTV精品体育" start="20260507173425 +0800" stop="20260507182435 +0800">
-		<title lang="zh">莫雷高德VS张本智和</title>
-	</programme>
-	<programme channel="NewTV精品体育" start="20260507182435 +0800" stop="20260507195106 +0800">
-		<title lang="zh">雷霆VS勇士</title>
-	</programme>
-	<programme channel="NewTV精品体育" start="20260507195106 +0800" stop="20260507213115 +0800">
-		<title lang="zh">火箭VS勇士</title>
-	</programme>
-	<programme channel="NewTV精品体育" start="20260507213115 +0800" stop="20260507225859 +0800">
-		<title lang="zh">凯尔特人VS雄鹿</title>
-	</programme>
-	<programme channel="NewTV精品体育" start="20260507225859 +0800" stop="20260507235959 +0800">
-		<title lang="zh">雄鹿VS太阳</title>
-	</programme>
 	<channel id="淘电影">
 		<display-name lang="zh">淘电影</display-name>
 	</channel>
@@ -17275,75 +17371,6 @@
 	<programme channel="星空卫视" start="20260507220200 +0800" stop="20260507235959 +0800">
 		<title lang="zh">电影</title>
 	</programme>
-	<channel id="NewTV超级体育">
-		<display-name lang="zh">NewTV超级体育</display-name>
-	</channel>
-	<programme channel="NewTV超级体育" start="20260507000000 +0800" stop="20260507000500 +0800">
-		<title lang="zh">精彩呈现</title>
-	</programme>
-	<programme channel="NewTV超级体育" start="20260507000500 +0800" stop="20260507010500 +0800">
-		<title lang="zh">实况录像2026年世界泳联花样游泳世界杯法国站1</title>
-	</programme>
-	<programme channel="NewTV超级体育" start="20260507010500 +0800" stop="20260507023600 +0800">
-		<title lang="zh">实况录像2025年世界田联钻石联赛布鲁塞尔站</title>
-	</programme>
-	<programme channel="NewTV超级体育" start="20260507023600 +0800" stop="20260507040000 +0800">
-		<title lang="zh">实况录像20252026赛季中国男子篮球职业联赛</title>
-	</programme>
-	<programme channel="NewTV超级体育" start="20260507040000 +0800" stop="20260507053000 +0800">
-		<title lang="zh">国际足球赛场2526赛季英超联赛第18轮桑德兰利兹联(4K)</title>
-	</programme>
-	<programme channel="NewTV超级体育" start="20260507053000 +0800" stop="20260507063000 +0800">
-		<title lang="zh">实况录像(奥林匹克)2026年米兰科尔蒂纳冬奥会</title>
-	</programme>
-	<programme channel="NewTV超级体育" start="20260507063000 +0800" stop="20260507070000 +0800">
-		<title lang="zh">健身动起来</title>
-	</programme>
-	<programme channel="NewTV超级体育" start="20260507070000 +0800" stop="20260507080300 +0800">
-		<title lang="zh">体坛晨报</title>
-	</programme>
-	<programme channel="NewTV超级体育" start="20260507080300 +0800" stop="20260507090000 +0800">
-		<title lang="zh">实况录像2026年全国举重锦标赛女子比赛2</title>
-	</programme>
-	<programme channel="NewTV超级体育" start="20260507090000 +0800" stop="20260507103100 +0800">
-		<title lang="zh">国际足球赛场2526赛季法甲联赛第32轮巴黎圣日耳曼洛里昂</title>
-	</programme>
-	<programme channel="NewTV超级体育" start="20260507103100 +0800" stop="20260507120000 +0800">
-		<title lang="zh">实况录像20252026赛季中国男子篮球职业联赛</title>
-	</programme>
-	<programme channel="NewTV超级体育" start="20260507120000 +0800" stop="20260507123500 +0800">
-		<title lang="zh">体坛快讯</title>
-	</programme>
-	<programme channel="NewTV超级体育" start="20260507123500 +0800" stop="20260507125800 +0800">
-		<title lang="zh">艺术里的奥林匹克(4K)</title>
-	</programme>
-	<programme channel="NewTV超级体育" start="20260507125800 +0800" stop="20260507143000 +0800">
-		<title lang="zh">实况录像2026年世界乒乓球团体锦标赛18决赛(录播)</title>
-	</programme>
-	<programme channel="NewTV超级体育" start="20260507143000 +0800" stop="20260507163000 +0800">
-		<title lang="zh">实况录像2026年汤姆斯杯羽毛球赛半决赛</title>
-	</programme>
-	<programme channel="NewTV超级体育" start="20260507163000 +0800" stop="20260507170000 +0800">
-		<title lang="zh">体坛零距离(4K)</title>
-	</programme>
-	<programme channel="NewTV超级体育" start="20260507170000 +0800" stop="20260507190000 +0800">
-		<title lang="zh">2026年世界乒乓球团体锦标赛女团14决赛1</title>
-	</programme>
-	<programme channel="NewTV超级体育" start="20260507190000 +0800" stop="20260507193000 +0800">
-		<title lang="zh">体育新闻</title>
-	</programme>
-	<programme channel="NewTV超级体育" start="20260507193000 +0800" stop="20260507213000 +0800">
-		<title lang="zh">2026年世界乒乓球团体锦标赛男团14决赛1</title>
-	</programme>
-	<programme channel="NewTV超级体育" start="20260507213000 +0800" stop="20260507223500 +0800">
-		<title lang="zh">体育世界</title>
-	</programme>
-	<programme channel="NewTV超级体育" start="20260507223500 +0800" stop="20260507233500 +0800">
-		<title lang="zh">足球之夜</title>
-	</programme>
-	<programme channel="NewTV超级体育" start="20260507233500 +0800" stop="20260507235959 +0800">
-		<title lang="zh">实况录像20252026赛季世界斯诺克锦标赛2</title>
-	</programme>
 	<channel id="南国都市4K">
 		<display-name lang="zh">南国都市4K</display-name>
 	</channel>
@@ -17487,48 +17514,6 @@
 	</programme>
 	<programme channel="经典电影" start="20260507231000 +0800" stop="20260507235900 +0800">
 		<title lang="zh">机器狗</title>
-	</programme>
-	<channel id="NewTV动作电影">
-		<display-name lang="zh">NewTV动作电影</display-name>
-	</channel>
-	<programme channel="NewTV动作电影" start="20260507003800 +0800" stop="20260507021000 +0800">
-		<title lang="zh">鬼吹灯之湘西密藏</title>
-	</programme>
-	<programme channel="NewTV动作电影" start="20260507021000 +0800" stop="20260507034200 +0800">
-		<title lang="zh">昆仑神宫</title>
-	</programme>
-	<programme channel="NewTV动作电影" start="20260507034200 +0800" stop="20260507045800 +0800">
-		<title lang="zh">侦录实案之盗亦有道</title>
-	</programme>
-	<programme channel="NewTV动作电影" start="20260507045800 +0800" stop="20260507062600 +0800">
-		<title lang="zh">举起手来！</title>
-	</programme>
-	<programme channel="NewTV动作电影" start="20260507062600 +0800" stop="20260507075300 +0800">
-		<title lang="zh">火线追凶2之同名为仇</title>
-	</programme>
-	<programme channel="NewTV动作电影" start="20260507075300 +0800" stop="20260507085700 +0800">
-		<title lang="zh">大狂蜂：起源</title>
-	</programme>
-	<programme channel="NewTV动作电影" start="20260507085700 +0800" stop="20260507103900 +0800">
-		<title lang="zh">缉枪</title>
-	</programme>
-	<programme channel="NewTV动作电影" start="20260507103900 +0800" stop="20260507114900 +0800">
-		<title lang="zh">缩小人特攻队</title>
-	</programme>
-	<programme channel="NewTV动作电影" start="20260507114900 +0800" stop="20260507132200 +0800">
-		<title lang="zh">特工艾米拉</title>
-	</programme>
-	<programme channel="NewTV动作电影" start="20260507132200 +0800" stop="20260507145000 +0800">
-		<title lang="zh">边境威龙</title>
-	</programme>
-	<programme channel="NewTV动作电影" start="20260507145000 +0800" stop="20260507164300 +0800">
-		<title lang="zh">武动乾坤：涅槃神石</title>
-	</programme>
-	<programme channel="NewTV动作电影" start="20260507164300 +0800" stop="20260507182300 +0800">
-		<title lang="zh">街头霸王</title>
-	</programme>
-	<programme channel="NewTV动作电影" start="20260507182300 +0800" stop="20260507194700 +0800">
-		<title lang="zh">执剑人</title>
 	</programme>
 	<channel id="欢笑剧场4K">
 		<display-name lang="zh">欢笑剧场4K</display-name>
