@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260507095617 +0800">
+<tv date="20260507114915 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -17526,6 +17526,9 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20260507164300 +0800" stop="20260507182300 +0800">
 		<title lang="zh">街头霸王</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260507182300 +0800" stop="20260507194700 +0800">
+		<title lang="zh">执剑人</title>
 	</programme>
 	<channel id="欢笑剧场4K">
 		<display-name lang="zh">欢笑剧场4K</display-name>
