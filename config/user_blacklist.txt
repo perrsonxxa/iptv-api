@@ -58,4 +58,4 @@ mgtv.ottiptv.cc/
 http://[2409:8087:4c0a:22:1::11]:6410/
 jx.chinamobile.com:8080/
 php?id=⚽马上oppppp
-http://47.100.29.86:28888/sxg/
+47.100.29.86:28888/sxg/
