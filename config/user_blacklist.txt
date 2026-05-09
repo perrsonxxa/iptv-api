@@ -60,3 +60,5 @@ jx.chinamobile.com:8080/
 php?id=⚽马上oppppp
 47.100.29.86:28888/sxg/
 47.100.29.86:29009/cms001/
+107.150.60.122/live/
+s1.abntelevision.com/avivamientoabr/
