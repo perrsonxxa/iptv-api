@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/%E4%BC%9
 https://raw.githubusercontent.com/altn2025/iptv/main/iptv.m3u
 https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u
 https://raw.githubusercontent.com/best-fan/iptv-sources/main/cn_all.m3u8
-
+https://raw.githubusercontent.com/perrsonxxa/perrson/main/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.txt
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us.m3u
 https://raw.githubusercontent.com/perrsonxxa/guan/main/rtp.txt # rtp源
 http://rihou.cc:555/gggg.nzk
@@ -142,8 +142,8 @@ https://raw.githubusercontent.com/perrsonxxa/perrson/main/20260407104805.txt #gu
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
 # This is the whitelist for subscription sources. Subscription sources in the
-https://github.com/perrsonxxa/iptv-api/raw/master/config/BJ%20IPV6.txt   #北京好用IPV6
-https://gitee.com/wuyuboLive/live/raw/master/%E5%8C%97%E4%BA%ACipv6-seek.m3u  #北京好用IPV6
+#https://github.com/perrsonxxa/iptv-api/raw/master/config/BJ%20IPV6.txt   #北京好用IPV6
+#https://gitee.com/wuyuboLive/live/raw/master/%E5%8C%97%E4%BA%ACipv6-seek.m3u  #北京好用IPV6
 # https://raw.githubusercontent.com/yaoxieyoulei/YYKM_assets/main/webview.m3u
 # https://raw.githubusercontent.com/yaoxieyoulei/YYKM_assets/main/webview.m3u
 https://github.com/perrsonxxa/perrson/raw/main/white.txt
