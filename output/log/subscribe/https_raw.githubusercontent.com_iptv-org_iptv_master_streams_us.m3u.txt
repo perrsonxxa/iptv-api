@@ -466,7 +466,7 @@ https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-somos.smil/playlist.m3
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="KSAZTV101.us@HD",KSAZ-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="KSCNTV631.us@HD",KSCN-DT1
+#EXTINF:-1 tvg-id="KSCNTV221.us@HD",KSCN-DT1
 https://stream-losangeles.scientology.org/master.m3u8
 #EXTINF:-1 tvg-id="KTBC71.us@HD",KTBC-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8
@@ -1144,3 +1144,9 @@ https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
 #EXTINF:-1 tvg-id="BratTV.us@SD",Brat TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8
+#EXTINF:-1 tvg-id="MonroeCommunityMediaPublicAccessChannel.us@SD",Monroe Community Media Public Access Channel
+https://reflect-monroe-public-access.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-id="MonroeCommunityMediaEducationChannel.us@SD",Monroe Community Media Education Channel
+https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8
+#EXTINF:-1 tvg-id="CityofMonroeGovernmentChannel.us@SD",City of Monroe Government Channel
+https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8
