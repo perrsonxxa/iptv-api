@@ -23,6 +23,8 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType
 https://cdn16.163189.xyz/163189/cctv4$IPV4•线路53
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="📺央视频道",CCTV-4
 https://b7dfda-9b6e36-ddb3.kylintv.tv/live/cctv4hd_iphone.m3u8$IPV4•线路50
+#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="📺央视频道",CCTV-4
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📺央视频道",CCTV-5
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📺央视频道",CCTV-5
@@ -93,8 +95,6 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EgtTqPYLE5COifF-qvYi2Ig%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="📺央视频道",CCTV-14
 https://cdn16.163189.xyz/163189/cctv14$IPV4•线路45
-#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="📺央视频道",CCTV-14
-https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15.png" group-title="📺央视频道",CCTV-15
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15.png" group-title="📺央视频道",CCTV-15
@@ -329,8 +329,6 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType
 http://rihou.cc:555/tv/东方卫视4K
 #EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东方卫视4K.png" group-title="4K频道",东方卫视4K
 http://cdn.jdshipin.com/kkxw.php?id=1
-#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东方卫视4K.png" group-title="4K频道",东方卫视4K
-http://hlszymgsplive.miguvideo.com:8080/migu/kailu/dongfanghd265/51/20191230/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20260623100204&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=171.8.79.254&SecurityKey=20260623100204&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=WX-A1-9.6.1.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=34fe395c76ad65c1e3df51558ffc72e7&sv=10004&ct=android$订阅源
 #EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视4K.png" group-title="4K频道",湖南卫视4K
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EIGb_ib7rnBX9_sANRKq9sg%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000003873458%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007253514_0%2CEND&GuardEncType=2
 #EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视4K.png" group-title="4K频道",湖南卫视4K
@@ -406,9 +404,7 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType
 #EXTINF:-1 tvg-id="河南卫视4K" tvg-name="河南卫视4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视4K.png" group-title="4K频道",河南卫视4K
 http://rihou.cc:555/tv/河南卫视4K
 #EXTINF:-1 tvg-id="河南卫视4K" tvg-name="河南卫视4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视4K.png" group-title="4K频道",河南卫视4K
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=5d2785053aa9a161487a0bbfa0f86771&wsTime=1782194385$订阅源
-#EXTINF:-1 tvg-id="河南卫视4K" tvg-name="河南卫视4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河南卫视4K.png" group-title="4K频道",河南卫视4K
-https://live.lalifeier.eu.org/hntv/hnws.m3u8?t=1782173670&key=4b5bf3f7266fbbf1b17ff98f64d67568$订阅源
+https://live.lalifeier.eu.org/hntv/hnws.m3u8?t=1782191286&key=8f5e64e6eb516d8b8d9b1584567592d2$订阅源
 #EXTINF:-1 tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/欢笑剧场4K.png" group-title="4K频道",欢笑剧场4K
 http://rihou.cc:555/tv/欢笑剧场4K
 #EXTINF:-1 tvg-id="CCTV-8K" tvg-name="CCTV8K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV8K.png" group-title="4K频道",CCTV8K
@@ -588,7 +584,7 @@ http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天新闻.png" group-title="🌊港·澳·台",中天新闻
 http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天新闻.png" group-title="🌊港·澳·台",中天新闻
-https://4g.158.qzz.io/163189/60f5c767b807519a
+http://www.kaniptv.cn/ua3.php?etoken=m1jBeZ6pPQWBnKTP4dIXI7Nqwc5dfmbdTt7q9eR%2BVM1N1vrRnukJbMwV5gyySRTGX7l473fyDLAmZruf53ok%2B0ycz3CBk87G0XDcC4TH1ROAs3UVFxCOP2F2GQUh0u5GMytVnvmeADQqZg4e5EQW32CUaKAXNtHCKUq8Jba52fcKI%2F5rG%2BuWIn%2BrHACdELABB7IIpDLliZegojaVp%2BBk0zzCbtX%2BKLaeH3cWrYH8Nv%2Fs1rnm%2F%2BDv%2FwF5%2B3AXEQJGmaIS8XMZFvaeT0AzRl2xgQTFeqbsQE2kZbCM7wXHLpg1TfYXRaajBsFZFNaAQFy34ISU9wqf4L%2Fe2TDnf6%2FoUg%3D%3D
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天新闻.png" group-title="🌊港·澳·台",中天新闻
 rtmp://ai.unispc.com/live/nb-py-ztxw
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天新闻.png" group-title="🌊港·澳·台",中天新闻
@@ -604,9 +600,9 @@ http://jnzq.ohoyee.com:9080/live/332123-ztxw2.m3u8
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天新闻.png" group-title="🌊港·澳·台",中天新闻
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天新闻.png" group-title="🌊港·澳·台",中天新闻
-http://www.kaniptv.cn/ua3.php?etoken=m1jBeZ6pPQWBnKTP4dIXI7Nqwc5dfmbdTt7q9eR%2BVM1N1vrRnukJbMwV5gyySRTGX7l473fyDLAmZruf53ok%2B0ycz3CBk87G0XDcC4TH1ROAs3UVFxCOP2F2GQUh0u5GMytVnvmeADQqZg4e5EQW32CUaKAXNtHCKUq8Jba52fcKI%2F5rG%2BuWIn%2BrHACdELABB7IIpDLliZegojaVp%2BBk0zzCbtX%2BKLaeH3cWrYH8Nv%2Fs1rnm%2F%2BDv%2FwF5%2B3AXEQJGmaIS8XMZFvaeT0AzRl2xgQTFeqbsQE2kZbCM7wXHLpg1TfYXRaajBsFZFNaAQFy34ISU9wqf4L%2Fe2TDnf6%2FoUg%3D%3D
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天新闻.png" group-title="🌊港·澳·台",中天新闻
 https://4gtv.158.qzz.io/163189/61385f10-c9c1-448d-94ef-91b18d1849cf/$订阅源
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中天新闻.png" group-title="🌊港·澳·台",中天新闻
+https://4gtv.158.qzz.io/163189/612531e0-184b-40f1-b9ec-8157d4c44935/$订阅源
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
 http://rihou.cc:555/tv/[Pd]凤凰中文$本地源
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
@@ -920,9 +916,9 @@ http://wmh.wmh.ink:6633/udp/239.77.0.112:5146
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东体育.png" group-title="🏀体育频道",广东体育
 http://cdn2.163189.xyz/163189/gdty$IPV4•线路2
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东体育.png" group-title="🏀体育频道",广东体育
-http://r.jdshipin.com/LiYdg$IPV4•线路19
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东体育.png" group-title="🏀体育频道",广东体育
 http://cdn.163189.xyz/163189/gdty$IPV4•线路31
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东体育.png" group-title="🏀体育频道",广东体育
+http://r.jdshipin.com/LiYdg$IPV4•线路19
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东体育.png" group-title="🏀体育频道",广东体育
 http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8$IPV4•线路23
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/纬来体育.png" group-title="🏀体育频道",纬来体育
@@ -951,6 +947,16 @@ https://live.264788.xyz/channel/fengyunzuqiu?streamid=927ac8a2bbea16a44fbdc8cd59
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq$订阅源
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="🏀体育频道",风云足球
 http://207.56.13.146:81/cdnlive/fyzq.m3u8$订阅源
+#EXTINF:-1 tvg-id="Astro Badminton" tvg-name="Astro Badminton" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Astro Badminton.png" group-title="🏀体育频道",Astro Badminton
+http://tv.cloudcdn.me:80/live.ts?channelId=133050&uid=15301&deviceMac=00:1A:79:68:B0:74
+#EXTINF:-1 tvg-id="Astro Badminton" tvg-name="Astro Badminton" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Astro Badminton.png" group-title="🏀体育频道",Astro Badminton
+http://tv.cloudcdn.me:80/live.ts?channelId=133049&uid=15301&deviceMac=00:1A:79:68:B0:74
+#EXTINF:-1 tvg-id="Sky Sport Tennis" tvg-name="Sky Sport Tennis" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sky Sport Tennis.png" group-title="🏀体育频道",Sky Sport Tennis
+http://oacost.vivotv.vip/VillaCanariaLuna/d9nxo3cgd4/428593
+#EXTINF:-1 tvg-id="Sky Sport Tennis" tvg-name="Sky Sport Tennis" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sky Sport Tennis.png" group-title="🏀体育频道",Sky Sport Tennis
+http://nrvmobil.com:2095/kadir8502/8YmCgLty8yeh/107277
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Tennis Channel.png" group-title="🏀体育频道",Tennis Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 tvg-id="八段锦" tvg-name="八段锦" tvg-logo="https://www.xn--rgv465a.top/tvlogo/八段锦.png" group-title="🏀体育频道",八段锦
 webview://https://tyj.wuhan.gov.cn/mas/openapi/pages.do?method=exPlay&appKey=gov&id=141894
 #EXTINF:-1 tvg-id="八段锦" tvg-name="八段锦" tvg-logo="https://www.xn--rgv465a.top/tvlogo/八段锦.png" group-title="🏀体育频道",八段锦
@@ -988,13 +994,13 @@ https://english-livebkali.cgtn.com/live/encgtn_1.m3u8$订阅源
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN.png" group-title="🏛海外新闻",CGTN
 http://60.10.139.113:8801/hls/14/index.m3u8$订阅源
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN.png" group-title="🏛海外新闻",CGTN
+https://english-livetx.cgtn.com/hls/yypdyyctzb/playlist.m3u8$订阅源
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN.png" group-title="🏛海外新闻",CGTN
 https://0472.org/hls/cgtn.m3u8$订阅源
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN.png" group-title="🏛海外新闻",CGTN
 http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8$订阅源
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN.png" group-title="🏛海外新闻",CGTN
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8$订阅源
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN.png" group-title="🏛海外新闻",CGTN
-https://english-livetx.cgtn.com/hls/yypdyyctzb/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC News.png" group-title="🏛海外新闻",BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC News.png" group-title="🏛海外新闻",BBC News
@@ -1017,8 +1023,6 @@ https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
 http://125.227.210.55:8165/VideoInput/play.ts$订阅源
 #EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Euronews.png" group-title="🏛海外新闻",Euronews
 https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8
-#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Euronews.png" group-title="🏛海外新闻",Euronews
-https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8$订阅源
 #EXTINF:-1 tvg-id="CNN International" tvg-name="CNN International" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN International.png" group-title="🏛海外新闻",CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="CNN International" tvg-name="CNN International" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN International.png" group-title="🏛海外新闻",CNN International
@@ -1217,14 +1221,12 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklis
 http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8$订阅源
 #EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Arirang.png" group-title="🏛海外新闻",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8$订阅源
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Tennis Channel.png" group-title="🏛海外新闻",Tennis Channel
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 tvg-id="24H国漫热播" tvg-name="24H国漫热播" tvg-logo="https://www.xn--rgv465a.top/tvlogo/24H国漫热播.png" group-title="🪁动画频道",24H国漫热播
 https://www.goodiptv.club/yy/1353937086$订阅源
 #EXTINF:-1 tvg-id="经典动漫" tvg-name="经典动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/经典动漫.png" group-title="🪁动画频道",经典动漫
-https://www.goodiptv.club/yy/22777075$订阅源
-#EXTINF:-1 tvg-id="经典动漫" tvg-name="经典动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/经典动漫.png" group-title="🪁动画频道",经典动漫
 https://www.goodiptv.club/yy/24180320$订阅源
+#EXTINF:-1 tvg-id="经典动漫" tvg-name="经典动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/经典动漫.png" group-title="🪁动画频道",经典动漫
+https://www.goodiptv.club/yy/22777075$订阅源
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15.png" group-title="🎵音乐频道",CCTV-15
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15.png" group-title="🎵音乐频道",CCTV-15
@@ -1247,5 +1249,5 @@ https://live.264788.xyz/channel/fengyunyinyue?streamid=be37d16b874e7ba11dd383d7e
 http://198.204.228.26/live/fyyy.m3u8$订阅源
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云音乐.png" group-title="🎵音乐频道",风云音乐
 http://60.16.0.36:5757/hls/40/index.m3u8$订阅源
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-06-23 12:41:04
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-06-23 18:31:33
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?

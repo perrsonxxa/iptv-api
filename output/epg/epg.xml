@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260623033825 +0800">
+<tv date="20260623093015 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -12573,42 +12573,6 @@
 	<programme channel="经典电影" start="20260623221100 +0800" stop="20260623235900 +0800">
 		<title lang="zh">公众之敌</title>
 	</programme>
-	<channel id="CHC高清电影">
-		<display-name lang="zh">CHC高清电影</display-name>
-	</channel>
-	<programme channel="CHC高清电影" start="20260623060000 +0800" stop="20260623075500 +0800">
-		<title lang="zh">  宫锁沉香</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260623075500 +0800" stop="20260623092200 +0800">
-		<title lang="zh">  极速搏杀</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260623092200 +0800" stop="20260623105500 +0800">
-		<title lang="zh">  道口烧鸡铺</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260623105500 +0800" stop="20260623123100 +0800">
-		<title lang="zh">  叱咤风云</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260623123100 +0800" stop="20260623140300 +0800">
-		<title lang="zh">  那都不是事</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260623140300 +0800" stop="20260623152700 +0800">
-		<title lang="zh">  的士速递</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260623152700 +0800" stop="20260623170000 +0800">
-		<title lang="zh">  农民院士</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260623170000 +0800" stop="20260623182300 +0800">
-		<title lang="zh">  美国空姐</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260623182300 +0800" stop="20260623202000 +0800">
-		<title lang="zh">  峰爆</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260623202000 +0800" stop="20260623220000 +0800">
-		<title lang="zh">  回廊亭</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20260623220000 +0800" stop="20260623233900 +0800">
-		<title lang="zh">  舞动人生</title>
-	</programme>
 	<channel id="广州竞赛">
 		<display-name lang="zh">广州竞赛</display-name>
 	</channel>
@@ -12678,7 +12642,7 @@
 	<programme channel="广州竞赛" start="20260623220000 +0800" stop="20260623230000 +0800">
 		<title lang="zh">体育赛事</title>
 	</programme>
-	<programme channel="广州竞赛" start="20260623230000 +0800" stop="20260623235900 +0800">
+	<programme channel="广州竞赛" start="20260623230000 +0800" stop="20260624000000 +0800">
 		<title lang="zh">体育赛事</title>
 	</programme>
 	<channel id="魅力足球">
@@ -12738,41 +12702,62 @@
 	<programme channel="魅力足球" start="20260623222500 +0800" stop="20260623235000 +0800">
 		<title lang="zh">2026南美解放者杯小组赛</title>
 	</programme>
-	<programme channel="魅力足球" start="20260623235000 +0800" stop="20260623123500 +0800">
+	<programme channel="魅力足球" start="20260623235000 +0800" stop="20260624000000 +0800">
 		<title lang="zh">2026南美解放者杯小组赛</title>
 	</programme>
-	<programme channel="魅力足球" start="20260623123500 +0800" stop="20260623130500 +0800">
-		<title lang="zh">燃动金杯(4)</title>
+	<channel id="CHC高清电影">
+		<display-name lang="zh">CHC高清电影</display-name>
+	</channel>
+	<programme channel="CHC高清电影" start="20260623000000 +0800" stop="20260623012500 +0800">
+		<title lang="zh">爱情神话</title>
 	</programme>
-	<programme channel="魅力足球" start="20260623130500 +0800" stop="20260623143000 +0800">
-		<title lang="zh">德甲第32轮:拜仁慕尼黑-海登海姆</title>
+	<programme channel="CHC高清电影" start="20260623012500 +0800" stop="20260623040000 +0800">
+		<title lang="zh">夺宝奇兵-命运转盘</title>
 	</programme>
-	<programme channel="魅力足球" start="20260623143000 +0800" stop="20260623155500 +0800">
-		<title lang="zh">德甲:门兴格拉德巴赫-多特蒙德</title>
+	<programme channel="CHC高清电影" start="20260623040000 +0800" stop="20260623044500 +0800">
+		<title lang="zh">夺宝奇兵-命运转盘</title>
 	</programme>
-	<programme channel="魅力足球" start="20260623155500 +0800" stop="20260623172000 +0800">
-		<title lang="zh">法甲联赛第8轮:尼斯-里昂</title>
+	<programme channel="CHC高清电影" start="20260623044500 +0800" stop="20260623060000 +0800">
+		<title lang="zh">夺宝奇兵-命运转盘</title>
 	</programme>
-	<programme channel="魅力足球" start="20260623172000 +0800" stop="20260623184500 +0800">
-		<title lang="zh">法甲联赛:布雷斯特-巴黎圣日耳曼</title>
+	<programme channel="CHC高清电影" start="20260623060000 +0800" stop="20260623075500 +0800">
+		<title lang="zh">宫锁沉香</title>
 	</programme>
-	<programme channel="魅力足球" start="20260623184500 +0800" stop="20260623191000 +0800">
-		<title lang="zh">2025/2026法甲联赛第24轮集锦</title>
+	<programme channel="CHC高清电影" start="20260623075500 +0800" stop="20260623080000 +0800">
+		<title lang="zh">极速搏杀</title>
 	</programme>
-	<programme channel="魅力足球" start="20260623191000 +0800" stop="20260623194000 +0800">
-		<title lang="zh">2025/2026法甲联赛第25轮集锦</title>
+	<programme channel="CHC高清电影" start="20260623080000 +0800" stop="20260623092200 +0800">
+		<title lang="zh">极速搏杀</title>
 	</programme>
-	<programme channel="魅力足球" start="20260623194000 +0800" stop="20260623210000 +0800">
-		<title lang="zh">2026世界杯小组赛F组:荷兰-瑞典</title>
+	<programme channel="CHC高清电影" start="20260623092200 +0800" stop="20260623105500 +0800">
+		<title lang="zh">道口烧鸡铺</title>
 	</programme>
-	<programme channel="魅力足球" start="20260623210000 +0800" stop="20260623222500 +0800">
-		<title lang="zh">2026世界杯小组赛:德国-科特迪瓦</title>
+	<programme channel="CHC高清电影" start="20260623105500 +0800" stop="20260623123100 +0800">
+		<title lang="zh">叱咤风云</title>
 	</programme>
-	<programme channel="魅力足球" start="20260623222500 +0800" stop="20260623235000 +0800">
-		<title lang="zh">2026南美解放者杯小组赛</title>
+	<programme channel="CHC高清电影" start="20260623123100 +0800" stop="20260623140300 +0800">
+		<title lang="zh">那都不是事</title>
 	</programme>
-	<programme channel="魅力足球" start="20260623235000 +0800" stop="20260623235900 +0800">
-		<title lang="zh">2026南美解放者杯小组赛</title>
+	<programme channel="CHC高清电影" start="20260623140300 +0800" stop="20260623152700 +0800">
+		<title lang="zh">的士速递</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260623152700 +0800" stop="20260623170000 +0800">
+		<title lang="zh">农民院士</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260623170000 +0800" stop="20260623182300 +0800">
+		<title lang="zh">美国空姐</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260623182300 +0800" stop="20260623202000 +0800">
+		<title lang="zh">峰爆</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260623202000 +0800" stop="20260623220000 +0800">
+		<title lang="zh">回廊亭</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260623220000 +0800" stop="20260623233900 +0800">
+		<title lang="zh">舞动人生</title>
+	</programme>
+	<programme channel="CHC高清电影" start="20260623233900 +0800" stop="20260624000000 +0800">
+		<title lang="zh">洛阳水席</title>
 	</programme>
 	<channel id="NewTV动作电影">
 		<display-name lang="zh">NewTV动作电影</display-name>
@@ -26420,6 +26405,108 @@
 	</programme>
 	<programme channel="TRT World" start="20260625064500 +0800" stop="20260626000000 +0800">
 		<title lang="zh">World Cup Daily</title>
+	</programme>
+	<channel id="Sky Sport Tennis">
+		<display-name lang="zh">Sky Sport Tennis</display-name>
+	</channel>
+	<programme channel="Sky Sport Tennis" start="20260623020000 +0800" stop="20260623030000 +0800">
+		<title lang="zh">Tennis: ATP 500</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260623030000 +0800" stop="20260623050000 +0800">
+		<title lang="zh">Tennis: Bad Homburg Open</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260623050000 +0800" stop="20260623070000 +0800">
+		<title lang="zh">Tennis: ATP 250</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260623070000 +0800" stop="20260623093000 +0800">
+		<title lang="zh">Tennis: WTA-Turnier in Berlin</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260623093000 +0800" stop="20260623103000 +0800">
+		<title lang="zh">Tennis: ATP 500</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260623103000 +0800" stop="20260623123000 +0800">
+		<title lang="zh">Tennis: Bad Homburg Open</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260623123000 +0800" stop="20260623130000 +0800">
+		<title lang="zh">Tennis: WTA</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260623130000 +0800" stop="20260623150000 +0800">
+		<title lang="zh">Tennis: ATP 250</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260623150000 +0800" stop="20260623170000 +0800">
+		<title lang="zh">Tennis: Bad Homburg Open</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260623170000 +0800" stop="20260624020000 +0800">
+		<title lang="zh">Tennis: ATP Tour und WTA Tour</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260624020000 +0800" stop="20260624043000 +0800">
+		<title lang="zh">Tennis: WTA-Turnier in Berlin</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260624043000 +0800" stop="20260624063000 +0800">
+		<title lang="zh">Tennis: Bad Homburg Open</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260624063000 +0800" stop="20260624083000 +0800">
+		<title lang="zh">Tennis: ATP 250</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260624083000 +0800" stop="20260624103000 +0800">
+		<title lang="zh">Tennis: Bad Homburg Open</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260624103000 +0800" stop="20260624123000 +0800">
+		<title lang="zh">Tennis: Bad Homburg Open</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260624123000 +0800" stop="20260624143000 +0800">
+		<title lang="zh">Tennis: ATP 250</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260624143000 +0800" stop="20260624163000 +0800">
+		<title lang="zh">Tennis: Bad Homburg Open</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260624163000 +0800" stop="20260624170000 +0800">
+		<title lang="zh">Tennis: ATP</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260624170000 +0800" stop="20260625020000 +0800">
+		<title lang="zh">Tennis: ATP Tour und WTA Tour</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260625020000 +0800" stop="20260625023000 +0800">
+		<title lang="zh">Tennis: ATP</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260625023000 +0800" stop="20260625043000 +0800">
+		<title lang="zh">Tennis: Bad Homburg Open</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260625043000 +0800" stop="20260625063000 +0800">
+		<title lang="zh">Tennis: ATP 250</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260625063000 +0800" stop="20260625070000 +0800">
+		<title lang="zh">Tennis: ATP</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260625070000 +0800" stop="20260625090000 +0800">
+		<title lang="zh">Tennis: Bad Homburg Open</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260625090000 +0800" stop="20260625100000 +0800">
+		<title lang="zh">Tennis: ATP 500</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260625100000 +0800" stop="20260625123000 +0800">
+		<title lang="zh">Tennis: WTA-Turnier in Berlin</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260625123000 +0800" stop="20260625130000 +0800">
+		<title lang="zh">Tennis: ATP</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260625130000 +0800" stop="20260625150000 +0800">
+		<title lang="zh">Tennis: ATP 250</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260625150000 +0800" stop="20260625170000 +0800">
+		<title lang="zh">Tennis: Bad Homburg Open</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260625170000 +0800" stop="20260626020000 +0800">
+		<title lang="zh">Tennis: ATP Tour und WTA Tour</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260626020000 +0800" stop="20260626043000 +0800">
+		<title lang="zh">Tennis: ATP 500</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260626043000 +0800" stop="20260626063000 +0800">
+		<title lang="zh">Tennis: Bad Homburg Open</title>
+	</programme>
+	<programme channel="Sky Sport Tennis" start="20260626063000 +0800" stop="20260627000000 +0800">
+		<title lang="zh">Tennis: ATP 250</title>
 	</programme>
 	<channel id="i24 news">
 		<display-name lang="zh">i24 news</display-name>
