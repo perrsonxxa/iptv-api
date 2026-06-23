@@ -189,6 +189,7 @@ IPTV经典电影
 先锋乒羽
 Astro Badminton
 Sky Sport Tennis
+Tennis Channel
 Eurosport
 八段锦
 66节回春医疗保健操
@@ -226,7 +227,6 @@ BBC Earth
 GB News
 NHK
 Arirang
-Tennis Channel
 
 🪁动画频道,#genre#
 少儿动画
