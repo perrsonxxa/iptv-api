@@ -201,6 +201,7 @@ BBC News
 Euronews
 CNN International
 DW English
+Reuters
 NDTV
 CBS News
 ABC News
