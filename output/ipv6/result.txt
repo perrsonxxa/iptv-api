@@ -1,55 +1,73 @@
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
 CCTV-1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV-1,https://cdn16.123.rr.kg/163189/cctv1$IPV4•线路52
 CCTV-2,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?
 CCTV-2,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-2,https://cdn.qd.je/163189.php?id=cctv2$IPV4•线路46
+CCTV-2,https://cdn16.123.rr.kg/163189/cctv2$IPV4•线路46
 CCTV-3,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8?
 CCTV-3,https://cdn.qd.je/163189.php?id=cctv3$IPV4•线路41
+CCTV-3,https://cdn16.123.rr.kg/163189/cctv3$IPV4•线路44
 CCTV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?
 CCTV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-4,https://cdn.qd.je/163189.php?id=cctv4$IPV4•线路51
+CCTV-4,https://cdn16.123.rr.kg/163189/cctv4$IPV4•线路55
 CCTV-4,https://85e7-724c-30ec-0b74.kylintv.tv/live/cctv4hd_iphone.m3u8$IPV4•线路44
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 CCTV-5,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
+CCTV-5,https://cdn16.123.rr.kg/163189/cctv5$IPV4•线路48
 CCTV-5,https://85e7-724c-30ec-0b74.kylintv.tv/live/cctv5hd_iphone.m3u8$IPV4•线路38
 CCTV-5+,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?
 CCTV-5+,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV-5+,https://cdn16.123.rr.kg/163189/cctv5p$IPV4•线路26
 CCTV-6,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?
 CCTV-6,https://cdn.qd.je/163189.php?id=cctv6$IPV4•线路45
+CCTV-6,https://cdn16.123.rr.kg/163189/cctv6$IPV4•线路47
 CCTV-6,https://85e7-724c-30ec-0b74.kylintv.tv/live/cctv6hd_iphone.m3u8$IPV4•线路37
 CCTV-7,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?
 CCTV-7,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2bEV_zkW1hRnWmsZq6rlbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV-7,https://cdn16.123.rr.kg/163189/cctv7$IPV4•线路45
 CCTV-8,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8?
 CCTV-8,https://cdn.qd.je/163189.php?id=cctv8$IPV4•线路40
+CCTV-8,https://cdn16.123.rr.kg/163189/cctv8$IPV4•线路43
 CCTV-9,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?
 CCTV-9,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EgdZMBjOTdDWVEgovFkZoew%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV-9,https://cdn16.123.rr.kg/163189/cctv9$IPV4•线路48
 CCTV-10,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?
 CCTV-10,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Egbbk6OxyTS2utbJWm7Qw1w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-10,https://cdn.qd.je/163189.php?id=cctv10$IPV4•线路50
+CCTV-10,https://cdn16.123.rr.kg/163189/cctv10$IPV4•线路44
 CCTV-11,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?
 CCTV-11,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0RcQQbNseiHvFO8XWf466A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-11,https://cdn.qd.je/163189.php?id=cctv11$IPV4•线路37
+CCTV-11,https://cdn16.123.rr.kg/163189/cctv11$IPV4•线路40
 CCTV-12,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?
 CCTV-12,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E9nVa4WyKpuJgFy6Zh4TplQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-12,https://cdn.qd.je/163189.php?id=cctv12$IPV4•线路48
+CCTV-12,https://cdn16.123.rr.kg/163189/cctv12$IPV4•线路50
 CCTV-13,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?
 CCTV-13,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV-13,https://cdn16.123.rr.kg/163189/cctv13$IPV4•线路46
 CCTV-13,https://10.fast.hidns.vip/163189/cctv13/$IPV4•线路8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-14,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?
 CCTV-14,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EgtTqPYLE5COifF-qvYi2Ig%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-14,https://cdn.qd.je/163189.php?id=cctv14$IPV4•线路46
+CCTV-14,https://cdn16.123.rr.kg/163189/cctv14$IPV4•线路46
 CCTV-15,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?
 CCTV-15,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWyklhmFh7oMx-lG1tNUcSQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-15,https://cdn.qd.je/163189.php?id=cctv15$IPV4•线路36
 CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8$订阅源
+CCTV-15,https://cdn16.123.rr.kg/163189/cctv15$IPV4•线路37
 CCTV-16,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?
 CCTV-16,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-16,https://cdn.qd.je/163189.php?id=cctv16$IPV4•线路28
+CCTV-16,https://cdn16.123.rr.kg/163189/cctv16$IPV4•线路22
 CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?
 CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEkwQnoHNXRDb-IayWakK1A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-17,https://cdn.qd.je/163189.php?id=cctv17$IPV4•线路36
+CCTV-17,https://cdn16.123.rr.kg/163189/cctv17$IPV4•线路39
 CETV-2,https://live.chinacert.cftest5.cn/cnmg/live/923287211$IPV4•线路8
 
 💰央视付费频道,#genre#
@@ -112,6 +130,7 @@ CCTV-164K,http://74.91.26.218:82/live/cctv16hd.m3u8
 广东卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.103:5140
 南国都市4K,http://rihou.cc:555/tv/南国都市4K
 南国都市4K,https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
+南国都市4K,http://r.jdshipin.com/nWaZO$订阅源
 深圳卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
 深圳卫视4K,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 深圳卫视4K,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -222,15 +241,17 @@ CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 中天新闻,http://rihou.cc:555/tv/[Hk]中天新聞
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
 中天新闻,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
-中天新闻,http://jnzq.ohoyee.com:9080/live/332123-ztxw2.m3u8
+中天新闻,http://173.208.234.146/live/ctinews.m3u8
 中天新闻,http://safe.shanghairta.com:8081/live/555ztxw.m3u8
 中天新闻,http://hsjky.com.cn:8081/live/111ztxw.m3u8
+中天新闻,rtmp://47.238.2.198/live/888ztxw
+中天新闻,https://mqitv.luckyboy.cc.cd/live1015/index.m3u8
 中天新闻,rtmp://221.4.216.91/live/332123-ztxw
 中天新闻,http://www.ipanlian.com:8080/live/222ztxw.m3u8
 中天新闻,http://8.138.230.74:8081/live/111ztxw.flv
 中天新闻,http://8.148.24.139:8081/live/555ztxw.m3u8
 中天新闻,http://111.0.115.129:8081/live/222ztxw.m3u8
-中天新闻,https://dfe3-6a12-2f81-6b56.kylintv.tv/live/cti_iphone.m3u8$IPV4•线路5
+中天新闻,http://www.kaniptv.cn/uadl.php?etoken=d2A8AIvYd8EFBaFDYIaOpFlbnAGwT%2FzT3lJSGYFwvgol4EZyKQTj6iqieNoVSedQB7du8u8FvH6GkW3K55fdgSyz%2Bm6qDQE7VEDQrUI4pHxuGUK%2B2Moqi7uqHl1Usa0nM%2FeuUhr38UbwWjHq0iTE49MHRieGi8xEW2UORihsI6Vhzh01XeSfzKQMo%2FPgdof6wiF%2FL17shfM%2F3Loq8vPfAZPPboYmlwx%2BqK65UJg%2Bl3NONW9We0VFp1%2FLeniAGYqbuG6XxaBKLWp8FinNye6bIA0YR7hpqa54fwY4DsLYfoR8uC79%2BIT66Kxd5UyX5kbZumnCbPufkfFtMUYt%2FPe7%2Bw%3D%3D
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰中文,http://111.221.137.234:44330/tsfile/live/0141_2.m3u8?key=txiptv&playlive=0&authid=0
 凤凰中文,http://www.kaniptv.cn/uadl.php?etoken=O1q3Z18SS%2BUUkDxIOETBxSx6RSVzboPmhMiqdSd4A1wKC2yamgRq8MreGEFleWTL9jKa8g6DUSUd9gB8HWUDxxKHrm%2FG2WMYigEgYgS4wye9wWRNk0K0DfuNg8EaNHafcMCup5PMNPngGS1ggK%2F2kFnDvZ7GK93kc5RWK19D7HDEaVRxUIuP0rdoKig5mNB76IcwPdmNxavoYFizyGJjCFwjYVez%2BsfNaz7Q8T2fWu6%2Fy2uDvuOymrTaU3UifTlXm%2FU4tKi%2FMW5sw3EbXzRzF8vAxfgoR1Ar%2Bf4hp22mt0BPjUbaB10d71pMjMESNqzM2r8B%2FVD123ouGyDhtfUXLA%3D%3D
@@ -245,7 +266,7 @@ CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 凤凰中文,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信酒店
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰中文,https://php.jdshipin.com:2096/smt.php?id=phoenixtv_hd
-凤凰中文,https://cdn6.cc.cd/163189/fhzw$IPV4•线路2
+凤凰中文,https://cdn.qd.je/163189/fhzw$IPV4•线路20
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰资讯,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 凤凰资讯,https://vcstiok.serv00.net/fhxyh.php?from=web&id=fhzx$fhx
@@ -256,8 +277,10 @@ CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$郑州酒店
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
-凤凰资讯,https://cdn6.cc.cd/163189/fhzx$IPV4•线路2
+凤凰资讯,https://cdn.qd.je/163189/fhzx$IPV4•线路22
 凤凰资讯,https://cdn.qd.je/163189.php?id=fhzx$IPV4•线路18
+凤凰资讯,https://cdn6.cc.cd/163189/fhzx$IPV4•线路2
+凤凰资讯,https://cdn6.123.rr.kg/163189/fhzx$IPV4•线路14
 凤凰香港,http://zwg6818.vicp.net:28000/bysid/85
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 凤凰香港,http://115.44.140.170:18180/TV00000000000000000024@HHZT
@@ -267,8 +290,11 @@ CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
 凤凰香港,https://php.jdshipin.com:2096/smt.php?id=hkphoenix_twn
+凤凰香港,https://cdn.qd.je/163189/fhhk$IPV4•线路18
 凤凰香港,https://cdn6.cc.cd/163189/fhhk$IPV4•线路2
 凤凰香港,https://cdn.qd.je/163189.php?id=fhhk$IPV4•线路17
+凤凰香港,https://cdn6.123.rr.kg/163189/fhhk$IPV4•线路13
+凤凰香港,https://sys.lysvc.cc/iptv_test/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&t=1772756218&token=f9fb354d708b6f81b24c003f385ee5fe$订阅源
 翡翠台,https://10.fast.hidns.vip/163189/fct/
 翡翠台,http://116.77.239.26:44300/tsfile/live/0141_1.m3u8
 翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/
@@ -287,6 +313,7 @@ CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
 明珠台,http://smt.1678520.xyz/smt3.2.3.php?id=pearl_twn
 明珠台,https://cdn.qd.je/163189.php?id=mzt$IPV4•线路17
+明珠台,https://cdn6.123.rr.kg/163189/mzt$IPV4•线路9
 寰宇新闻,http://rihou.cc:555/tv/寰宇新闻
 寰宇新闻,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
 寰宇新闻,http://jnzq.ohoyee.com:9080/live/332123-hyxw.m3u8
@@ -295,6 +322,7 @@ CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
+TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$IPV4•线路1
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8$官网
 中视,rtmp://f13h.mine.nu:1935/sat/tv091
 中视,http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1782639885837
@@ -309,13 +337,16 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 无线新闻,https://hls.iill.top/api/TVB-News/index.m3u8
 无线新闻,http://smt.1678520.xyz/smt3.2.3.php?id=inews_twn
 无线新闻,http://r.jdshipin.com/CkuBd
-无线新闻,https://cdn.qd.je/163189.php?id=wxxw$IPV4•线路10
 无线新闻,https://cdn6.cc.cd/163189/wxxw$IPV4•线路1
+无线新闻,https://cdn.qd.je/163189/wxxw$IPV4•线路9
+无线新闻,https://cdn.qd.je/163189/wxxwt$IPV4•线路10
+无线新闻,https://cdn.qd.je/163189.php?id=wxxw$IPV4•线路10
 无线新闻,https://cdn6.cc.cd/163189/wxxwt$IPV4•线路2
+无线新闻,https://cdn6.123.rr.kg/163189/wxxw$IPV4•线路4
+无线新闻,https://cdn6.123.rr.kg/163189/wxxwt$IPV4•线路5
+无线新闻,http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1B:79:53:05:29&stream=1495601$IPV4•线路8
 东森电影,http://rihou.cc:555/tv/东森电影
 东森电影,https://smt.1678520.xyz/163189/a2c09ea65fb10aa2
-东森电影,https://cdn.qd.je/163189.php?id=dsdy$IPV4•线路4
-东森电影,https://smt.1678520.xyz/163189/dsdy$IPV4•线路1
 靖天资讯,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv065
 
 🎬电影频道,#genre#
@@ -325,6 +356,7 @@ CHC动作电影,http://120.238.84.45:9901/tsfile/live/1094_1.m3u8?key=txiptv&pla
 CHC动作电影,https://stream.freetv.fun/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944d0cb17f36e.ctv$LR•IPV4『线路54』
 纬来电影,http://rihou.cc:555/tv/纬来电影
 靖天映画,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv055
+靖天映画,https://cdn.qd.je/163189/jtyh$IPV4•线路5
 靖天映画,https://cdn12.178.indevs.in/163189/jtyh$IPV4•线路1
 靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
 靖天戏剧,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv058
@@ -347,8 +379,9 @@ CHC动作电影,https://stream.freetv.fun/2f2e29b8759a2458730dc1f368602447269195
 广东体育,http://www.yahao.host:4022/udp/239.77.0.112:5146
 广东体育,http://yanshifen.top:8889/udp/239.77.0.112:5146
 广东体育,http://wmh.wmh.ink:6633/udp/239.77.0.112:5146
-广东体育,https://cdn.qd.je/163189.php?id=gdty$IPV4•线路124
+广东体育,https://cdn.qd.je/163189/gdty$IPV4•线路127
 广东体育,https://2.fast.hidns.vip/163189/gdty$IPV4•线路2
+广东体育,https://cdn.qd.je/163189.php?id=gdty$IPV4•线路124
 风云足球,http://173.208.187.18:82/live/fyzq.m3u8?jsbt=1760355398&jsbk=d838949ce8ba43fabfa8e16a02449bcf
 风云足球,http://173.208.187.18:82/live/fyzq.m3u8?jsbt=1760496962&jsbk=5b91869c876cff30aa885075cffa7b45
 风云足球,http://61.184.46.85:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -373,8 +406,8 @@ Tennis Channel,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelt
 🏛海外新闻,#genre#
 CGTN,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eb26wc0XXKkqPiVtXlNQMiQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CGTN,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227030/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWR3JI0iklU2klIzSzhH6nA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-CGTN,https://0472.org/hls/cgtn.m3u8$订阅源
 CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8$订阅源
+CGTN,https://0472.org/hls/cgtn.m3u8$订阅源
 BBC News,https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8
 BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -386,7 +419,6 @@ BBC News,https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld
 Euronews,https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8
 Euronews,https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 Euronews,https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
-Euronews,https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8$订阅源
 CNN International,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN International,https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 CNN International,https://jmp2.uk/stvp-GBBD1900008O3
@@ -419,9 +451,8 @@ Al Jazeera English,https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 Al Jazeera English,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源
-CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8$订阅源
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8$订阅源
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8$订阅源
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8$订阅源
 Tehran TV,https://lenz.splus.ir/PLTV/88888888/224/3221226141/index.m3u8
 Mohabat TV,http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
 Baran TV,https://lenz.splus.ir/PLTV/88888888/224/3221226902/index.m3u8
@@ -429,9 +460,9 @@ ITV,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120268
 TRT World,https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 TRT World,https://tv-trtworld.medya.trt.com.tr/master.m3u8
 RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-RT News,https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist720p.m3u8$订阅源
 RT News,https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8$订阅源
 RT News,https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8$订阅源
+RT News,https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist720p.m3u8$订阅源
 RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8$订阅源
 Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 NEWSMAX,https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
@@ -447,13 +478,12 @@ Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch
 新动漫,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/ydcmxdm/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600603&netType=0&sid=5910022319&pid=2028597139&timestamp=20260707200228&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930269&ParentNodeID=-99&assertID=5910022319&client_ip=171.8.79.254&SecurityKey=20260707200228&promotionId=&mvid=5900006786&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fc900147306f08529094471b2ba396b2&sv=10004&ct=android$订阅源
 24H国漫热播,https://www.goodiptv.club/yy/1353937086$订阅源
 浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8$订阅源
-浙江少儿,http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8$订阅源
 七龙珠,https://live.metshop.top/huya/11601966$订阅源
 火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866$订阅源
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
 中华小当家,https://live.metshop.top/huya/11342413$订阅源
-经典动漫,https://www.goodiptv.club/yy/24180320$订阅源
 经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
+经典动漫,https://www.goodiptv.club/yy/24180320$订阅源
 
 🎵音乐频道,#genre#
 CCTV-15,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?
@@ -462,4 +492,4 @@ CCTV-15,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?Guar
 风云音乐,http://120.238.84.45:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🕘️更新时间,#genre#
-2026-07-18 11:07:13,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
+2026-07-22 14:45:47,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
