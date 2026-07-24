@@ -53,8 +53,6 @@
 
 
 
-
-
 GitHub · Where software is built
 
 
@@ -115,6 +113,14 @@ Skip to content
 
 
 
+
+
+
+
+
+
+
+
 Navigation Menu
 
 Toggle navigation
@@ -139,11 +145,12 @@ Toggle navigation
             Sign in
           
 
-
- 
+  
 
 
 Appearance settings
+ 
+
 
 
 
@@ -353,14 +360,11 @@ Query
                 Sign up
               
 
-
- 
+  
 
 
 Appearance settings
-
-
-
+ 
 Resetting focus
 
 
