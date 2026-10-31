@@ -2382,7 +2382,9 @@ https://d25w9q07b2mtmw.cloudfront.net/live/master_4.m3u8$订阅源
 #EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sky News.png" group-title="🏛海外新闻",Sky News
 http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/75411.ts$订阅源
 #EXTINF:-1 tvg-id="i24 news" tvg-name="i24 news" tvg-logo="https://www.xn--rgv465a.top/tvlogo/i24 news.png" group-title="🏛海外新闻",i24 news
-https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/playlist-hls.m3u8
+https://hlspackager.akamaized.net/live/DB/i24_ENGLISH/HLS/i24_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="i24 news" tvg-name="i24 news" tvg-logo="https://www.xn--rgv465a.top/tvlogo/i24 news.png" group-title="🏛海外新闻",i24 news
+https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="https://www.xn--rgv465a.top/tvlogo/France 24.png" group-title="🏛海外新闻",France 24
 https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/1080p/index.m3u8$订阅源
 #EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="https://www.xn--rgv465a.top/tvlogo/France 24.png" group-title="🏛海外新闻",France 24
