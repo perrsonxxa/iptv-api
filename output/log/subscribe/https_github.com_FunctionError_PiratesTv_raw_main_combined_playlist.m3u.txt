@@ -115,7 +115,6 @@ Skip to content
 
 
 
-
 Navigation MenuSign inProductsPlatformGitHubRepository hosting, code review, and collaborationCopilotAI coding agent for tasks, projects, and automated workBuild & ShipActionsCI/CD and automationCode QualityQuality analysis, fixes, and enforcementCodespacesCloud development environmentsSecureCode SecurityVulnerability detection and remediationSecret ProtectionSecret scanning and leak preventionAll FeaturesDevelopersLearnDocumentationTrainingCertificationsBuildBuild with CopilotCustomize CopilotIntegrationsExploreTrending reposGitHub SponsorsDeveloper articlesChangelogChangelogYour source for the latest features, improvements, and fixes across GitHub products, all in one place.BusinessesBy StageEnterprisesTeamStartupsNonprofitsBy IndustryHealthcareFinancial servicesManufacturingGovernmentSee all industriesEvaluate GitHubWhy GitHubCustomer StoriesBusiness insightsTrust CenterAdd-onsGitHub Advanced SecurityEnterprise-grade code securityCopilot for businessEnterprise-grade AI featuresPremium SupportEnterprise-grade 24/7 supportResourcesLearn & ConnectDocumentationResource centerBlogEvents & webinarsCommunity ForumCustomer StoriesIntegrationsSupportCustomer supportTrainingGitHub StatusCompanyAboutPartnersChangelogGitHub UniverseGitHub UniverseThe event for developers, by developers — talks, workshops, and what’s next for GitHub.PricingSearch/Sign inSign upAppearance settings
 
 
