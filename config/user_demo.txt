@@ -161,7 +161,9 @@ IPTV经典电影
 东森洋片
 东森超视
 iFilm
-
+Avang TV
+Navahang TV
+PMC
 
 🏀体育频道,#genre#
 广东体育
@@ -219,7 +221,6 @@ Tehran TV
 ISNA
 Mohabat TV
 Baran TV
-ITV
 Channel 4
 FIVE
 TRT World
@@ -230,6 +231,7 @@ BBC Earth
 GB News
 NHK
 Arirang
+BBC News Persian
 
 🪁动画频道,#genre#
 少儿动画
